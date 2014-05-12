@@ -4,6 +4,7 @@ import re
 
 f = open("emails_parsed_0.json")
 emails = json.load(f)
+dates = []
 
 for email in emails:
   date = email['date']
@@ -21,4 +22,7 @@ for email in emails:
   		pass
   if not found_format:
     print "ERROR:", date
+  dates.append(int(date_object.strftime('%s')))
   # print date_object
+
+print json.dumps(dates)
