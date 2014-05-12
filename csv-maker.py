@@ -6,6 +6,11 @@ f = open("emails_parsed_0.json")
 emails = json.load(f)
 dates = []
 
+cats = []
+category_file = open("categories.txt")
+for cat in category_file:
+  cats.append(cat.replace("\n", ""))
+
 output_file = open("times.csv", "w")
 
 SONG_START = 1385337600
@@ -15,11 +20,15 @@ FIRST_GAP = SECOND_GAP / 24
 MIN_DATE = 1385466870
 MAX_DATE = 1398809693
 
-def time_coord(date):
+def time_coord(ALLDATES, date):
   bucket = int(1.0 * (date - SONG_START) / SECOND_GAP)
   small_bucket = int(1.0 * (date - SONG_START - bucket * SECOND_GAP) / FIRST_GAP )
+  # print bucket, small_bucket
 
-  print bucket, small_bucket
+  dt = small_bucket + bucket * 24
+  while dt in ALLDATES:
+    dt += 1
+  return dt
 
 
 def get_list_of_words(mystr):
@@ -28,7 +37,11 @@ def get_list_of_words(mystr):
 def length_email(email):
   return len(get_list_of_words(email['email_text']))
 
-for email in emails[0:15]:
+ALLDATES = {}
+
+for i in range(len(emails)):
+  email = emails[i]
+  category = cats[i]
   date = email['date']
   # print date
   date = re.sub(" \+[0-9]+", "", date)
@@ -45,8 +58,11 @@ for email in emails[0:15]:
   if not found_format:
     print "ERROR:", date
   int_date = int(date_object.strftime('%s'))
+  # print int_date >= MIN_DATE
   if int_date >= MIN_DATE:
-    output_file.write("0," + str( length_email(email) ) + "," + str( time_coord(int_date) ) + "\n")
+    tc = time_coord(ALLDATES, int_date)
+    ALLDATES[tc] = 1
+    output_file.write(str(category) + "," + str( length_email(email) ) + "," + str(tc) + "\n")
   # print date_object
 
 output_file.close()
