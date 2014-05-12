@@ -65,12 +65,6 @@ def parse_email(email_rows):
             else:
                 plain_text = False
 
-    # print "========== EMAIL =========="
-    # print "sender: ", sender
-    # print "email_list: ", email_list
-    # print "date: ",  date
-    # print "subject: ", subject
-    # print "email_text: ", email_text
     context = {
         'sender': sender, 
         'email_list': email_list,
@@ -115,3 +109,15 @@ print len(emails)
 output_file = open("emails_parsed_0.json", "w")
 output_file.write( json.dumps(emails) )
 output_file.close()
+
+
+detailed_output_file = open("emails_detailed.txt", "w")
+for email in emails:
+    detailed_output_file.write( "========== EMAIL ==========\n\n" )
+    detailed_output_file.write("==== sender: " + email['sender'] + '\n')
+    detailed_output_file.write("==== email_list: " + email['email_list'] + '\n')
+    detailed_output_file.write("==== date: " + email['date'] + '\n')
+    detailed_output_file.write("==== subject: " + email['subject'] + '\n')
+    detailed_output_file.write("==== email_text: \n" + email['email_text'] + '\n')
+
+detailed_output_file.close()
