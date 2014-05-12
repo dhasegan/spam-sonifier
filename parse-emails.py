@@ -116,15 +116,15 @@ def parse_all_emails(emails_text_filename):
 
 
 emails = []
-email_filenames = ["emails-1-1000.txt", "emails-2000-3000.txt", "emails-3000-4000.txt", "emails-4000-5000.txt", "emails-5000-6000.txt", "emails-6000-6900.txt"]
-# email_filenames = ["emails-first-15.txt"]
+# email_filenames = ["emails-1-1000.txt", "emails-2000-3000.txt", "emails-3000-4000.txt", "emails-4000-5000.txt", "emails-5000-6000.txt", "emails-6000-6900.txt"]
+email_filenames = ["emails-first-15.txt"]
 
 for email_filename in email_filenames:
     emails = emails + parse_all_emails(email_filename)
 
 print len(emails)
 
-output_file = open("emails_parsed_0.json", "w")
+output_file = open("emails_parsed_1.json", "w")
 output_file.write( json.dumps(emails) )
 output_file.close()
 
