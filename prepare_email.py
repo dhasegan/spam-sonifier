@@ -28,7 +28,7 @@ for email in emails:
 
 NONUNIQUE_WORDS = []
 for k,v in ALL_WORDS.iteritems():
-    if v > 1:
+    if v > 2:
         NONUNIQUE_WORDS.append( [k, v] )
 
 NONUNIQUE_WORDS = sorted(NONUNIQUE_WORDS, key=lambda x: x[1], reverse=True)
