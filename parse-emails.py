@@ -11,6 +11,10 @@ def is_email_valid(context):
 
     return True
 
+def delete_footer(email):
+    sep = "________________________________"
+    return email.split(sep, 1)[0]
+
 def parse_email(email_rows):
     email_details = {}
 
@@ -56,7 +60,7 @@ def parse_email(email_rows):
         else:
             if plain_text and not re.match("^--", row):
                 if not headers:
-                    email_text = email_text + row
+                    email_text = email_text + row.replace("=\n", "")
                 else:
                     if row == "\n":
                         headers = False
@@ -70,7 +74,7 @@ def parse_email(email_rows):
         'email_list': email_list,
         'subject': subject,
         'date': date,
-        'email_text': email_text
+        'email_text': delete_footer(email_text)
     }
 
     if is_email_valid(context):
