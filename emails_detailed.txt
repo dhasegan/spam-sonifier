@@ -244,16 +244,6 @@ Jeta
 
 ========== EMAIL ==========
 
-==== sender: "Salimova, Diyora" <d.salimova@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Sun, 12 May 2013 11:03:04 +0000
-==== subject: [nordmetall-students] Math Support Center, Nordmetall  QSA,
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: Trevor Sloughter <t.sloughter@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>
@@ -689,16 +679,6 @@ Thursday, May 16: 12:30 - 14:00
 Dr. Aidan Boyle and Prof. Adalbert Wilhelm
 
 
-
-
-========== EMAIL ==========
-
-==== sender: "Salimova, Diyora" <d.salimova@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Wed, 15 May 2013 10:53:40 +0000
-==== subject: [nordmetall-students] Math Support Center, Nordmetall  QSA,
-==== email_text: 
 
 
 ========== EMAIL ==========
@@ -2164,17 +2144,6 @@ Maame.
 
 
 .... due to bad weather we will perform at 19:30 in Theatre Space, instead of outside Nordmetall. Entrance is the same as for the Cinema and there will be no entreance fee. Just pass by and enjoy the adventures of the knights, royals and magical creatures. Feel free to bring your own sword and join in.
-
-
-
-========== EMAIL ==========
-
-==== sender: "Brown, Anna Leigh" <a.brown@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>, Krupp Students	<krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Mon, 20 May 2013 17:26:20 +0000
-==== subject: [nordmetall-students] 19.30. THEATER SPACE. FREE PLAY.
-==== email_text: 
 
 
 
@@ -4940,16 +4909,6 @@ Varun
 ==== subject: [nordmetall-students] 3 Seater Couch for sale -> 20 Euros
 ==== email_text: 
 https://dl.dropboxusercontent.com/u/32344048/IMG_20130523_145939.jpg
-
-========== EMAIL ==========
-
-==== sender: "Salimova, Diyora" <d.salimova@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Sun, 26 May 2013 14:55:46 +0000
-==== subject: [nordmetall-students] Math Support Center, Nordmetall  QSA,
-==== email_text: 
-
 
 ========== EMAIL ==========
 
@@ -7732,17 +7691,6 @@ Nice and free stuff outside the c3 a1 triple!
 Ikea lamp, room decorations, office chair, etc.
 
 Come by and grab whatever you want!!
-
-
-========== EMAIL ==========
-
-==== sender: =?iso-8859-1?Q?G=FCden=2C_Sedef?= <s.guden@jacobs-university.de>
-==== email_list: Mercator <mercator-students@jacobs-university.de>, Krupp
-	<krupp-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>, Nordmetal	<nordmetall-students@jacobs-university.de>
-==== date: Sat, 8 Jun 2013 15:47:16 +0000
-==== subject: [nordmetall-students] lotsa free stuff -MC217. eom.
-==== email_text: 
-
 
 
 ========== EMAIL ==========
@@ -14257,16 +14205,6 @@ cheers,
 
 ========== EMAIL ==========
 
-==== sender: Matei, Marius-Febi
-==== email_list: collegeiii-students@jacobs-university.de; krupp-students@jacobs-univers=
-
-==== date: Mon, 6 Jan 2014 22:28:04 +0000
-==== subject: found bobble hat
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: "Christianson, Lara" <l.christianson@jacobs-university.de>
 ==== email_list: "'jacobs-students-announce@lists.jacobs-university.de'
 
@@ -15155,16 +15093,6 @@ College Ring 7 | Post Box 149
 +49 17663849924
 
 
-
-
-========== EMAIL ==========
-
-==== sender: collegeiii-students [collegeiii-students-bounces@lists.jacobs-univers=
-==== email_list: krupp-students@jacobs-university.de; mercator-students@jacobs-universit=
-
-==== date: Mon, 13 Jan 2014 18:28:54 +0000
-==== subject: [collegeiii-students] Mistake in the Recreation Center Opening hou=
-==== email_text: 
 
 
 ========== EMAIL ==========
@@ -17390,16 +17318,6 @@ Registrar
 
 ========== EMAIL ==========
 
-==== sender: "Dreier, Patrick" <p.dreier@jacobs-university.de>
-==== email_list: "Ashraf, Faryal" <f.ashraf@jacobs-university.de>,
-	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Mon, 27 Jan 2014 10:14:08 +0000
-==== subject: [nordmetall-students] ] Book Sale - Spring 2014
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: "Knor, Lucie Anna Christa Maria" <l.knor@jacobs-university.de>
 ==== email_list: "mercator-students@jacobs-university.de"
 	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
@@ -18115,16 +18033,6 @@ Tell me their color and you can come pick them up.
 
 Cheers,
 Alex Popa
-
-
-========== EMAIL ==========
-
-==== sender: "Staufert Carvalho, Erica" <e.staufertcarvalho@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Wed, 29 Jan 2014 17:04:20 +0000
-==== subject: [nordmetall-students] FW: SALE! Books.. General Log 2, STATS Using R,
-==== email_text: 
 
 
 ========== EMAIL ==========
@@ -25392,16 +25300,6 @@ Alyssa and Bogomil (Club Captains)
 
 ========== EMAIL ==========
 
-==== sender: Appiah-Nuamah, Maame Afua Yeboah
-==== email_list: mercator-students@lists.jacobs-university.de; nordmetall-students@lists=
-
-==== date: Mon, 10 Feb 2014 17:13:01 +0000
-==== subject: Selling Schritte International 3
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: "Held, Alexander" <a.held@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>, jacobs-graduates	<jacobs-graduates@jacobs-university.de>
@@ -30005,16 +29903,6 @@ Best,
 Tim
 
 PS: I already ordered a new one from Amazon, I won't steal yours ;)
-
-
-========== EMAIL ==========
-
-==== sender: paperstudio <paperstudio@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>, "v.landers@gmx.de"	<v.landers@gmx.de>
-==== date: Sat, 22 Feb 2014 10:50:08 +0000
-==== subject: [nordmetall-students] WG: The Paperstudio is open tomorrow Sunday
-==== email_text: 
 
 
 ========== EMAIL ==========
@@ -35892,16 +35780,6 @@ Jacobs University Bremen
 
 ========== EMAIL ==========
 
-==== sender: paperstudio <paperstudio@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"Collegiii-students@jacobs-university.de"	<Collegiii-students@jacobs-university.de>,	"graduate-students@jacobs-university.de"	<graduate-students@jacobs-university.de>
-==== date: Sun, 9 Mar 2014 10:56:47 +0000
-==== subject: [nordmetall-students] the paperstudio is open today March 9th from
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: "Zokirova, Nasiba Zokirovna" <n.zokirova@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -36583,17 +36461,6 @@ Check out the website for the available items : http://jacobs-university.de/camp
 See you there!
 
 The Merchandising Team
-
-
-
-========== EMAIL ==========
-
-==== sender: "Behrens, Hannah Michaela" <h.behrens@jacobs-university.de>
-==== email_list: "collegeiii-students@lists.jacobs-university.de"
-	<collegeiii-students@lists.jacobs-university.de>,	"krupp-students@lists.jacobs-university.de"	<krupp-students@lists.jacobs-university.de>,	"nordmetall-students@lists.jacobs-university.de"	<nordmetall-students@lists.jacobs-university.de>,	"mercator-students@lists.jacobs-university.de"	<mercator-students@lists.jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Tue, 11 Mar 2014 10:37:24 +0000
-==== subject: [nordmetall-students] For You
-==== email_text: 
 
 
 
@@ -43813,16 +43680,6 @@ April 2nd, Krupp College/ Multi Media Room
 
 ========== EMAIL ==========
 
-==== sender: mercator-students [mercator-students-bounces@lists.jacobs-university.de] on behalf of Gencer, Selin [s.gencer@jacobs-university.de]
-==== email_list: collegeiii-students@jacobs-university.de; mercator-students@jacobs-university.de; krupp-students@jacobs-university.de; nordmetall-students@jacobs-university.de; jacobs-graduates@jacobs-university.de
-
-==== date: Sat, 29 Mar 2014 18:24:28 +0000
-==== subject: [mercator-students] Selling Cigarettes
-==== email_text: 
-
-
-========== EMAIL ==========
-
 ==== sender: Pulse Express <info@pulseexpress.com>
 ==== email_list: <nordmetall-students@jacobs-university.de>,
 	<mercator-students@jacobs-university.de>,	<krupp-students@jacobs-university.de>,	<collegeiii-students@jacobs-university.de>
@@ -47784,17 +47641,6 @@ Cheers,
 
 Agne & Beni
 5658 & 5659
-
-
-========== EMAIL ==========
-
-==== sender: "Zokirova, Nasiba Zokirovna" <n.zokirova@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Tue, 22 Apr 2014 13:28:21 +0000
-==== subject: [nordmetall-students] Math Support Center 20:00-->22:00 Krupp QSA
-==== email_text: 
-
 
 
 ========== EMAIL ==========

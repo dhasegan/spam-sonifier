@@ -1,6 +1,9 @@
 import re
 import json
 
+def get_list_of_words(mystr):
+    return [s.lower() for s in re.sub("[^\w]", " ",  mystr).split()]
+
 def is_email_valid(context):
     if not "jacobs-university.de" in context['email_list']:
         return False
@@ -21,6 +24,13 @@ def is_email_valid(context):
     if not context['sender'] or not context['email_list'] or not context['date'] or \
         not context['subject'] or not context['email_text']:
             return False
+
+    email_words = get_list_of_words(context['email_text'])
+    email_len = len(email_words)
+    subject_words = get_list_of_words(context['subject'])
+    subject_len = len(subject_words)
+    if email_len == 0 or subject_len == 0:
+        return False
 
     return True
 
