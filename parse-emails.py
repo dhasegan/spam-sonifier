@@ -1,6 +1,16 @@
 import re
 import json
 
+def is_email_valid(context):
+    if not context['sender'] or not context['email_list'] or not context['date'] or \
+        not context['subject'] or not context['email_text']:
+            return False
+
+    if not "jacobs-university.de" in context['email_list']:
+        return False
+
+    return True
+
 def parse_email(email_rows):
     email_details = {}
 
@@ -61,17 +71,17 @@ def parse_email(email_rows):
     # print "date: ",  date
     # print "subject: ", subject
     # print "email_text: ", email_text
-    context = {}
-    if sender and email_list and date and subject and email_text:
-        context = {
-            'sender': sender, 
-            'email_list': email_list,
-            'subject': subject,
-            'date': date,
-            'email_text': email_text
-        }
+    context = {
+        'sender': sender, 
+        'email_list': email_list,
+        'subject': subject,
+        'date': date,
+        'email_text': email_text
+    }
 
-    return context
+    if is_email_valid(context):
+        return context
+    return {}
 
 
 def parse_all_emails(emails_text_filename):
@@ -93,8 +103,14 @@ def parse_all_emails(emails_text_filename):
     return emails
 
 
+emails = []
+email_filenames = ["emails-1-1000.txt", "emails-2000-3000.txt", "emails-3000-4000.txt", "emails-4000-5000.txt", "emails-5000-6000.txt", "emails-6000-6900.txt"]
+# email_filenames = ["emails-first-15.txt"]
 
-emails = parse_all_emails("emails-first-15.txt")
+for email_filename in email_filenames:
+    emails = emails + parse_all_emails(email_filename)
+
+print len(emails)
 
 output_file = open("emails_parsed_0.json", "w")
 output_file.write( json.dumps(emails) )
