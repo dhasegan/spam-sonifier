@@ -530,11 +530,6 @@ Cheers,
 Jeta
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm1lcmNhdG9y
-LXN0dWRlbnRzIG1haWxpbmcgbGlzdA0KbWVyY2F0b3Itc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVu
-aXZlcnNpdHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xp
-c3RpbmZvL21lcmNhdG9yLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -3067,25 +3062,6 @@ If you are interested shoot me an email.
 Have a nice day
 Matthias
 
-
-========== EMAIL ==========
-
-==== sender: "Guo, Linzi" <l.guo@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Wed, 22 May 2013 09:37:04 +0000
-==== subject: [nordmetall-students] Selling Sofa!!!!
-==== email_text: 
-U2VlIHRoZSBwaWN0dXJlIGluIHRoZSBsaW5rISENCkl0IGNhbiBiZSB0dXJuIGludG8gYSBzb2Zh
-IGJlZC4gIEEgYml0IHRvcm4gYnV0IGp1c3QgY292ZXIgaXQgd2l0aCBzb21lIGJlZCBzaGVldCBh
-bmQgeW91IGFyZSBhbGwgc2V0LiAgOikgQ291bGQgYmUgcGlja2VkIHVwIHJpZ2h0IG5vdw0KDQoy
-MCBFdXJvLiBISVQgUkVQTFkhISENCg0KaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29t
-L3UvMjA5MTEwNTgvMjAxMy0wNS0xNSUyMDE1LjEzLjIyLmpwZw0KDQoNCg0KQmVzdCBSZWdhcmRz
-L01pdCBmcmV1bmRsaWNoZW4gR3LDvMOfZW4v56Wd5aW9DQpMaW56aSBHdW8NCg0KQlNjLiBJbnRl
-cm5hdGlvbmFsIExvZ2lzdGljcyBFbmdpbmVlcmluZyBhbmQgTWFuYWdlbWVudCAnMTUNClNjaG9v
-bCBvZiBFbmdpbmVlcmluZyBhbmQgU2NpZW5jZQ0KSmFjb2JzIFVuaXZlcnNpdHkgQnJlbWVuIGdH
-bWJIDQoNCkNvbGxlZ2UgUmluZyA0LCBNYWlsYm94IDg0OQ0KMjg3NTkgQnJlbWVuLCBHZXJtYW55
-DQoNCkUtbWFpbDogbC5ndW9AamFjb2JzLXVuaXZlcnNpdHkuZGUNCg0KDQo
 
 ========== EMAIL ==========
 
@@ -7321,11 +7297,6 @@ Thank you !
 Sincerely,
 Matyas
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -7761,30 +7732,6 @@ Nice and free stuff outside the c3 a1 triple!
 Ikea lamp, room decorations, office chair, etc.
 
 Come by and grab whatever you want!!
-
-
-========== EMAIL ==========
-
-==== sender: =?utf-8?B?VG9tIFN1YmVyZw==?= <t.suberg@jacobs-university.de>
-==== email_list: =?utf-8?B?QzMgU3BhbQ==?= <collegeiii-students@jacobs-university.de>,
-	=?utf-8?B?bm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZQ==?=	<nordmetall-students@jacobs-university.de>,	=?utf-8?B?bWVyY2F0b3Itc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU=?=	<mercator-students@jacobs-university.de>,	=?utf-8?B?a3J1cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU=?=	<krupp-students@jacobs-university.de>
-==== date: Sat, 8 Jun 2013 16:28:27 +0200
-==== subject: [nordmetall-students] =?utf-8?q?Glovesssss?=
-==== email_text: 
-RG9lcyBhbnlib2R5IGhhdmUgZ29hbCBrZWVwZXIgZ2xvdmVzPz8/PyA6KQoKVG9tIFN1YmVyZwoK
-R2VzZW5kZXQgbWl0IG1laW5lbSBIVEMKCkJTYyBJbnRlcm5hdGlvbmFsIExvZ2lzdGljcyBNYW5h
-Z2VtZW50ICYgRW5naW5lZXJpbmcgMjAxNAoKSmFjb2JzIFVuaXZlcnNpdHkgQnJlbWVuCkNhbXB1
-cyBSaW5nIDcKMjg3NTkgfCBCcmVtZW4gfCBHZXJtYW55CgpNb2JpbGU6ICs0OSAxNzggMjg3IDI1
-ODcKCi0tLS0tIFJlcGx5IG1lc3NhZ2UgLS0tLS0KRnJvbTogIk1vb3JlLCBKZXNzYW15biIgPGou
-bW9vcmVAamFjb2JzLXVuaXZlcnNpdHkuZGU+ClRvOiAiY29sbGVnZWlpaS1zdHVkZW50c0BqYWNv
-YnMtdW5pdmVyc2l0eS5kZSIgPGNvbGxlZ2VpaWktc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHku
-ZGU+LCAibm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZSIgPG5vcmRtZXRh
-bGwtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU+LCAibWVyY2F0b3Itc3R1ZGVudHNAamFj
-b2JzLXVuaXZlcnNpdHkuZGUiIDxtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5k
-ZT4sICJrcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZSIgPGtydXBwLXN0dWRlbnRz
-QGphY29icy11bml2ZXJzaXR5LmRlPgpTdWJqZWN0OiBbY29sbGVnZWlpaS1zdHVkZW50c10gRlJF
-RUVFRQpEYXRlOiBTYXQsIEp1biA4LCAyMDEzIDE1OjEzCgoK
-
 
 
 ========== EMAIL ==========
@@ -8382,25 +8329,6 @@ Telephone: +49 421 200-3072<tel:%2B49%20421%20200-3967>
 Fax: +49 421 200-3955<tel:%2B49%20421%20200-3955>
 Office: South Hall, Room 215
 www.jacobs-university.de<http://www.jacobs-university.de/>
-
-========== EMAIL ==========
-
-==== sender: "C. Claudius J. Hardt" <c.hardt@jacobs-university.de>
-==== email_list: <krupp-students@jacobs-university.de>,
-	<mercator-students@jacobs-university.de>,	<collegeiii-students@jacobs-university.de>,	<nordmetall-students@jacobs-university.de>,	<jacobs-talk@jacobs-university.de>, <ses-graduates@jacobs-university.de>
-==== date: Thu, 13 Jun 2013 21:06:17 +0200
-==== subject: [nordmetall-students] 2 Euro or Chocolate?
-==== email_text: 
-RGVhciBhbGwsCgphcmUgeW91IGluIG5lZWQgb2YgbW9uZXkgb3IgY3JhdmluZyBmb3IgY2hvY29s
-YXRlPwoKSSBhbSBsb29raW5nIGZvciBwYXJ0aWNpcGFudHMgZm9yIGEgdmVyeSBTSE9SVCBleHBl
-cmltZW50ICg1IG1pbiBvbmx5KS4gVGhlIHN0dWR5IGlzIGFib3V0IGxpZ2h0IHBlcmNlcHRpb24g
-YW5kIHdpbGwgYmUgY29uZHVjdGVkIGluIExhYiBJSUkgKG9wcG9zaXRlIFJlc2VhcmNoIElWKS4g
-WW91IHdpbGwgZ2V0IDLigqwgb3IgY2hvY29sYXRlIGZvciB5b3UgcGFydGljaXBhdGlvbi4KCiEh
-ClBsZWFzZSByZXBseSB0byBpLm5ldW1hbm5AamFjb2JzLXVuaXZlcnNpdHkuZGUgaWYgeW91IGFy
-ZSBpbnRlcmVzdGVkISEod3JpdGUgYW4gZW1haWwgdG8gaS5uZXVtYW5uQGphY29icy11bml2ZXJz
-aXR5LmRlKQoKCkNoZWVycywKSW5zYQoKCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fCm5vcmRtZXRhbGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0Cm5vcmRtZXRh
-bGwtc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUKaHR0cDovL2xpc3RzLmphY29i
 
 ========== EMAIL ==========
 
@@ -10981,25 +10909,6 @@ Email: e.bendo@jacobs-university.de
 
 ========== EMAIL ==========
 
-==== sender: "Skopp, Amelie" <a.skopp@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jabobs-university.de"	<mercator-students@jabobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Wed, 11 Dec 2013 13:46:49 +0000
-==== subject: [nordmetall-students] GenBCCB I Tutorial
-==== email_text: 
-RGVhciBhbGwsDQoNClRoZSB0d28gbGFzdCB0dXRvcmlhbHMgZm9yIHlvdXIgZmluYWwgcHJlcGFy
-YXRpb24gd2lsbCB0YWtlIHBsYWNlIG9uOg0KDQotIEZyaWRheSwgMTIvMTMsIExIIFJlcyBJSSwg
-OCBwbQ0KLSBTdW5kYXksIDEyLzE1LCBMSCBSZXMgSUksIDUgcG0NCg0KR29vZCBsdWNrIHdpdGgg
-eW91ciBwcmVwYXJhdGlvbiBhbmQgc2VlIHlvdSB0aGVuIDopDQoNCkFtw6lsaWUgDQoNCkFtw6ls
-aWUgU2tvcHANCkJpb2NoZW1pc3RyeSAmIENlbGwgQmlvbG9neSAnMTQNCkhlYWQgVGVhY2hpbmcg
-QXNzaXN0YW50IA0KQ29sbGVnZSBJSUkgDQpNYWlsYm94IDY1Mg0KYS5za29wcEBqYWNvYnMtdW5p
-dmVyc2l0eS5kZSANCmFza29wcEBzdGFuZm9yZC5lZHUNCkphY29icyBVbml2ZXJzaXR5IEJyZW1l
-bgpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwpub3JkbWV0
-YWxsLXN0dWRlbnRzIG1haWxpbmcgbGlzdApub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFu
-
-========== EMAIL ==========
-
 ==== sender: "Woebs, Tanja Christa" <t.woebs@jacobs-university.de>
 ==== email_list: "college-nordmetall@jacobs-university.de"
 	<college-nordmetall@jacobs-university.de>
@@ -11193,11 +11102,6 @@ Daniela Fernandez Duran
 Global Economics and Management
 Jacobs University Bremen'14
 
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -11519,25 +11423,6 @@ Follow us on Facebook<https://www.facebook.com/pages/Career-Services-Center-Jaco
 
 ========== EMAIL ==========
 
-==== sender: "Albrod, Pauline" <p.albrod@jacobs-university.de>
-==== email_list: Nordmetall <nordmetall-students@jacobs-university.de>, Krupp
-	<krupp-students@jacobs-university.de>, Mercator	<mercator-students@jacobs-university.de>, College 3	<collegeiii-students@jacobs-university.de>
-==== date: Fri, 13 Dec 2013 15:32:54 +0000
-==== subject: [nordmetall-students] Samsung Galaxy S3
-==== email_text: 
-U2VsbGluZyBteSB3aGl0ZSBTYW1zdW5nIEdhbGF4eSBTMyAzMkdCIExURQ0KT25lIHllYXIgb2xk
-DQpNaW5vciBzY3JhdGNoZXMNCk5ldyBzcGVha2Vycw0KQ29tZXMgd2l0aCBmb3VyIGNvdmVycyAo
-d2hpdGUsIGJsYWNrLCBwdXJwbGUsIHNlZS10aHJvdWdoKQ0KMzAw4oKsIOKAlCBQcmljZSBpcyBu
-ZWdvdGlhYmxlIChsaXN0IHByaWNlOiA3NTDigqwpDQoNCkhpdCByZXBseSBpZiB5b3VyIGFyZSBp
-bnRlcmVzdGVkLg0KDQoNCkNoZWVycyBhbmQgaGF2ZSBhIG5pY2Ugd2Vla2VuZCENCg0KDQpQYXVs
-aW5lIEFsYnJvZA0KX19fX19fX19fX19fX19fX19fXw0KDQpKYWNvYnMgVW5pdmVyc2l0eSAyMDE0
-DQpCU2MgSW50ZWdyYXRlZCBFbnZpcm9ubWVudGFsIFN0dWRpZXMNCg0KDQpKYWNvYnMgVW5pdmVy
-c2l0eSBCcmVtZW4NCk1haWxib3ggTm8uIDIxDQpDb2xsZWdlIFJpbmcgNw0KMjg3NTkgQnJlbWVu
-DQoNClBob25lOiArNDkgMTcyIDc3OTMyMzEgfCBMYW5kbGluZTogKzQ5IDQyMSAyMDA1NzM1DQoN
-Cg=
-
-========== EMAIL ==========
-
 ==== sender: "Schuldt, Lena" <l.schuldt@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
@@ -11574,26 +11459,6 @@ We're having Math. Support Center today from 4 to 6 p.m. in Nordmetall Conferenc
 
 Best wishes,
           Petre
-
-
-========== EMAIL ==========
-
-==== sender: "Albrod, Pauline" <p.albrod@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Sat, 14 Dec 2013 17:10:50 +0000
-==== subject: [nordmetall-students] Phone for sale
-==== email_text: 
-DQpTZWxsaW5nIG15IHdoaXRlIFNhbXN1bmcgR2FsYXh5IFMzIDMyR0IgTFRFDQpPbmUgeWVhciBv
-bGQNCk1pbm9yIHNjcmF0Y2hlcw0KTmV3IHNwZWFrZXJzDQpDb21lcyB3aXRoIGZvdXIgY292ZXJz
-ICh3aGl0ZSwgYmxhY2ssIHB1cnBsZSwgc2VlLXRocm91Z2gpDQozMDDigqwg4oCUIFByaWNlIGlz
-IG5lZ290aWFibGUgKGxpc3QgcHJpY2U6IDc1MOKCrCkNCg0KSGl0IHJlcGx5IGlmIHlvdXIgYXJl
-IGludGVyZXN0ZWQuDQoNCg0KQ2hlZXJzIGFuZCBoYXZlIGEgbmljZSB3ZWVrZW5kIQ0KDQoNClBh
-dWxpbmUgQWxicm9kDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KDQpKYWNvYnMgVW5p
-dmVyc2l0eSAyMDE0DQpCU2MgSW50ZWdyYXRlZCBFbnZpcm9ubWVudGFsIFN0dWRpZXMNCg0KSmFj
-b2JzIFVuaXZlcnNpdHkgQnJlbWVuDQpNYWlsYm94IE5vLiAyMQ0KQ29sbGVnZSBSaW5nIDcNCjI4
-NzU5IEJyZW1lbg0KDQpQaG9uZTogKzQ5IDE3MiA3NzkzMjMxDQpMYW5kbGluZTogKzQ5IDQyMSAy
-MDAgNTczNQ0K
 
 
 ========== EMAIL ==========
@@ -11832,36 +11697,6 @@ please
 
 ========== EMAIL ==========
 
-==== sender: "Rennie, Robert" <r.rennie@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Mon, 16 Dec 2013 11:25:03 +0000
-==== subject: [nordmetall-students] Christmas and New Year's Dinners
-==== email_text: 
-RGVhciBhbGwsDQoNClRoaXMgeWVhciwgQ29sbGVnZSAzIGhhcyB0aGUgaG9ub3VyIG9mIGhvc3Rp
-bmcgYm90aCB0aGUgQ2hyaXN0bWFzIGFuZCBOZXcgWWVhciBEaW5uZXJzIG9uIGNhbXB1cy4NCg0K
-QmV0d2VlbiAxMHRoIERlY2VtYmVyIOKAkyAxN3RoIERlY2VtYmVyLCB5b3UgY2FuIGJ1eSB2b3Vj
-aGVycyBmb3IgQk9USCB0aGUgQ2hyaXN0bWFzIERpbm5lciBhbmQgTmV3IFllYXLigJlzIEV2ZSBE
-aW5uZXIgZnJvbSBhbnkgb2YgdGhlIDQgY29sbGVnZSBzZXJ2ZXJpZXMgb24gY2FtcHVzLiBEdXJp
-bmcgdGhpcyB0aW1lLCB0aGUgdm91Y2hlcnMgY29zdCDigqwxMCB3aGljaCBpbmNsdWRlIGZvb2Qs
-IGRyaW5rIGFuZCBlbnRlcnRhaW5tZW50LiBQbGVhc2Ugbm90aWNlIHRoYXQgdGhpcyByZXByZXNl
-bnRzIHRoZSAnRWFybHkgQmlyZCBPcHRpb24nIHRvIGZhY2lsaXRhdGUgYWR2YW5jZSBwbGFubmlu
-ZyBieSBBcHBldGl0by4NCg0KVm91Y2hlcnMgZm9yIGJvdGggZXZlbnRzIGNhbiBzdGlsbCBiZSBi
-b3VnaHQgYWZ0ZXIgMTd0aCBEZWNlbWJlciBidXQgd2lsbCBjb3N0IOKCrDE1ICghISEpLCBzbyBn
-ZXQgdGhlbSBhcyBzb29uIGFzIHlvdSBjYW4hDQoNClRoaXMgeWVhciwgdGhlIENocmlzdG1hcyBE
-aW5uZXIgKDI0dGggRGVjZW1iZXIpIHdpbGwgdGFrZSBwbGFjZSBpbiB0aGUgSVJDLCB3aGlsZSB0
-aGUgTmV3IFllYXLigJlzIEV2ZSBEaW5uZXIgKDMxc3QgRGVjZW1iZXIpIHdpbGwgdGFrZSBwbGFj
-ZSBpbiB0aGUgQ29sbGVnZSAzIHNlcnZlcnkuDQpGb3IgQ2hyaXN0bWFzIERpbm5lciwgdGhlcmUg
-d2lsbCBiZSB0d28gb3B0aW9ucywgYSB0cmFkaXRpb25hbCBkdWNrIGRpc2ggb3IgYSB2ZWdldGFy
-aWFuIG9wdGlvbi4gTmV3IFllYXLigJlzIERpbm5lciB3aWxsIGJlIGluIHRoZSBmb3JtIG9mIGEg
-YnVmZmV0Lg0KUGxlYXNlIGtlZXAgaG9sZCBvZiB5b3VyIHZvdWNoZXIgYW5kIGJyaW5nIGl0IHdp
-dGggeW91IHRvIHRoZSBEaW5uZXIgaW4gb3JkZXIgdG8gZ2V0IHlvdXIgbWVhbC4NCg0KRnVydGhl
-ciBkZXRhaWxzIGNvbmNlcm5pbmcgZXhhY3QgdGltZXMgYXMgd2VsbCBhcyB0aGUgZW50ZXJ0YWlu
-bWVudCBwYXJ0IG9mIGJvdGggZXZlbmluZ3Mgd2lsbCBmb2xsb3csIHNob3J0bHkhDQoNCkxvb2sg
-Zm9yd2FyZCB0byBzZWVpbmcgbWFueSBvZiB5b3UgdGhlcmUsDQrDlnplbiAmIEFpZGFuDQoNCg=
-
-========== EMAIL ==========
-
 ==== sender: "Max, Henrieke Dorothea" <h.max@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -12052,36 +11887,6 @@ Email t.woebs@jacobs-university.de<mailto:t.woebs@jacobs-university.de>
 www.jacobs-university.de<http://www.jacobs-university.de/>
 
 
-
-========== EMAIL ==========
-
-==== sender: "Rennie, Robert" <r.rennie@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Tue, 17 Dec 2013 13:21:33 +0000
-==== subject: [nordmetall-students] LAST CHANCE TO BUY: Christmas and New Year's
-==== email_text: 
-RGVhciBhbGwsDQoNClRoaXMgeWVhciwgQ29sbGVnZSAzIGhhcyB0aGUgaG9ub3VyIG9mIGhvc3Rp
-bmcgYm90aCB0aGUgQ2hyaXN0bWFzIGFuZCBOZXcgWWVhciBEaW5uZXJzIG9uIGNhbXB1cy4NCg0K
-QmV0d2VlbiAxMHRoIERlY2VtYmVyIOKAkyAxN3RoIERlY2VtYmVyLCB5b3UgY2FuIGJ1eSB2b3Vj
-aGVycyBmb3IgQk9USCB0aGUgQ2hyaXN0bWFzIERpbm5lciBhbmQgTmV3IFllYXLigJlzIEV2ZSBE
-aW5uZXIgZnJvbSBhbnkgb2YgdGhlIDQgY29sbGVnZSBzZXJ2ZXJpZXMgb24gY2FtcHVzLiBEdXJp
-bmcgdGhpcyB0aW1lLCB0aGUgdm91Y2hlcnMgY29zdCDigqwxMCB3aGljaCBpbmNsdWRlIGZvb2Qs
-IGRyaW5rIGFuZCBlbnRlcnRhaW5tZW50LiBQbGVhc2Ugbm90aWNlIHRoYXQgdGhpcyByZXByZXNl
-bnRzIHRoZSAnRWFybHkgQmlyZCBPcHRpb24nIHRvIGZhY2lsaXRhdGUgYWR2YW5jZSBwbGFubmlu
-ZyBieSBBcHBldGl0by4NCg0KVm91Y2hlcnMgZm9yIGJvdGggZXZlbnRzIGNhbiBzdGlsbCBiZSBi
-b3VnaHQgYWZ0ZXIgMTd0aCBEZWNlbWJlciBidXQgd2lsbCBjb3N0IOKCrDE1ICghISEpLCBzbyBn
-ZXQgdGhlbSBhcyBzb29uIGFzIHlvdSBjYW4hDQoNClRoaXMgeWVhciwgdGhlIENocmlzdG1hcyBE
-aW5uZXIgKDI0dGggRGVjZW1iZXIpIHdpbGwgdGFrZSBwbGFjZSBpbiB0aGUgSVJDLCB3aGlsZSB0
-aGUgTmV3IFllYXLigJlzIEV2ZSBEaW5uZXIgKDMxc3QgRGVjZW1iZXIpIHdpbGwgdGFrZSBwbGFj
-ZSBpbiB0aGUgQ29sbGVnZSAzIHNlcnZlcnkuDQpGb3IgQ2hyaXN0bWFzIERpbm5lciwgdGhlcmUg
-d2lsbCBiZSB0d28gb3B0aW9ucywgYSB0cmFkaXRpb25hbCBkdWNrIGRpc2ggb3IgYSB2ZWdldGFy
-aWFuIG9wdGlvbi4gTmV3IFllYXLigJlzIERpbm5lciB3aWxsIGJlIGluIHRoZSBmb3JtIG9mIGEg
-YnVmZmV0Lg0KUGxlYXNlIGtlZXAgaG9sZCBvZiB5b3VyIHZvdWNoZXIgYW5kIGJyaW5nIGl0IHdp
-dGggeW91IHRvIHRoZSBEaW5uZXIgaW4gb3JkZXIgdG8gZ2V0IHlvdXIgbWVhbC4NCg0KRnVydGhl
-ciBkZXRhaWxzIGNvbmNlcm5pbmcgZXhhY3QgdGltZXMgYXMgd2VsbCBhcyB0aGUgZW50ZXJ0YWlu
-bWVudCBwYXJ0IG9mIGJvdGggZXZlbmluZ3Mgd2lsbCBmb2xsb3csIHNob3J0bHkhDQoNCkxvb2sg
-Zm9yd2FyZCB0byBzZWVpbmcgbWFueSBvZiB5b3UgdGhlcmUsDQrDlnplbiAmIEFpZGFuDQoNCg=
 
 ========== EMAIL ==========
 
@@ -12349,25 +12154,6 @@ If you are fluent in German and you would like to participate please write your 
 https://docs.google.com/spreadsheet/ccc?key=3D0AhhZtwvWvYeWdFp5QTA1ZXF2bEdKWnF3WW80N3VIeVE&usp=3Dsharing
 
 P.S. You get 5 euros as a reward :)
-
-
-========== EMAIL ==========
-
-==== sender: "Albrod, Pauline" <p.albrod@jacobs-university.de>
-==== email_list: Nordmetall <nordmetall-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, College 3	<collegeiii-students@jacobs-university.de>
-==== date: Wed, 18 Dec 2013 22:13:15 +0000
-==== subject: [nordmetall-students] Selling phone
-==== email_text: 
-U2VsbGluZyBteSB3aGl0ZSBTYW1zdW5nIEdhbGF4eSBTMyAzMkdCIExURSAoISEhKQ0KT25lIHll
-YXIgb2xkDQpNaW5vciBzY3JhdGNoZXMNCk5ldyBzcGVha2Vycw0KQ29tZXMgd2l0aCBmb3VyIGNv
-dmVycyAod2hpdGUsIGJsYWNrLCBwdXJwbGUsIHNlZS10aHJvdWdoKQ0KMzAw4oKsIOKAlCBQcmlj
-ZSBpcyBuZWdvdGlhYmxlIChsaXN0IHByaWNlOiA3NTDigqwpDQoNCkhpdCByZXBseSBpZiBpbnRl
-cmVzdGVkLg0KDQpDaGVlcnMsDQoNClBhdWxpbmUgQWxicm9kDQpfX19fX19fX19fX19fX19fX19f
-DQoNCkphY29icyBVbml2ZXJzaXR5IDIwMTQNCkJTYyBJbnRlZ3JhdGVkIEVudmlyb25tZW50YWwg
-U3R1ZGllcw0KDQoNCkphY29icyBVbml2ZXJzaXR5IEJyZW1lbg0KTWFpbGJveCBOby4gMjENCkNv
-bGxlZ2UgUmluZyA3DQoyODc1OSBCcmVtZW4NCg0KUGhvbmU6ICs0OSAxNzIgNzc5MzIzMSB8IExh
-bmRsaW5lOiArNDkgNDIxIDIwMDU3MzUNCg0K
 
 
 ========== EMAIL ==========
@@ -12729,19 +12515,6 @@ Let me know if you are coming.
 Best,
 Rieke
 
-
-========== EMAIL ==========
-
-==== sender: "Hwang, Ae-min" <a.hwang@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>
-==== date: Fri, 20 Dec 2013 09:07:37 +0000
-==== subject: [nordmetall-students] Weight Scale Needed!!
-==== email_text: 
-SWYgeW91IGhhdmUgdGhlIHdlaWdodCBzY2FsZSBmcm9tIHRoZSBjb2xsZWdlIG9mZmljZSwgcGxl
-YXNlIGxldCBtZSBrbm93IEFTQVAhDQpPciBpZiB5b3UgYXJlIGFzIGtpbmQgYXMgdG8gbGV0IG1l
-IGJvcnJvdyB5b3VyIG93biwgdGhhdCB3b3VsZCBiZSBncmVhdCB0b28gKDoNCkkgbmVlZCBpdCB1
-cmdlbnRseSEhIFRoYW5rIHlvdSEhDQoNCkJvcmENCg=
 
 ========== EMAIL ==========
 
@@ -14738,45 +14511,6 @@ Rustam
 
 ========== EMAIL ==========
 
-==== sender: "Groeger, Dorothee" <d.groeger@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>, "krupp-college@jacobs-university.de"	<krupp-college@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Wed, 8 Jan 2014 14:59:13 +0000
-==== subject: [nordmetall-students] Urgent: One spot in Berlin trip available
-==== email_text: 
-RGVhciBzdHVkZW50cywNCg0KVGhlIHdpbnRlciBzZXNzaW9uIGNvdXJzZSDigJhHZXJtYW4gUG9s
-aXRpY3MgJiBDdWx0dXJl4oCZIGlzIG9yZ2FuaXppbmcgYSBmaWVsZCB0cmlwIHRvIHRoZSBHZXJt
-YW4gY2FwaXRhbCBCZXJsaW4sIHRha2luZyBwbGFjZSBKYW51YXJ5IDMwIOKAkyBGZWJydWFyeSAx
-LCAyMDE0Lg0KVGhlcmUgaGFzIGJlZW4gb25lIGxhc3QgbWludXRlIGNhbmNlbGxhdGlvbiBhbmQg
-d2UgY2FuIG9mZmVyIHRoZSBzcG90IHRvIGFub3RoZXIgaW50ZXJlc3RlZCBzdHVkZW50Lg0KDQpU
-aGUgZmllbGQgdHJpcCBjb3N0cyA2MCwwMCDigqwgcGVyIHBlcnNvbiB3aGljaCBpbmNsdWRlcyB0
-cmFuc3BvcnRhdGlvbiAoYnkgY29hY2gpLCBhY2NvbW1vZGF0aW9uLCBicmVha2Zhc3QgYW5kIGFs
-bCBlbnRyeSBmZWVzIChhZGRpdGlvbmFsIGNvc3RzIG9mIGFib3V0IDUwLDAwIOKCrCBmb3IgZm9v
-ZCBhbmQgcGVyc29uYWwgZXhwZW5zZXMgaGF2ZSB0byBiZSBjb3ZlcmVkIGJ5IHN0dWRlbnRzIHRo
-ZW1zZWx2ZXMpLiBXZSB3aWxsIGxlYXZlIFRodXJzZGF5IGVhcmx5IGluIHRoZSBtb3JuaW5nIGFu
-ZCByZXR1cm4gU2F0dXJkYXkgZXZlbmluZy4gV2Ugd2lsbCBub3Qgb25seSBtZWV0IGEgbWVtYmVy
-IG9mIHBhcmxpYW1lbnQsIHZpc2l0IHRoZSBSZWljaHN0YWcgKHRoZSBwYXJsaWFtZW50KSBhbmQg
-dGhlIENoYW5jZWxsZXJ5LCB3ZSB3aWxsIGFsc28gaGF2ZSB0aW1lIHRvIGV4cGxvcmUgdGhlIGNp
-dHkgYW5kIGl0cyBjdWx0dXJhbCBvZmZlcmluZ3MuDQoNCklmIHlvdSB3b3VsZCBsaWtlIHRvIGpv
-aW4gdGhlIHRyaXAsIHlvdSBuZWVkIHRvIHJlZ2lzdGVyIHdpdGggbWUgdXJnZW50bHkgYW5kIHBh
-eSB0aGUgcmVzcGVjdGl2ZSBmZWUgKGZpcnN0IGNvbWUg4oCTIGZpcnN0IHNlcnZlZCkhDQoNCklu
-IGFkZGl0aW9uLCB3ZSBuZWVkIHRoZSBmb2xsb3dpbmcgaW5mb3JtYXRpb24gZnJvbSB5b3UgZm9y
-IHRoZSB2aXNpdCBvZiBwYXJsaWFtZW50Og0KDQpMYXN0IE5hbWU6DQpGaXJzdCBOYW1lOg0KTWlk
-ZGxlIE5hbWU6DQpEYXRlIG9mIEJpcnRoOg0KUGxhY2Ugb2YgQmlydGg6DQpOYXRpb25hbGl0eToN
-ClBhc3Nwb3J0IG51bWJlcjoNCg0KV2UgYXJlIGxvb2tpbmcgZm9yd2FyZCB0byBvZmZlcmluZyB5
-b3UgYW4gZXhjaXRpbmcgdHJpcCENCg0KQmVzdCByZWdhcmRzLA0KRG9yb3RoZWUgR3JvZWdlcg0K
-DQoNCi0tLQ0KRHIuIERvcm90aGVlIEdyb2VnZXINCkFzc2lzdGFudCBBY2FkZW1pYyBBZmZhaXJz
-IGFuZCBMYW5ndWFnZSBQcm9ncmFtIENvb3JkaW5hdG9yDQoNCkphY29icyBVbml2ZXJzaXR5IEJy
-ZW1lbiBnR21iSA0KQ2FtcHVzIFJpbmcgMSB8IDI4NzU5IEJyZW1lbiB8IEdlcm1hbnkNCnBob25l
-OiArNDkgNDIxIDIwMCA0MzExIHwgZmF4ICs0OSA0MjEgMjAwIDQ5IDQzMTENCmRvcm90aGVlLmdy
-b2VnZXJAamFjb2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRvOnYubmFtZUBqYWNvYnMtdW5pdmVyc2l0
-eS5kZT4NCmh0dHA6Ly93d3cuamFjb2JzLXVuaXZlcnNpdHkuZGUNCg0KQ29tbWVyY2lhbCByZWdp
-c3RyeTogQW10c2dlcmljaHQgQnJlbWVuLCBIUkIgMTgxMTcNCkNFTyAvIEdlc2Now6RmdHNmw7xo
-cmVyaW46IFByb2YuIERyLi1JbmcuIEthdGphIFdpbmR0DQpDaGFpciBCb2FyZCBvZiBHb3Zlcm5v
-cnM6IFByb2YuIERyLiBLYXJpbiBMb2NodGUNCg0KDQoNCg=
-
-========== EMAIL ==========
-
 ==== sender: "Doerwald, Carmen" <c.doerwald@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
@@ -15465,46 +15199,6 @@ https://www.jacobs-university.de/campus-activities/sports/sports-center-gym/recr
 
 
 
-
-========== EMAIL ==========
-
-==== sender: "Groeger, Dorothee" <d.groeger@jacobs-university.de>
-==== email_list: "jacobs-graduates@jacobs-university.de"
-	<jacobs-graduates@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-college@jacobs-university.de" <krupp-college@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Mon, 13 Jan 2014 13:38:30 +0000
-==== subject: [nordmetall-students] Urgent: Two spots in Berlin trip available
-==== email_text: 
-RGVhciBzdHVkZW50cywNCg0KVGhlIHdpbnRlciBzZXNzaW9uIGNvdXJzZSDigJhHZXJtYW4gUG9s
-aXRpY3MgJiBDdWx0dXJl4oCZIGlzIG9yZ2FuaXppbmcgYSBmaWVsZCB0cmlwIHRvIHRoZSBHZXJt
-YW4gY2FwaXRhbCBCZXJsaW4sIHRha2luZyBwbGFjZSBKYW51YXJ5IDMwIOKAkyBGZWJydWFyeSAx
-LCAyMDE0Lg0KVGhlcmUgaGF2ZSBiZWVuIHR3byBsYXN0IG1pbnV0ZSBjYW5jZWxsYXRpb25zIGFu
-ZCB3ZSBjYW4gb2ZmZXIgdGhlIHNwb3RzIHRvIG90aGVyIGludGVyZXN0ZWQgc3R1ZGVudC4NCg0K
-VGhlIGZpZWxkIHRyaXAgY29zdHMgNjAsMDAg4oKsIHBlciBwZXJzb24gd2hpY2ggaW5jbHVkZXMg
-dHJhbnNwb3J0YXRpb24gKGJ5IGNvYWNoKSwgYWNjb21tb2RhdGlvbiwgYnJlYWtmYXN0IGFuZCBh
-bGwgZW50cnkgZmVlcyAoYWRkaXRpb25hbCBjb3N0cyBvZiBhYm91dCA1MCwwMCDigqwgZm9yIGZv
-b2QgYW5kIHBlcnNvbmFsIGV4cGVuc2VzIGhhdmUgdG8gYmUgY292ZXJlZCBieSBzdHVkZW50cyB0
-aGVtc2VsdmVzKS4gV2Ugd2lsbCBsZWF2ZSBUaHVyc2RheSBlYXJseSBpbiB0aGUgbW9ybmluZyBh
-bmQgcmV0dXJuIFNhdHVyZGF5IGV2ZW5pbmcuIFdlIHdpbGwgbm90IG9ubHkgbWVldCBhIG1lbWJl
-ciBvZiBwYXJsaWFtZW50LCB2aXNpdCB0aGUgUmVpY2hzdGFnICh0aGUgcGFybGlhbWVudCkgYW5k
-IHRoZSBDaGFuY2VsbGVyeSwgd2Ugd2lsbCBhbHNvIGhhdmUgdGltZSB0byBleHBsb3JlIHRoZSBj
-aXR5IGFuZCBpdHMgY3VsdHVyYWwgb2ZmZXJpbmdzLg0KDQpJZiB5b3Ugd291bGQgbGlrZSB0byBq
-b2luIHRoZSB0cmlwLCB5b3UgbmVlZCB0byByZWdpc3RlciB3aXRoIG1lIHVudGlsIHRvbW9ycm93
-LCBKYW51YXJ5IDE0dGgsIDEwIGFtIGFuZCBwYXkgdGhlIHJlc3BlY3RpdmUgZmVlIChmaXJzdCBj
-b21lIOKAkyBmaXJzdCBzZXJ2ZWQpIQ0KDQpJbiBhZGRpdGlvbiwgd2UgbmVlZCB0aGUgZm9sbG93
-aW5nIGluZm9ybWF0aW9uIGZyb20geW91IGZvciB0aGUgdmlzaXQgb2YgcGFybGlhbWVudDoNCg0K
-TGFzdCBOYW1lOg0KRmlyc3QgTmFtZToNCk1pZGRsZSBOYW1lOg0KRGF0ZSBvZiBCaXJ0aDoNClBs
-YWNlIG9mIEJpcnRoOg0KTmF0aW9uYWxpdHk6DQpQYXNzcG9ydCBudW1iZXI6DQoNCldlIGFyZSBs
-b29raW5nIGZvcndhcmQgdG8gb2ZmZXJpbmcgeW91IGFuIGV4Y2l0aW5nIHRyaXAhDQoNCkJlc3Qg
-cmVnYXJkcywNCkRvcm90aGVlIEdyb2VnZXINCg0KDQotLS0NCkRyLiBEb3JvdGhlZSBHcm9lZ2Vy
-DQpBc3Npc3RhbnQgQWNhZGVtaWMgQWZmYWlycyBhbmQgTGFuZ3VhZ2UgUHJvZ3JhbSBDb29yZGlu
-YXRvcg0KDQpKYWNvYnMgVW5pdmVyc2l0eSBCcmVtZW4gZ0dtYkgNCkNhbXB1cyBSaW5nIDEgfCAy
-ODc1OSBCcmVtZW4gfCBHZXJtYW55DQpwaG9uZTogKzQ5IDQyMSAyMDAgNDMxMSB8IGZheCArNDkg
-NDIxIDIwMCA0OSA0MzExDQpkb3JvdGhlZS5ncm9lZ2VyQGphY29icy11bml2ZXJzaXR5LmRlPG1h
-aWx0bzp2Lm5hbWVAamFjb2JzLXVuaXZlcnNpdHkuZGU+DQpodHRwOi8vd3d3LmphY29icy11bml2
-ZXJzaXR5LmRlDQoNCkNvbW1lcmNpYWwgcmVnaXN0cnk6IEFtdHNnZXJpY2h0IEJyZW1lbiwgSFJC
-IDE4MTE3DQpDRU8gLyBHZXNjaMOkZnRzZsO8aHJlcmluOiBQcm9mLiBEci4tSW5nLiBLYXRqYSBX
-aW5kdA0KQ2hhaXIgQm9hcmQgb2YgR292ZXJub3JzOiBQcm9mLiBEci4gS2FyaW4gTG9jaHRlDQoN
-Cg0KDQo
 
 ========== EMAIL ==========
 
@@ -16417,42 +16111,6 @@ Jacobs University Bremen
 
 ========== EMAIL ==========
 
-==== sender: "Groeger, Dorothee" <d.groeger@jacobs-university.de>
-==== email_list: "jacobs-graduates@jacobs-university.de"
-	<jacobs-graduates@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-college@jacobs-university.de" <krupp-college@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Mon, 20 Jan 2014 12:14:32 +0000
-==== subject: [nordmetall-students] Urgent: Two spots in Berlin trip available
-==== email_text: 
-RGVhciBzdHVkZW50cywNCg0KVGhlcmUgaXMgb25lIHNwb3QgaW4gdGhlIEJlcmxpbiBleGN1cnNp
-b24gYXZhaWxhYmxlLCB0YWtpbmcgcGxhY2UgSmFudWFyeSAzMCDigJMgRmVicnVhcnkgMSwgMjAx
-NC4NCg0KVGhlIGZpZWxkIHRyaXAgY29zdHMgNjAsMDAg4oKsIHBlciBwZXJzb24gd2hpY2ggaW5j
-bHVkZXMgdHJhbnNwb3J0YXRpb24gKGJ5IGNvYWNoKSwgYWNjb21tb2RhdGlvbiwgYnJlYWtmYXN0
-IGFuZCBhbGwgZW50cnkgZmVlcyAoYWRkaXRpb25hbCBjb3N0cyBvZiBhYm91dCA1MCwwMCDigqwg
-Zm9yIGZvb2QgYW5kIHBlcnNvbmFsIGV4cGVuc2VzIGhhdmUgdG8gYmUgY292ZXJlZCBieSBzdHVk
-ZW50cyB0aGVtc2VsdmVzKS4gV2Ugd2lsbCBsZWF2ZSBUaHVyc2RheSBlYXJseSBpbiB0aGUgbW9y
-bmluZyBhbmQgcmV0dXJuIFNhdHVyZGF5IGV2ZW5pbmcuIFdlIHdpbGwgbm90IG9ubHkgbWVldCBh
-IG1lbWJlciBvZiBwYXJsaWFtZW50LCB2aXNpdCB0aGUgUmVpY2hzdGFnICh0aGUgcGFybGlhbWVu
-dCkgYW5kIHRoZSBDaGFuY2VsbGVyeSwgd2Ugd2lsbCBhbHNvIGhhdmUgdGltZSB0byBleHBsb3Jl
-IHRoZSBjaXR5IGFuZCBpdHMgY3VsdHVyYWwgb2ZmZXJpbmdzLg0KDQpJZiB5b3Ugd291bGQgbGlr
-ZSB0byBqb2luIHRoZSB0cmlwLCB5b3UgbmVlZCB0byByZWdpc3RlciB3aXRoIG1lIHVudGlsIHRv
-bW9ycm93LCBKYW51YXJ5IDIxc3QsIDEwIGFtIGFuZCBwYXkgdGhlIHJlc3BlY3RpdmUgZmVlIChm
-aXJzdCBjb21lIOKAkyBmaXJzdCBzZXJ2ZWQpIQ0KDQpJbiBhZGRpdGlvbiwgd2UgbmVlZCB0aGUg
-Zm9sbG93aW5nIGluZm9ybWF0aW9uIGZyb20geW91IGZvciB0aGUgdmlzaXQgb2YgcGFybGlhbWVu
-dDoNCg0KTGFzdCBOYW1lOg0KRmlyc3QgTmFtZToNCk1pZGRsZSBOYW1lOg0KRGF0ZSBvZiBCaXJ0
-aDoNClBsYWNlIG9mIEJpcnRoOg0KTmF0aW9uYWxpdHk6DQpQYXNzcG9ydCBudW1iZXI6DQoNCkJl
-c3QgcmVnYXJkcywNCkRvcm90aGVlIEdyb2VnZXINCg0KDQotLS0NCkRyLiBEb3JvdGhlZSBHcm9l
-Z2VyDQpBc3Npc3RhbnQgQWNhZGVtaWMgQWZmYWlycyBhbmQgTGFuZ3VhZ2UgUHJvZ3JhbSBDb29y
-ZGluYXRvcg0KDQpKYWNvYnMgVW5pdmVyc2l0eSBCcmVtZW4gZ0dtYkgNCkNhbXB1cyBSaW5nIDEg
-fCAyODc1OSBCcmVtZW4gfCBHZXJtYW55DQpwaG9uZTogKzQ5IDQyMSAyMDAgNDMxMSB8IGZheCAr
-NDkgNDIxIDIwMCA0OSA0MzExDQpkb3JvdGhlZS5ncm9lZ2VyQGphY29icy11bml2ZXJzaXR5LmRl
-PG1haWx0bzp2Lm5hbWVAamFjb2JzLXVuaXZlcnNpdHkuZGU+DQpodHRwOi8vd3d3LmphY29icy11
-bml2ZXJzaXR5LmRlDQoNCkNvbW1lcmNpYWwgcmVnaXN0cnk6IEFtdHNnZXJpY2h0IEJyZW1lbiwg
-SFJCIDE4MTE3DQpDRU8gLyBHZXNjaMOkZnRzZsO8aHJlcmluOiBQcm9mLiBEci4tSW5nLiBLYXRq
-YSBXaW5kdA0KQ2hhaXIgQm9hcmQgb2YgR292ZXJub3JzOiBQcm9mLiBEci4gS2FyaW4gTG9jaHRl
-DQoNCg0KDQo
-
-========== EMAIL ==========
-
 ==== sender: Barbara Broda <b.broda@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>, "shss-graduates@jacobs-university.de"	<shss-graduates@jacobs-university.de>,	"Nordmetall-Students@lists.jacobs-university.de"	<Nordmetall-Students@lists.jacobs-university.de>,	"collegeiii-students@lists.jacobs-university.de"	<collegeiii-students@lists.jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>,	"jcll-graduates@jacobs-university.de" <jcll-graduates@jacobs-university.de>,	"ses-graduates@jacobs-university.de" <ses-graduates@jacobs-university.de>,	"jacobs-students-announce@lists.jacobs-university.de"	<jacobs-students-announce@lists.jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
@@ -16763,33 +16421,6 @@ If anyone is interested please get back to me.
 
 Best regards,
 JP
-
-========== EMAIL ==========
-
-==== sender: "Pentrel, Naomi" <n.pentrel@jacobs-university.de>
-==== email_list: "eecs-undergrads@jacobs-university.de"
-	<eecs-undergrads@jacobs-university.de>
-==== date: Wed, 22 Jan 2014 17:53:32 +0000
-==== subject: [EECS-undergrads] Internships & Scholarships @ Google
-==== email_text: 
-T24gYmVoYWxmIG9mIHRoZSBDU0MgYW5kIEdvb2dsZToNCg0KMjAxNCBTdW1tZXIgVHJhaW5lZSBF
-bmdpbmVlcmluZyBQcmFjdGljdW0NCg0KV2lsbCB5b3UgaGF2ZSBjb21wbGV0ZWQgeW91ciBmaXJz
-dCB5ZWFyIG9mIHVuZGVyZ3JhZHVhdGUgc3R1ZGllcyBieSB0aGUgc3VtbWVyIG9mIDIwMTQgYW5k
-IGFyZSB5b3UgY3VycmVudGx5IGVucm9sbGVkIGluIGEgQmFjaGVsb3IgcHJvZ3JhbT8gSWYgeWVz
-IGFuZCBpZiB5b3UgYXJlIGludGVyZXN0ZWQgaW4gYXBwbHlpbmcgZm9yIGFuIGludGVybnNoaXAg
-YXQgR29vZ2xlLCBhcHBseSBmb3Igb3VyIFN1bW1lciBUcmFpbmVlIEVuZ2luZWVyaW5nIFByYWN0
-aWN1bSAyMDE0LiBZb3UgY2FuIGZpbmQgbW9yZSBpbmZvcm1hdGlvbiBoZXJlPGh0dHBzOi8vd3d3
-Lmdvb2dsZS5jb20vYWJvdXQvam9icy9zZWFyY2gvIyF0PWpvJmppZD00MzQ5MDAxJj4uDQoNCklm
-IHlvdSBhcmUgYSBsYXRlIEJhY2hlbG9yLCBNYXN0ZXIgb3IgUGhEIHN0dWRlbnQgYW5kIGludGVy
-ZXN0ZWQgaW4gYW4gaW50ZXJuc2hpcCB5b3UgY2FuIGFwcGx5IGZvciBvdXIgY2xhc3NpY2FsIDIw
-MTQgU29mdHdhcmUgRW5naW5lZXJpbmcgSW50ZXJuc2hpcHMuTW9yZSBpbmZvcm1hdGlvbiBpcyBw
-cm92aWRlZCBoZXJlPGh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9qb2JzL3N0dWRlbnRzPi4NCg0K4oCL
-R29vZ2xlIEFuaXRhIEJvcmcgU2Nob2xhcnNoaXAgMjAxNOKAiw0KDQpCYWNoZWxvciwgTWFzdGVy
-DQrigIthbmQg4oCLDQpQaEQgc3R1ZGVudA0K4oCLc+KAiw0KIGluIENvbXB1dGVyIFNjaWVuY2Ug
-Y2FuIHN0aWxsIGFwcGx5IGZvciBvdXINCuKAi0dvb2dsZSDigIsNCkFuaXRhIEJvcmcgU2Nob2xh
-cnNoaXAgMjAxNC4gVGhlIGFwcGxpY2F0aW9uIGRlYWRsaW5lIGlzIEZlYnJ1YXJ5IDE3dGgsIDIw
-MTMuIFlvdSBjYW4gZmluZCBtb3JlIGluZm9ybWF0aW9uIGhlcmU8aHR0cDovL3d3dy5nb29nbGUu
-Y29tL2FuaXRhYm9yZy9lbWVhLz4uDQo
 
 ========== EMAIL ==========
 
@@ -17117,29 +16748,6 @@ Heike Bohne
 ==== sender: "Woebs, Tanja Christa" <t.woebs@jacobs-university.de>
 ==== email_list: "college-nordmetall@jacobs-university.de"
 	<college-nordmetall@jacobs-university.de>
-==== date: Fri, 24 Jan 2014 14:10:08 +0000
-==== subject: [college-nordmetall] 'College cat'
-==== email_text: 
-RGVhciBOb3JkaWVzLA0KDQpJIHdvdWxkIGxpa2UgdG8gaW5mb3JtIGFsbCBvZiB5b3Ugd2hvIGhh
-dmUgYmVlbiBzbWl0dGVuIHdpdGggb3VyIOKAmGNvbGxlZ2UgY2F04oCZICwgdGhhdCBJIHRvb2sg
-aXQgdG8gdGhlIEJyZW1lbiBBbmltYWwgU2hlbHRlciB0b2RheSwgYXMgbmlnaHR0aW1lIHRlbXBl
-cmF0dXJlcyBhcmUgcHJlZGljdGVkIHRvIGZhbGwgZnVydGhlci4NCg0KSGUgaXMgbm90IGNoaXBw
-ZWQgb3IgcmVnaXN0ZXJlZCBhcyBsb3N0LCBzbyB0aGV5IHdpbGwgIHB1dCBoaW0gdXAgZm9yIGFk
-b3B0aW9uLiBBcyBoZSBpcyB5b3VuZyBhbmQgaGVhbHRoeSwgYW5kIGFzIHlvdSBhbGwga25vdyB2
-ZXJ5IGZyaWVuZGx5LCBJIHdhcyBhc3N1cmVkIHRoYXQgaXQgd29u4oCZdCBiZSBsb25nIGJlZm9y
-ZSBoZSB3aWxsIGZpbmQgYSBuZXcgaG9tZS4NCg0KDQpCZXN0LA0KVGFuamENCg0KRHIuIFRhbmph
-IFdvZWJzDQpDb2xsZWdlIE9mZmljZSBNYW5hZ2VyDQpDb2xsZWdlIE5vcmRtZXRhbGwNCkphY29i
-cyBVbml2ZXJzaXR5IGdHbWJIDQpDb2xsZWdlIFJpbmcgMw0KMjg3NTkgQnJlbWVuDQoNClBob25l
-ICs0OSA0MjEgMjAwIDYwMDINCkZheCArNDkgNDIxIDIwMCA2MDA2DQpFbWFpbCB0LndvZWJzQGph
-Y29icy11bml2ZXJzaXR5LmRlPG1haWx0bzp0LndvZWJzQGphY29icy11bml2ZXJzaXR5LmRlPg0K
-DQp3d3cuamFjb2JzLXVuaXZlcnNpdHkuZGU8aHR0cDovL3d3dy5qYWNvYnMtdW5pdmVyc2l0eS5k
-ZS8+DQoNCg=
-
-========== EMAIL ==========
-
-==== sender: "Woebs, Tanja Christa" <t.woebs@jacobs-university.de>
-==== email_list: "college-nordmetall@jacobs-university.de"
-	<college-nordmetall@jacobs-university.de>
 ==== date: Fri, 24 Jan 2014 16:08:48 +0000
 ==== subject: [college-nordmetall] Greetings from our Student Intern
 ==== email_text: 
@@ -17461,11 +17069,6 @@ College Ring 7 | Post Box 149
 +49 17663849924
 
 
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -18448,10 +18051,6 @@ So don't be shy and reply to this spam if interested :)
 Cheers,
 Ndiate
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
 
 ========== EMAIL ==========
 
@@ -19273,11 +18872,6 @@ http://discountfoldingchairsandtables.com/media/catalog/product/cache/1/image/9d
 >
 - *exercise bike*, great for the winter days when you cannot jog: 50 EUR,
 similar to this one <
-http://exercisebikescorner.com/wp-content/uploads/2013/11/Exercise-Bike.jpg>
-
-Cheers,
-Ognyan
-
 
 ========== EMAIL ==========
 
@@ -19818,18 +19412,6 @@ Alice Charlotte Hellwege
 
 ========== EMAIL ==========
 
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Fri, 31 Jan 2014 16:26:42 +0000
-==== subject: [ABCS] Bring your input!
-==== email_text: 
-SGVsbG8sDQoNCnRoaXMgaXMganVzdCBhIGtpbmQgcmVtaW5kZXIgYWJvdXQgb3VyIG1lZXRpbmcg
-dG9kYXkgYXQgMjA6MzAgaW4gdGhlIE1lcmNhdG9yIFNlcnZlcnkhDQpTZWUgeW91IHRoZXJlLg0K
-DQpFbmpveSB5b3VyIGRpbm5lciDimLoNCg0KU3RlcGhhbmllDQoNCg0KDQo
-
-========== EMAIL ==========
-
 ==== sender: "Hasegan, Daniel" <d.hasegan@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>,	"nordmetall-students@lists.jacobs-university.de"	<nordmetall-students@lists.jacobs-university.de>,	"collegeiii-students@lists.jacobs-university.de"	<collegeiii-students@lists.jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
@@ -20028,21 +19610,6 @@ can anyone lend me a mixer and/or a baking tin?
 
 Thank you,
 Sevda
-
-
-========== EMAIL ==========
-
-==== sender: "Limaj, Rrita" <r.limaj@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Sat, 1 Feb 2014 13:51:12 +0000
-==== subject: [nordmetall-students] SELLING Organization Notes!
-==== email_text: 
-SGksDQoNCkkgYW0gc2VsbGluZyBteSBleHRlbnNpdmUgbm90ZXMgb24gdGhlIGNvdXJzZSBPcmdh
-bml6YXRpb24gd2l0aCBQcm9mLiBHdWlkbyBNw7ZsbGVyaW5nLg0KDQpUaGV5J3JlIHZlcnkgZGV0
-YWlsZWQgY2hhcHRlciBieSBjaGFwdGVyIHN1bW1hcmllcyBvZiB0aGUgY291cnNlIGJvb2sgYW5k
-IHdpbGwgYmUgaGVscGZ1bCBmb3IgdGhlIGZpbmFsIGV4YW0uDQoNClByaWNlOiAxMCBldXJvLg0K
-DQpSZXBseSBpZiB5b3UncmUgaW50ZXJlc3RlZC4NCg0KSHVnc2llcw0KUnJpdGENCg0K
 
 
 ========== EMAIL ==========
@@ -21372,18 +20939,6 @@ Contact: 5663
 
 ========== EMAIL ==========
 
-==== sender: "Weidmann, Tamara Barbara" <t.weidmann@jacobs-university.de>
-==== email_list: "Fernandez, Daniela" <d.fernandez@jacobs-university.de>,
-	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Mon, 3 Feb 2014 14:21:11 +0000
-==== subject: [nordmetall-students] Looking for books
-==== email_text: 
-SGV5IGd1eXMgOikNCg0KIERvZXMgYW55b25lIGhhdmUgdGhlIGJvb2sgInN0YXRpc3RpY3MgZXhw
-bGFpbmVkIj8gQW5kIHdhbnRzIHRvIHNlbGwgaXQgO0QNCg0KQ2hlZXJzLA0KVGFtYXJhDQoNCg0K
-Vm9uIFNhbXN1bmcgTW9iaWxlIGdlc2VuZGV0DQo
-
-========== EMAIL ==========
-
 ==== sender: "Ashraf, Faryal" <f.ashraf@jacobs-university.de>
 ==== email_list: "collegeiii-students@jacobs-university.de"
 	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
@@ -22052,11 +21607,6 @@ College Ring 7 | Post Box 149
 +49 17663849924
 
 
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -22951,26 +22501,6 @@ Giorgi Bubashvili
 
 ========== EMAIL ==========
 
-==== sender: "Fang, Qixiang" <q.fang@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
-==== date: Wed, 5 Feb 2014 11:51:59 +0000
-==== subject: [nordmetall-students] McQuail's Mass Communication Theories
-==== email_text: 
-SGkgcGVvcGxlIHdobyB0YWtlIE1hc3MgTWVkaWEgYW5kIE5ldHdvcmsgQ29tbXVuaWNhdGlvbiwg
-SSd2ZSBnb3QgdGhlIG1vYmkgdmVyc2lvbiBvZiBNY1F1YWlsJ3MgTWFzcyBDb21tdW5pY2F0aW9u
-IFRoZW9yaWVzIChzaXh0aCBlZGl0aW9uKS4NCkFuZCB5b3UgZG9uJ3QgbmVlZCB0byBiZSBhIGtp
-bmRsZSB1c2VyIHRvIGJlIGFibGUgdG8gcmVhZCBtb2JpLiBKdXN0IGRvd25sb2FkIGtpbmRsZSBy
-ZWFkaW5nIGFwcHMgZm9yIHlvdXIgbGFwdG9wcyBvciBpcGFkcyBhbmQgdGhlcmUgeW91IGdvIQ0K
-VGhlIGJvb2sgaXMgYWJvdXQgMiwzMDAgS0IsIGV4Y2VlZGluZyB0aGUgNjAwIEtCIGxpbWl0IGZv
-ciBlbWFpbHMgdG8gdGhlIGNvbGxlZ2UgbGlzdHMuIFNvIEkgY2FuJ3QgYXR0YWNoIGl0IGhlcmUu
-IElmIHlvdSBuZWVkIGl0LCBwbHogaGl0IHJlcGx5IEknZCBzZW5kIGl0IHRvIHlvdS4gSXQncyBm
-cmVlLg0KDQpJJ20gYWxzbyBsb29raW5nIGZvciA8UHVibGljIFBvbGljeTogYW4gSW50cm9kdWN0
-aW9uIHRvIHRoZSBUaGVvcnkgYW5kIFByYWN0aWNlIG9mIFBvbGljeSBBbmFseXNpcz4uIElmIHlv
-dSBoYXZlIGl0IHBseiBoaXQgcmVwbHkgdG9vISA6RA0KDQpRaXhpYW5nDQoNCg=
-
-========== EMAIL ==========
-
 ==== sender: "von Glasenapp, Victoria" <v.vonglasenapp@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>
@@ -23392,19 +22922,6 @@ Mengyuan
 
 ========== EMAIL ==========
 
-==== sender: "Fang, Qixiang" <q.fang@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
-==== date: Wed, 5 Feb 2014 18:48:53 +0000
-==== subject: [nordmetall-students] Looking for Public Policy: An introduction to
-==== email_text: 
-SGkhIEknbSBsb29raW5nIGZvcjogUHVibGljIFBvbGljeTogQW4gaW50cm9kdWN0aW9uIHRvIHRo
-ZSB0aGVvcnkgYW5kIHByYWN0aWNlIG9mIHBvbGljeSBhbmFseXNpcy4NCklmIHlvdSBoYXZlIGl0
-IGFuZCB3YW50IHRvIG9mZmVyIGl0LCBwbGVhc2UgaGl0IHJlcGx5ISBUaGFuayB5b3UuDQoNClFp
-eGlhbmcNCg=
-
-========== EMAIL ==========
-
 ==== sender: =?iso-8859-1?Q?Guevara=2C_Ximena_Jos=E9?=
 ==== email_list: "mercator-students@jacobs-university.de"
 	<mercator-students@jacobs-university.de>,	"mercator-students@lists.jacobs-university.de"	<mercator-students@lists.jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
@@ -23457,10 +22974,6 @@ Victoria
 NM College Office Team Member
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
 
 ========== EMAIL ==========
 
@@ -23987,14 +23500,6 @@ Victoria
 NM College Office Team Member
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
 
 ========== EMAIL ==========
 
@@ -24338,25 +23843,6 @@ College Ring 7 | Post Box 149
 
 ========== EMAIL ==========
 
-==== sender: "Liu, Zinan" <z.liu@jacobs-university.de>
-==== email_list: Krupp College <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, Nordmetall	<nordmetall-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>
-==== date: Thu, 6 Feb 2014 23:31:12 +0000
-==== subject: [nordmetall-students] Buying EE Textbooks
-==== email_text: 
-RGVhciBKYWNvYmlhbnMsDQoNCkknbSBsb29raW5nIGZvciB0aGUgZm9sbG93aW5nIHR3byB0ZXh0
-Ym9va3M6DQoNClByaW5jaXBsZXMgb2YgQ29tbXVuaWNhdGlvbnM6IFN5c3RlbXMsIE1vZHVsYXRp
-b24gYW5kIE5vaXNlICAgIDV0aCBhZGRpdGlvbiAgSVNCTjowNDcxMzkyNTM3DQoNCkZ1bmRhbWVu
-dGFscyBvZiBFbGVjdHJvbmljIENpcmN1aXQgRGVzaWduICBJU0JOOiAwNDcxMzY2OTZYDQoNCkhp
-dCBtZSB3aXRoIHlvdXIgb2ZmZXJzIGJ5IGNhbGxpbmcgNTExNCBvciBnZXR0aW5nIGJhY2sgdG8g
-dGhpcyBlLW1haWwuDQoNCkJlc3QgUmVnYXJkcy9NaXQgZnJldW5kbGljaGVuIEdyw7zDn2VuL+el
-neWlvQ0KWmluYW4gTGl1DQoNCkJTYy4gRWxlY3RyaWNhbCBhbmQgQ29tcHV0ZXIgRW5naW5lZXJp
-bmcgJzE1DQpTY2hvb2wgb2YgRW5naW5lZXJpbmcgYW5kIFNjaWVuY2UNCkphY29icyBVbml2ZXJz
-aXR5IEJyZW1lbiBnR21iSA0KDQpDb2xsZWdlIFJpbmcgNCwgTWFpbGJveCA4NTINCjI4NzU5IEJy
-ZW1lbiwgR2VybWFueQ0KDQpFLW1haWw6IHoubGl1QGphY29icy11bml2ZXJzaXR5LmRlDQo
-
-========== EMAIL ==========
-
 ==== sender: "Castan, Stephanie Catherin" <s.castan@jacobs-university.de>
 ==== email_list: "collegeiii-students@jacobs-university.de"
 	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -24411,22 +23897,6 @@ Does anyone have a slack-line and is interested in putting it up once the sun is
 
 Best, Seinab
 
-
-========== EMAIL ==========
-
-==== sender: "Guo, Linzi" <l.guo@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Fri, 7 Feb 2014 12:58:01 +0000
-==== subject: [nordmetall-students] Found key with white name tag in front of C3
-==== email_text: 
-SWYgaXQgaXMgeW91cnMgcGxlYXNlIHJlcGx5IHdpdGggdGhlIG5hbWUgd3JpdHRlbiBvbiB0aGUg
-bmFtZSB0YWchDQoNCg0KDQpCZXN0IFJlZ2FyZHMvTWl0IGZyZXVuZGxpY2hlbiBHcsO8w59lbi/n
-pZ3lpb0NCkxpbnppIEd1bw0KDQpCU2MuIEludGVybmF0aW9uYWwgTG9naXN0aWNzIEVuZ2luZWVy
-aW5nIGFuZCBNYW5hZ2VtZW50ICcxNQ0KU2Nob29sIG9mIEVuZ2luZWVyaW5nIGFuZCBTY2llbmNl
-DQpKYWNvYnMgVW5pdmVyc2l0eSBCcmVtZW4gZ0dtYkgNCg0KQ29sbGVnZSBSaW5nIDQsIE1haWxi
-b3ggODQ5DQoyODc1OSBCcmVtZW4sIEdlcm1hbnkNCg0KRS1tYWlsOiBsLmd1b0BqYWNvYnMtdW5p
-dmVyc2l0eS5kZQ0KDQoNCg=
 
 ========== EMAIL ==========
 
@@ -24487,18 +23957,6 @@ See you there!
 
 Aleksandar Gyorev
 BSc Computer Science 2015
-
-========== EMAIL ==========
-
-==== sender: "Shilakoe, Lebogang" <l.shilakoe@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Fri, 7 Feb 2014 15:10:19 +0000
-==== subject: [nordmetall-students] Campus Card Missing
-==== email_text: 
-SGV5LA0KDQpJIGxvc3QgbXkgY2FtcHVzIGNhcmQgYSBkYXkgb3IgdHdvIGFnby4gSWYgeW91IHNv
-IGhhcHBlbiB0byBoYXZlIGl0LCBwbGVhc2Ugc2hvb3QgbWUgYW4gZW1haWwuDQoNClRoYW5rcywN
-CkxlYm8NCg0KDQpTZW50IGZyb20gU2Ftc3VuZyBNb2JpbGUNCg=
 
 ========== EMAIL ==========
 
@@ -24706,18 +24164,6 @@ Victoria
 NM College Office Team Member
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm5vcmRtZXRh
-bGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9ub3JkbWV0YWxsLXN0dWRlbnRzDQo
 
 ========== EMAIL ==========
 
@@ -25652,26 +25098,6 @@ Eugen
 
 ========== EMAIL ==========
 
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Sun, 9 Feb 2014 21:12:55 +0000
-==== subject: [ABCS] =?utf-8?b?4peY4peY4peYVm90aW5nIFRpbWXil5jil5g=?=
-==== email_text: 
-SGVsbG8gZXZlcnlvbmUNCg0KWW91IGNhbiBub3cgdm90ZSBmb3IgdGhlIG5hbWUgb2Ygb3VyIHNo
-b3chDQpDaG9vc2Ugb25seSBvbmUgbmFtZSBhbmQgY2xpY2sgIk5vIiBmb3IgdGhlIG90aGVycyBw
-bGVhc2UuDQpJIGFtIHN1cmUgSSBpbmNsdWRlZCBhbGwgdGhlIHN1Z2dlc3Rpb25zIChldmVuIHRo
-b3NlIHNlbnQgdG8gbWUgYnkgZW1haWwpLg0KSW4gY2FzZSB5b3UgZG8gbm90IHNlZSB5b3VyIHN1
-Z2dlc3Rpb24gaW4gdGhlIHBvbGwgbGV0IG1lIGtub3cuDQpIYXBweSB2b3RpbmchDQoNCmh0dHA6
-Ly9kb29kbGUuY29tL25jMzR1eDNwMnJ0YnBoZXc8aHR0cDovL3d3dy5mYWNlYm9vay5jb20vbC5w
-aHA/dT1odHRwJTNBJTJGJTJGZG9vZGxlLmNvbSUyRm5jMzR1eDNwMnJ0YnBoZXcmaD1VQVFHRlpi
-bUEmZW5jPUFaTXo2T1BSeUxZTFRTZzlnT3ZvZWU5R05EZExGVGpFeEtSU3ByWHVlZ2VQQlR0Sl94
-cDlMekRncy1WcmhnQU56TVdnVVNNcDJfX1F2ZlluejhxemxtbHYtTVhSREZjcnJ4MWVieFVxVmRf
-c0dNZmxrRnZCOTBCSFJ4anRuazNRRWxsdlV4Vm5sN0Z4SWpUdWotV1Brc3F6JnM9MT4NCg0KSGF2
-ZSBhIGdyZWF0IHdlZWsgYWhlYWQuDQpTdGVwaA0KDQoNCg=
-
-========== EMAIL ==========
-
 ==== sender: "Kulicke, Corinna Aileen" <c.kulicke@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>
@@ -26373,11 +25799,6 @@ College Ring 7 | Post Box 149
 +49 17663849924
 
 
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -27974,11 +27395,6 @@ Reward after the interviews.
 Thanks,
 Andreea
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm1lcmNhdG9y
-LXN0dWRlbnRzIG1haWxpbmcgbGlzdA0KbWVyY2F0b3Itc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVu
-aXZlcnNpdHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xp
-c3RpbmZvL21lcmNhdG9yLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -28655,11 +28071,6 @@ College Ring 7, Mailbox 867
 
 Phone: 0049 421 200 5823
 i.baradyana@jacobs-university.de
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -29550,11 +28961,6 @@ On 13.02.2014 12:09, Dmitrii Cucleschin wrote:
 This is ridiculous, I'm willing to feed you for free.
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm1lcmNhdG9y
-LXN0dWRlbnRzIG1haWxpbmcgbGlzdA0KbWVyY2F0b3Itc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVu
-aXZlcnNpdHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xp
-c3RpbmZvL21lcmNhdG9yLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -29868,30 +29274,17 @@ Dear Jacobs Community,
 We are delighted to announce, that the internal news portal "Jacobs Post" on Confluence is now online.
 Please follow the link in Confluence:
 
-https://teamwork.jacobs-university.de:8443/confluence/display/IC/Jacobs+Post
-
 We wish you happy reading!
-
 Kindest regards,
 Gabriela Meyer
-
-
-
 Gabriela Meyer M.A.
 PR Coordinator Communications & Media Relations
-
 Jacobs University Bremen gGmbH
 Campus Ring 1 | 28759 Bremen | Germany
-
 phone: +49 421 200 4455 | fax +49 421 200 4418
-g.meyer@jacobs-university.de<mailto:g.meyer@jacobs-university.de>
-http://www.jacobs-university.de<http://www.jacobs-university.de/>
-
 Commercial registry: Amtsgericht Bremen, HRB 18117
 President & CEO: Prof. Dr.-Ing. Katja Windt
 Chair Board of Governors: Prof. Dr. Karin Lochte
-
-
 
 ========== EMAIL ==========
 
@@ -30779,23 +30172,6 @@ XOXO Kladja
 ========== EMAIL ==========
 
 ==== sender: "Niebers, Johanna Sophie" <j.niebers@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Sat, 22 Feb 2014 14:01:57 +0000
-==== subject: [nordmetall-students] 2 CNY Vouchers
-==== email_text: 
-SGV5IGV2ZXJ5b25lIQ0KV2Ugd29uJ3QgbWFrZSBpdCB0byB0aGUgQ2hpbmVzZSBOZXcgWWVhcidz
-IGRpbm5lciB0b25pZ2h0IHNvIGlmIHlvdSBzdGlsbCB3YW50IHRvIGdvIGJ1dCBmb3Jnb3QgdG8g
-YnV5IGEgdm91Y2hlci4uLiAuLi53ZSBoYXZlIDIhDQoNCldlIHdvdWxkIHNlbGwgdGhlbSBmb3Ig
-NeKCrCBlYWNoIChuZWdvdGlhYmxlKSwganVzdCBnZXQgYmFjayBhdCB1cyBhcyBzb29uIGFzIHBv
-c3NpYmxlIQ0KDQpUaGFuayB5b3UhIQ0KSGFubmFoICYgSm9oYW5uYQpfX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwpub3JkbWV0YWxsLXN0dWRlbnRzIG1haWxp
-bmcgbGlzdApub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRlCmh0
-dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xpc3RpbmZvL25vcmRtZXRh
-
-========== EMAIL ==========
-
-==== sender: "Niebers, Johanna Sophie" <j.niebers@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>, "Brockman, Dominique Maria Freya"	<d.brockman@jacobs-university.de>, "krupp-students@jacobs-university.de"	<krupp-students@jacobs-university.de>
 ==== date: Sat, 22 Feb 2014 14:19:17 +0000
@@ -31325,55 +30701,6 @@ Principle of communications, 5th Edition by Ziemer and Tranter
 contact me :)
 
 Rebekka
-
-
-========== EMAIL ==========
-
-==== sender: "Lamichhane, Rashmi" <r.lamichhane@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>, "jacobs-talks@jacobs-university.de"	<jacobs-talks@jacobs-university.de>
-==== date: Sun, 23 Feb 2014 18:59:33 +0000
-==== subject: [nordmetall-students] Apartment Available
-==== email_text: 
-RGVhciBhbGwsDQpJIGFtIGZvcndhcmRpbmcgYW4gYW5ub3VuY2VtZW50IGZvciBhbiBhcGFydG1l
-bnQgbmVhciBTY2hvZW5lYmVjayBCYWhuaG9mLiBQbGVhc2UgZmluZCBtb3JlIGRldGFpbCBhYm91
-dCBpdCBiZWxvdzoNCkEgdHdvLXJvb20gYXBhcnRtZW50IGF0IEZyZWllciBEYW1tIDE5LCAyODc1
-NygxMCBtaW51dGVzIGZyb20gU2Now7ZuZWJlY2sgdHJhaW4gc3RhdGlvbikgaXMgYXZhaWxhYmxl
-IGZvciByZW50IGZyb20gdGhlIDE1dGggb2YgTWFyY2ggMjAxNC4gUGhvdG9zIGFyZSBhbHNvIGF2
-YWlsYWJsZSB1cG9uIHJlcXVlc3QuIFRoZSByZW50IGlzIDQ0MOKCrCAoaW5jbHVkaW5nIGhlYXRp
-bmcgYW5kIHdhdGVyKSArIGVsZWN0cmljaXR5Lg0KVGhlIGFwYXJ0bWVudCBoYXMgdGhlIGZvbGxv
-d2luZyBmYWNpbGl0aWVzOg0KMSkgVGhlIGFwYXJ0bWVudCBhcmVhIGlzIGFyb3VuZCA1MCBtMi4N
-CjIpIExpdmluZyByb29tIHdpdGggZ2xhc3MgZG9vciB0byBiaWcgYmFsY29ueSB3aXRoIG5pY2Ug
-dmlldy4NCjMpIFRoZSBhcGFydG1lbnQgaXMgYnJpZ2h0LCBxdWlldCBhbmQgaGFzIG5pY2UgbmVp
-Z2hib3JzLg0KNCkgR2FyYWdlIGF2YWlsYWJsZSgzNeKCrCBleHRyYSkNCjUpIENvbW1vbiBiaWN5
-Y2xlIHN0YW5kaW5nIHJvb20NCjYpIFByaXZhdGUgY2VsbGFyDQoNCklmIHlvdSBhcmUgaW50ZXJl
-c3RlZCwgcGxlYXNlIHdyaXRlIHRvOiBlbGdvLnNjaHVsekBnbWFpbC5jb208bWFpbHRvOmVsZ29z
-Y2h1bHpAZ21haWwuY29tPiAuDQpUaGFuayB5b3UgdmVyeSBtdWNoLg0KQmVzdCwNClJhc2htaSBM
-YW1pY2hoYW5lDQoNCg=
-
-========== EMAIL ==========
-
-==== sender: "Lamichhane, Rashmi" <r.lamichhane@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Sun, 23 Feb 2014 19:01:56 +0000
-==== subject: [nordmetall-students] Apartment Available
-==== email_text: 
-RGVhciBhbGwsDQpJIGFtIGZvcndhcmRpbmcgYW4gYW5ub3VuY2VtZW50IGFib3V0IGFuIGFwYXJ0
-bWVudCBuZWFyIFNjaG9lbmViZWNrIEJhaG5ob2YuIFBsZWFzZSBmaW5kIG1vcmUgZGV0YWlsIGFi
-b3V0IGl0IGJlbG93Og0KQSB0d28tcm9vbSBhcGFydG1lbnQgYXQgRnJlaWVyIERhbW0gMTksIDI4
-NzU3KDEwIG1pbnV0ZXMgZnJvbSBTY2jDtm5lYmVjayB0cmFpbiBzdGF0aW9uKSBpcyBhdmFpbGFi
-bGUgZm9yIHJlbnQgZnJvbSB0aGUgMTV0aCBvZiBNYXJjaCAyMDE0LiBQaG90b3MgYXJlIGFsc28g
-YXZhaWxhYmxlIHVwb24gcmVxdWVzdC4gVGhlIHJlbnQgaXMgNDQw4oKsIChpbmNsdWRpbmcgaGVh
-dGluZyBhbmQgd2F0ZXIpICsgZWxlY3RyaWNpdHkuDQpUaGUgYXBhcnRtZW50IGhhcyB0aGUgZm9s
-bG93aW5nIGZhY2lsaXRpZXM6DQoxKSBUaGUgYXBhcnRtZW50IGFyZWEgaXMgYXJvdW5kIDUwIG0y
-Lg0KMikgTGl2aW5nIHJvb20gd2l0aCBnbGFzcyBkb29yIHRvIGJpZyBiYWxjb255IHdpdGggbmlj
-ZSB2aWV3Lg0KMykgVGhlIGFwYXJ0bWVudCBpcyBicmlnaHQsIHF1aWV0IGFuZCBoYXMgbmljZSBu
-ZWlnaGJvcnMuDQo0KSBHYXJhZ2UgYXZhaWxhYmxlKDM14oKsIGV4dHJhKQ0KNSkgQ29tbW9uIGJp
-Y3ljbGUgc3RhbmRpbmcgcm9vbQ0KNikgUHJpdmF0ZSBjZWxsYXINCklmIHlvdSBhcmUgaW50ZXJl
-c3RlZCwgcGxlYXNlIHdyaXRlIHRvOiBlbGdvLnNjaHVsekBnbWFpbC5jb208bWFpbHRvOmVsZ29z
-Y2h1bHpAZ21haWwuY29tPiAuDQpUaGFuayB5b3UgdmVyeSBtdWNoLg0KQmVzdCwNClJhc2htaSBM
-YW1pY2hoYW5lDQoNCg0K
 
 
 ========== EMAIL ==========
@@ -32716,35 +32043,6 @@ Becca
 
 ========== EMAIL ==========
 
-==== sender: <s.wegmann@jacobs-university.de>
-==== email_list: "=?utf-8?Q?nordmetall-students@jacobs-university.de?="
-	<nordmetall-students@jacobs-university.de>
-==== date: Wed, 26 Feb 2014 06:35:20 +0000
-==== subject: [nordmetall-students] =?utf-8?q?Because_things_are_Happening_and_?=
-==== email_text: 
-DQoNCg0KR29vZCBtb3JuaW5nIGV2ZXJ5Ym9keSDwn5iKDQoNCg0KDQpBcyB5b3UgbWlnaHQgaGF2
-ZSBzZWVuIGluIFByZXNpZGVudCBXaW5kdCdzIGxhc3QgbGVhZGVyc2hpcCBsZXR0ZXIgYW5kIGFz
-IHdhcyBhZGRyZXNzZWQgZHVyaW5nIHRoZSBTdHVkZW50IEFzc2VtYmx5IG9uIEZyaWRheSwgd2Ug
-d2lsbCBzb29uIGJlIHdvcmtpbmcgb24gdW5pdmVyc2l0eSBtYXR0ZXJzIGluIENoYW5nZSBUZWFt
-cyBmb3IgVmlzaW9uIDIwMTguIFRob3NlIGNoYW5nZSB0ZWFtcyBuZWVkIHlvdSENCg0KDQoNCg0K
-RG8geW91IHdhbnQgdGhlIHN0dWRlbnRzJyB2b2ljZXMgdG8gYmUgaGVhcmQ/DQoNCg0KDQoNCkFy
-ZSB5b3UgaW50ZXJlc3RlZCBpbiANCg0KLSBBZG1pc3Npb24sIEZ1bmRyYWlzaW5nICYgQWx1bW5p
-DQoNCi0gTWFya2V0aW5nICYgQ29tbXVuaWNhdGlvbnMNCg0KLSBBY2FkZW1pYyBQcm9ncmFtcyAm
-IFJlc2VhcmNoDQoNCi0gUHJvY2VzcyBPcmdhbml6YXRpb24gDQoNCi0gVHJhbnNmZXIsIEV4ZWN1
-dGl2ZSBFZHVjYXRpb24/DQoNCg0KDQoNCkFwcGx5IHRvbmlnaHQhIFNlbmQgdXMgeW91ciBzdGF0
-ZW1lbnQgb2YgbW90aXZhdGlvbiBieSB0b21vcnJvdywgV2VkbmVzZGF5IDI2dGggb2YgRmVicnVh
-cnksIDIzOjU5IQ0KDQpQbGVhc2Ugc3BlY2lmeSB0aGUgY2hhbmdlIHRlYW0geW91IHdvdWxkIGxp
-a2UgdG8gd29yayBpbiBhbmQgcHJlcGFyZSB0byBhdHRlbmQgdGhlIFVTRydzIG1lZXRpbmcgb24g
-VGh1cnNkYXksIDI3dGggb2YgRmVicnVhcnkgMTM6MDAtMTQ6MDAgaW4gdGhlIE1lcmNhdG9yIENv
-bGxlZ2UgT2ZmaWNlLiANCg0KDQoNCg0KV2UgYXBvbG9naXplIGZvciB0aGUgc2hvcnQgbm90aWNl
-IGFuZCBhcmUgbG9va2luZyBmb3J3YXJkIHRvIHlvdXIgYXBwbGljYXRpb25zLiBJZiB5b3UgaGF2
-ZSBhbnkgcXVlc3Rpb25zLCBwbGVhc2UgZmVlbCBmcmVlIHRvIGNvbnRhY3QgbWUgb3IgYWxsIG90
-aGVyIHBhcmxpYW1lbnRhcmlhbnMgYXQgYW55IHRpbWUhDQoNCg0KDQoNCk9uIGJlaGFsZiBvZiB0
-aGUgVW5kZXJncmFkdWF0ZSBTdHVkZW50IEdvdmVybm1lbnQsDQoNCg0KDQpTaWVnZnJpZWQgV2Vn
-bWFubg=
-
-========== EMAIL ==========
-
 ==== sender: "Trey, Nancy Jean" <n.trey@jacobs-university.de>
 ==== email_list: "jacobs-students-announce@lists.jacobs-university.de"
 	<jacobs-students-announce@lists.jacobs-university.de>
@@ -33273,28 +32571,6 @@ E-Mail: F.filzhut@jacobs-university.de
 
 ========== EMAIL ==========
 
-==== sender: "Dittrich, Rico" <r.dittrich@jacobs-university.de>
-==== email_list: Krupp <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, Students	<nordmetall-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Wed, 26 Feb 2014 22:37:19 +0000
-==== subject: [nordmetall-students] NO morning CSC office hours tomorrow!
-==== email_text: 
-RGVhciBhbGwsDQoNCkR1ZSB0byBtZSBiZWluZyBzaWNrIHRoZXJlIHdpbGwgYmUgbm8gb2ZmaWNl
-IGhvdXJzIG9mZmVyZWQgYnkgdGhlIENhcmVlciBTZXJ2aWNlcyBDZW50ZXIgdG9tb3Jyb3cgYmV0
-d2VlbiAxMDowMC0xMjowMC4gSWYgeW91IG5lZWQgYWR2aWNlIHVyZ2VudGx5IEkgYWR2aXNlIHlv
-dSB0byBnbyB0byBSTEggMTQxIGluIHRoZSBhZnRlcm5vb24gdG8gZ2V0IGRvY3VtZW50cyByZXZp
-ZXdlZCBhbmQvb3IgZGlyZWN0IGZlZWRiYWNrLg0KDQpGb3IgZnVydGhlciBxdWVzdGlvbnMgbGV0
-IG1lIGtub3cuIFNvcnJ5IGZvciB0aGUgaW5jb252ZW5pZW5jZSBjYXVzZWQgYW5kIHRoYW5rIHlv
-dSBmb3IgeW91ciB1bmRlcnN0YW5kaW5nLg0KDQpUYWtlIGNhcmUgb2YgeW91cnNlbHZlcw0KUmlj
-byBEaXR0cmljaA0KDQotLS0NClJpY28gRGl0dHJpY2gNCkludGVybmF0aW9uYWwgUG9saXRpY3Mg
-YW5kIEhpc3RvcnkgMjAxNQ0KUGhvbmU6ICs0OSA0MjEgMjAwNTE0MTx0ZWw6KzQ5JTIwNDIxJTIw
-MjAwNTE0MT4gfCBNb2JpbGU6ICs0OSAxNzYgMjUzMTQzMzM8dGVsOis0OSUyMDE3NiUyMDI1MzE0
-MzMzPg0KQWRkcmVzczogTWFpbGJveCA2MjQsIENvbGxlZ2UgUmluZyA0LCBELTI4NzU5IEJyZW1l
-bjx4LWFwcGxlLWRhdGEtZGV0ZWN0b3JzOi8vMi8xPg0K
-
-
-========== EMAIL ==========
-
 ==== sender: Ian Quisenberry <a.quisenberry@jacobs-university.de>
 ==== email_list: "collegeiii-students@jacobs-university.de"
 	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -33349,36 +32625,6 @@ or just contact me and you'll get one for free (2 available).
 ==== subject: [mercator-students] Selling: ESO BETA INVITE
 ==== email_text: 
 Same here, also have 2.
-
-========== EMAIL ==========
-
-==== sender: <s.wegmann@jacobs-university.de>
-==== email_list: "=?utf-8?Q?nordmetall-students@jacobs-university.de?="
-	<nordmetall-students@jacobs-university.de>,	"=?utf-8?Q?mercator-students@jacobs-university.de?="	<mercator-students@jacobs-university.de>,	"=?utf-8?Q?collegeiii-students@jacobs-university.de?="	<collegeiii-students@jacobs-university.de>,	"=?utf-8?Q?krupp-students@jacobs-university.de?="	<krupp-students@jacobs-university.de>
-==== date: Thu, 27 Feb 2014 07:19:15 +0000
-==== subject: [nordmetall-students] =?utf-8?q?Geopolitics_=28Energy=29?=
-==== email_text: 
-R2VvcG9saXRpY3MgdGFrZXJzOg0KRG8gd2UgaGF2ZSB0byB0dXJuIGluIGFuIEFic3RyYWN0IG9m
-IG91ciBwcmVzZW50YXRpb24gdG9kYXk/DQpTdGguIGxpa2UgMiBwYXJhZ3JhcGhzIGFuZCBhIGJp
-Ymxpb2dyYXBoeT8NCg0KDQpUaGFua3MgZm9yIHRoZSBpbmZvIGluIGFkdmFuY2VkIPCfmIo
-
-========== EMAIL ==========
-
-==== sender: <s.wegmann@jacobs-university.de>
-==== email_list: "=?utf-8?Q?nordmetall-students@jacobs-university.de?="
-	<nordmetall-students@jacobs-university.de>,	"=?utf-8?Q?mercator-students@jacobs-university.de?="	<mercator-students@jacobs-university.de>,	"=?utf-8?Q?collegeiii-students@jacobs-university.de?="	<collegeiii-students@jacobs-university.de>,	"=?utf-8?Q?krupp-students@jacobs-university.de?="	<krupp-students@jacobs-university.de>
-==== date: Thu, 27 Feb 2014 07:53:17 +0000
-==== subject: Re: [nordmetall-students] =?utf-8?q?Geopolitics_=28Energy=29?=
-==== email_text: 
-Rm91bmQgaXQhDQpJdHMgb24gdGhlIHN5bGFidXMgdW5kZXIgd2VlazINCg0KDQoNCg0KDQoNCkZy
-b206IHMud2VnbWFubkBqYWNvYnMtdW5pdmVyc2l0eS5kZQ0KU2VudDog4oCOVGh1cnNkYXnigI4s
-IOKAjjI34oCOIOKAjkZlYnJ1YXJ54oCOIOKAjjIwMTQg4oCOMDjigI464oCOMTkNClRvOiBub3Jk
-bWV0YWxsLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlLCBtZXJjYXRvci1zdHVkZW50c0Bq
-YWNvYnMtdW5pdmVyc2l0eS5kZSwgY29sbGVnZWlpaS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0
-eS5kZSwga3J1cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGUNCg0KDQoNCg0KDQpHZW9w
-b2xpdGljcyB0YWtlcnM6DQpEbyB3ZSBoYXZlIHRvIHR1cm4gaW4gYW4gQWJzdHJhY3Qgb2Ygb3Vy
-IHByZXNlbnRhdGlvbiB0b2RheT8NClN0aC4gbGlrZSAyIHBhcmFncmFwaHMgYW5kIGEgYmlibGlv
-Z3JhcGh5Pw0KDQoNCg0KDQpUaGFua3MgZm9yIHRoZSBpbmZvIGluIGFkdmFuY2VkIPCfmIo
 
 ========== EMAIL ==========
 
@@ -33833,32 +33079,6 @@ Thanks a lot !!!!!
 
 Best,
 Qifeng
-
-========== EMAIL ==========
-
-==== sender: "Hurlemann, Bianca" <b.hurlemann@jacobs-university.de>
-==== email_list: "jacobs-students-announce@lists.jacobs-university.de"
-	<jacobs-students-announce@lists.jacobs-university.de>,	"jacobs-users@jacobs-university.de" <jacobs-users@jacobs-university.de>,	=?utf-8?B?RmEuIFbDtmJlbA==?= <voebel.gebaeudereinigung@ewetel.net>, "Frank
-==== date: Fri, 28 Feb 2014 07:41:58 +0000
-==== subject: [jacobs-students-announce] OFFICIAL Mercator Servery CLOSED!
-==== email_text: 
-RGVhciBKYWNvYnMgQ29tbXVuaXR5LA0KDQpkdWUgdG8gd2F0ZXIgcGlwZSBwcm9ibGVtcyBpbiBN
-ZXJjYXRvciB3ZSBuZWVkIHRvIGNsb3NlIGRvd24gdGhlIHNlcnZlcnkgZm9yIGEgd2hpbGUgdW50
-aWwgcmVwYWlycyBoYXZlIHRha2VuIHBsYWNlLiBXZcK0bGwgaW5mb3JtIHlvdSBpbW1lZGlhdGVs
-eSB3aGVuIHRoZSBzZXJ2ZXJ5IGNhbiBnbyBiYWNrIHRvIHNlcnZpY2UuDQoNClBsZWFzZSBhY2Nl
-cHQgbXkgYXBvbG9naWVzIGZvciBhbnkgaW5jb252ZW5pZW5jZSB0aGlzIG1pZ2h0IGNhdXNlIHlv
-dS4gDQoNCkJlc3Qgd2lzaGVzDQoNCkJpYW5jYSBIdXJsZW1hbm4NCi0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCkJpYW5j
-YSBIdXJsZW1hbm4NCkhlYWQgb2YgSG91c2luZyBhbmQgQ29uZmVyZW5jZSBTZXJ2aWNlcw0KSmFj
-b2JzIFVuaXZlcnNpdHkgQnJlbWVuIGdHbWJIDQpDYW1wdXMgUmluZyAxIHwgMjg3NTkgQnJlbWVu
-IHwgR2VybWFueQ0KcGhvbmU6ICs0OSA0MjEgMjAwIDQ1NDEgfA0KZmF4OiArNDkgNDIxIDIwMCA0
-OSA0NTQxIHwNCmUtbWFpbDogYi5odXJsZW1hbm5AamFjb2JzLXVuaXZlcnNpdHkuZGUgDQp3d3cu
-amFjb2JzLXVuaXZlcnNpdHkuZGUNCg0KDQpDb21tZXJjaWFsIHJlZ2lzdHJ5OiBBbXRzZ2VyaWNo
-dCBCcmVtZW4sIEhSQiAxOCAxMTcNCkNFTyAvIEdlc2Now6RmdHNmw7xocmVyaW46IFByb2YuIERy
-Li1JbmcuIEthdGphIFdpbmR0DQpDaGFpciBCb2FyZCBvZiBHb3Zlcm5vcnM6IFByb2YuIERyLiBL
-YXJpbiBMb2NodGUNCg0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX18KamFjb2JzLXN0dWRlbnRzLWFubm91bmNlIG1haWxpbmcgbGlzdApqYWNvYnMtc3R1ZGVu
-dHMtYW5ub3VuY2VAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUKaHR0cDovL2xpc3RzLmphY29i
 
 ========== EMAIL ==========
 
@@ -34794,30 +34014,6 @@ on behalf of the JUB Rotaract Club
 
 ========== EMAIL ==========
 
-==== sender: Aman Bhattarai <am.bhattarai@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>, ","	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
-==== date: Mon, 3 Mar 2014 14:55:34 +0100
-==== subject: [nordmetall-students] Do you like dancing in Bollywood songs?
-==== email_text: 
-Li5pZiBzbywKCkpPSU4gVVMgISEKClRlYW0gIkFzaWFuIEpoYXRrYSIgaXMgcGxhbm5pbmcgdG8g
-YmUgYmFjayBhZ2FpbiB0aGlzIHllYXIgYXQKU3BvdGxpZ2h0IDIwMTQuIElmIHlvdSB3b3VsZCBs
-aWtlIHRvIGJlIGEgcGFydCBvZiBpdCwgcGxlYXNlIEhJVApSRVBMWSEhCgpDaGVjayBvdXQgb3Vy
-IHBlcmZvcm1hbmNlIGZyb20gU3BvdGxpZ2h0IDIwMTIKaHR0cHM6Ly93d3cueW91dHViZS5jb20v
-d2F0Y2g/dj1WWEFlX2ROQlJZbwoKVHJ1c3QgbWUsIHRoaXMgdGltZSBpdCBpcyBnb2luZyB0byBi
-ZSBhIGxlZ2VuZGFyeSBvbmUgOy0pCgpDaGVlcnMsCkFtYW4KCgotLSAKQmVzdCByZWdhcmRzIC8g
-TWl0IGZyZXVuZGxpY2hlbiBHcsO8w59lbiAvIOCknOCkryDgpLngpYvgpLjgpY0KCkFtYW4gQmhh
-dHRhcmFpClNjaG9vbCBvZiBFbmdpbmVlcmluZyBhbmQgU2NpZW5jZQpCU2MgSW50ZXJuYXRpb25h
-bCBMb2dpc3RpY3MgTWFuYWdlbWVudCAmIEVuZ2luZWVyaW5nIDIwMTQKCkNvbGxlZ2UgMyB8IE9m
-ZmljZSBUZWFtCklSQyBDaXJjdWxhdGlvbiBEZXNrIHwgU3R1ZGVudCBTdXBlcnZpc29yCgpKYWNv
-YnMgVW5pdmVyc2l0eSBCcmVtZW4KTWFpbGJveCAwNTggfCBDb2xsZWdlIFJpbmcgNwoyODc1OSB8
-IEJyZW1lbiB8IEdlcm1hbnkKCuKYjyArNDkgKDAxKSA1NzgwMjg2OTE2Cl9fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCm5vcmRtZXRhbGwtc3R1ZGVudHMgbWFp
-bGluZyBsaXN0Cm5vcmRtZXRhbGwtc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUK
-aHR0cDovL2xpc3RzLmphY29icy11bml2ZXJzaXR5LmRlL21haWxtYW4vbGlzdGluZm8vbm9yZG1l
-
-========== EMAIL ==========
-
 ==== sender: "Shutka, Bogdan" <b.shutka@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>
@@ -34941,24 +34137,6 @@ Best,
 
 Iris
 
-
-========== EMAIL ==========
-
-==== sender: "Bhattarai, Aman" <am.bhattarai@jacobs-university.de>
-==== email_list: "collegeiii-students@jacobs-university.de"
-	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Mon, 3 Mar 2014 20:17:13 +0000
-==== subject: [nordmetall-students] The Beer Game!?
-==== email_text: 
-V291bGRuJ3QgaXQgYmUgY29vbC4uDQouLmlmIHlvdSBnZXQgdG8gRHJpbmsgQmVlcg0KYXMgd2Vs
-bCBhcw0KLi5XaW4gc29tZSBhdHRyYWN0aXZlIHByaXplcyBvbiBqdXN0IHBsYXlpbmcgYSBCZWVy
-IEdhbWU/DQoNCiNUaGUgQmVlciBEaXN0cmlidXRpb24gQ2hhbGxlbmdlDQoNCkNvbWluZyBTb29u
-Li4uLg0KDQpCZXN0IHJlZ2FyZHMgLyBNaXQgZnJldW5kbGljaGVuIEdyw7zDn2VuIC8g4KSc4KSv
-IOCkueCli+CkuOCljQ0KDQpBbWFuIEJoYXR0YXJhaQ0KDQpKYWNvYnMgVW5pdmVyc2l0eSBCcmVt
-ZW4gZ0dtYkgNClNjaG9vbCBvZiBFbmdpbmVlcmluZyBhbmQgU2NpZW5jZQ0KQi5TYy4gSW50ZXJu
-YXRpb25hbCBMb2dpc3RpY3MgRW5naW5lZXJpbmcgYW5kIE1hbmFnZW1lbnQgKDIwMTQpDQpDb2xs
-ZWdlIFJpbmcgNywgTWFpbGJveCBuby4gMDU4DQoyODc1OSBCcmVtZW4NCg0KVGVsOis0OTE1MjU3
-NDI1MDAzDQo
 
 ========== EMAIL ==========
 
@@ -35590,23 +34768,6 @@ i.baradyana@jacobs-university.de
 
 ========== EMAIL ==========
 
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Wed, 5 Mar 2014 06:17:33 +0000
-==== subject: [ABCS] Give us a chance.
-==== email_text: 
-R29vZCBtb3JuaW5nIHknYWxsLg0KDQpPdXIgbmV4dCBtZWV0aW5nIGlzIG5vdCBnb2luZyB0byBi
-ZSBhbm90aGVyIHdhc3RlIG9mIHlvdXIgdGltZS4gSSBrbm93IG1hbnkgb2YgeW91IGRvbid0IGZl
-ZWwgdGhlIG5lZWQgdG8gY29tZSB0byB0aGVzZSBtZWV0aW5ncyBhbmQgc29tZSBvdGhlcnMgaGF2
-ZSBqdXN0IGNoZWNrZWQgb3V0IG9mIHRoZSB3aG9sZSBwcm9jZXNzLCBidXQgd2UgYXJlIG5vdCBh
-cyBob3BlbGVzcyBhcyB5b3UgdGhpbmsuDQpIZWxwIHVzIG5vdCBlbWJhcnJhc3Mgb3Vyc2VsdmVz
-IGFuZCB0aGUgQUJDUyBjb21tdW5pdHkuDQpXZSBoYXZlIGEgZ3JlYXQgcGxhbiB3ZSBuZWVkIHlv
-dSBhbmQgeW91ciBvcGluaW9uLg0KU28gcGxlYXNlIGdpdmUgdXMgYSBjaGFuY2UuDQpodHRwOi8v
-ZG9vZGxlLmNvbS9zN3l4cDZzNTVmenh3c2szDQoNCkNoZXJyaW8g4pi6DQoNCg=
-
-========== EMAIL ==========
-
 ==== sender: collegeiii-students [mailto:collegeiii-students-bounces@lists.jacobs-=
 ==== email_list: krupp-students@jacobs-university.de; mercator-students@jacobs-universit=
 
@@ -35792,37 +34953,6 @@ Annu Thapa
 
 +49 157 38726993.
 
-
-========== EMAIL ==========
-
-==== sender: "Kvatashidze, Iakob" <i.kvatashidze@jacobs-university.de>
-==== email_list: "KC, Tilak" <t.kc@jacobs-university.de>
-
-==== date: Wed, 5 Mar 2014 16:18:55 +0000
-==== subject: Re: [nordmetall-students] My short story collection 68 Stories
-==== email_text: 
-Q29uZ3JhdHVsYXRpb25zIGFuZCBnb29kIGx1Y2shIDopDQoNCkJ1dCB3aHkgNjggYW5kIG5vdCA2
-OSBzdG9yaWVzPw0KOikpKSkNCkl0IHdvdWxkIGJlIGludHJpZ3VpbmcuIDspDQoNCkhhaGEgOikp
-DQoNCg0KDQpTZW50IGZyb20gbXkgaVBob25lDQoNCk9uIDUg4YOb4YOQ4YOgLCAyMDE0LCBhdCAx
-NToxNywgIlRpbGFrIEtDIiA8dC5rY0BqYWNvYnMtdW5pdmVyc2l0eS5kZTxtYWlsdG86dC5rY0Bq
-YWNvYnMtdW5pdmVyc2l0eS5kZT4+IHdyb3RlOg0KDQpEZWFyIGZlbGxvdyBKYWNvYmlhbnMsDQoN
-Ck15IHNob3J0IHN0b3J5IGNvbGxlY3Rpb24gIjY4IFN0b3JpZXMiIGlzIG91dC4gSWYgeW91IGFy
-ZSBpbnRlcmVzdGVkIGluIGhhdmluZyBhIGNvcHkgaXQgaXMgYXZhaWxhYmxlIGluIGFtYXpvbi4N
-Cg0KDQpEZXNjcmlwdGlvbjoNCg0KNjggU3Rvcmllc+KAnSBpcyB0aGUgY29sbGVjdGlvbiBvZiB2
-ZXJ5IHNob3J0IHN0b3JpZXMsIGRheSB0byBkYXkgYW5lY2RvdGVzIGFuZCBtdXNpbmdzIHVwb24g
-dGhlIGxpZmUuVGhlIHN0b3JpZXMgcmVmbGVjdCBteSBwZXJjZXB0aW9uIG9mIHJlYWxpdHkgd2hp
-bGUgZ3Jvd2luZyB1cCBhcyB3ZWxsIGFzIG15IHN0cnVnZ2xlIHdpdGggbGlmZS4gVGhlIHNob3J0
-IHN0b3J5IGNvbGxlY3Rpb24gaXMgbm93IGF2YWlsYWJsZSBvbiBhbWF6b24gb24gcHJpbnQgYW5k
-IGtpbmRsZSAoZWJvb2spIHZlcnNpb24uIEZvbGxvd2luZyBhcmUgdGhlIGRpc3RyaWJ1dGlvbiBj
-aGFubmVscy4NCg0KRm9yIG1vcmUgaW5mb3JtYXRpb246IGh0dHA6Ly93d3cudGlsYWtrYy5jb20v
-Njgtc3Rvcmllcy8NCg0KDQpUaGFuayB5b3UgdmVyeSBtdWNoIGZvciB5b3VyIHRpbWUuDQoNCllv
-dXJzIFNpbmNlcmVseSwNClRpbGFrDQoNCi0tDQpDbGFzcyBvZiAyMDE0LCBNU2MuIEludGVybmF0
-aW9uYWwgTG9naXN0aWNzDQpQcmVzaWRlbnQsIEdyYWR1YXRlIFN0dWRlbnQgQXNzb2NpYXRpb24N
-Cjw2OF9TdG9yaWVzLmpwZz4NCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX19fX19fDQpub3JkbWV0YWxsLXN0dWRlbnRzIG1haWxpbmcgbGlzdA0Kbm9yZG1ldGFsbC1z
-dHVkZW50c0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZTxtYWlsdG86bm9yZG1ldGFsbC1zdHVk
-ZW50c0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZT4NCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5p
-dmVyc2l0eS5kZS9tYWlsbWFuL2xpc3RpbmZvL25vcmRtZXRhbGwtc3R1ZGVudHMNCg=
 
 ========== EMAIL ==========
 
@@ -36394,19 +35524,6 @@ Tanja Heinemann
 
 ========== EMAIL ==========
 
-==== sender: "Bhattarai, Aman" <am.bhattarai@jacobs-university.de>
-==== email_list: Krupp College <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>, Nordmetall	<nordmetall-students@jacobs-university.de>
-==== date: Fri, 7 Mar 2014 12:57:48 +0000
-==== subject: [nordmetall-students] Ticket to Justin Bieber's concert
-==== email_text: 
-RGVhciBBbGwNCkkgaGF2ZSAxIGV4dHJhIHRpY2tldCB0byBKdXN0aW4gYmllYmVyJ3MgY29uY2Vy
-dC4NCklmIHlvdSBuZWVkIGl0IHBsZWFzZSB0aGVuIHBsZWFzZSBoaXQgcmVwbHkuDQoNCkJlc3Qs
-DQpBbWFuIEJoYXR0YXJhaQ0KDQoNClNlbnQgZnJvbSBTYW1zdW5nIE1vYmlsZQ0K
-
-
-========== EMAIL ==========
-
 ==== sender: "Saeed, Muhammad Omer" <mu.saeed@jacobs-university.de>
 ==== email_list: krupp-students <krupp-students@lists.jacobs-university.de>,
 	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
@@ -36839,32 +35956,6 @@ email: i.popanu@jacobs-university.de
 
 ========== EMAIL ==========
 
-==== sender: "Buchman, Tyler Irving" <t.buchman@jacobs-university.de>
-==== email_list: "mercator-students@jacobs-university.de"
-	<mercator-students@jacobs-university.de>, 'Krupp'	<krupp-students@jacobs-university.de>,	"Nordmetall-Students@lists.jacobs-university.de"	<Nordmetall-Students@lists.jacobs-university.de>, Students	<collegeiii-students@jacobs-university.de>
-==== date: Sun, 9 Mar 2014 13:00:15 +0000
-==== subject: [nordmetall-students] last game/ senior night
-==== email_text: 
-T25seSB0aHJlZSB5ZWFycyBhZ28sIEphY29iJ3MgZGlkbid0IGhhdmUgYSBiYXNrZXRiYWxsIHRl
-YW0uIFRvZ2V0aGVyIHdpdGggc29tZSBvdGhlciBzZWNvbmQgYW5kIHRoaXJkIHllYXJzLCBMZXdp
-biBTY2huZWlkZXLvu78gYW5kIEhlbnJpayBUaG9tc2Vu77u/IGRlY2lkZWQgdG8gY2hhbmdlIHRo
-YXQhIE5vdywgdGhhbmtzIHRvIHRoZW0sIHdlIGhhdmUgYSBzdWNjZXNzZnVsIGFuZCBzdXN0YWlu
-YWJsZSBiYXNrZXRiYWxsIHRlYW0gcmVwcmVzZW50aW5nIEphY29icyBhbmQgb3VyIHN0dWRlbnRz
-IHRvIEJyZW1lbi4gRm9yIG1lLCB0aGlzIG1lYW5zIGJlaW5nIGFibGUgdG8gY29udGludWUgcGxh
-eWluZyB0aGUgZ3JlYXQgZ2FtZSBJIGJhc2VkIG1vc3Qgb2YgbXkgY2hpbGRob29kIGFyb3VuZC4N
-Cg0KVGhpcyBpcyBhIHNwZWNpYWwgbmlnaHQgZm9yIEphY29iJ3MgYmFza2V0YmFsbC4gVG9kYXkg
-aXMgdGhlaXIgbGFzdCBnYW1lIGluIGEgSmFjb2IncyB1bmlmb3JtLCBhbmQgd2UgaG9wZSB5b3Ug
-Y2FuIGNvbWUgc2hvdyB5b3VyIHN1cHBvcnQgZm9yIHlvdXIgdGVhbSBhbmQgZm9yIG91ciBzZW5p
-b3JzLiBBcyBhIHRlYW0sIHdlIHdhbnRlZCB0byBtYWtlIGl0IGEgZ3JlYXQgZXZlbnQgZm9yIGFs
-bCwgc28gd2UgZWFjaCBjaGlwcGVkIGluIHNvbWUgbW9uZXkgYW5kIGdvdCBmcmVlIGhvdCBkb2dz
-LCBzb2RhLCBhbmQgYmVlciB0aGF0IHdlIHdpbGwgYmUgZ2l2aW5nIG91dCAoZnJlZSEpIHRvIG91
-ciBmYW5zIDspIFNvIGNvbWUgb3V0IGFuZCBzdXBwb3J0IHVzIGF0IDE3OjAwIGluIHRoZSBTQ0Mg
-KHJpZ2h0IG5leHQgdG8gdGhlIHRlbm5pcyBjb3VydHMpLCBhbmQgaG9wZWZ1bGx5IHdhdGNoIHVz
-IGZpbmlzaCBvdXIgc2Vhc29uLCBhbmQgb3VyIHNlbmlvcidzIEphY29icyBjYXJlZXJzLCB3aXRo
-IGEgYmlnIHdpbiENCg=
-
-========== EMAIL ==========
-
 ==== sender: "Wu, Suizhi" <s.wu@jacobs-university.de>
 ==== email_list: "krupp-students@jacobs-university.de"
 	<krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
@@ -36916,21 +36007,6 @@ Hit reply if you are interested and for the rest, sorry for the spam.
 Best
 
 Cancan
-
-
-========== EMAIL ==========
-
-==== sender: "Chen, Jingwei" <j.chen@jacobs-university.de>
-==== email_list: "mercator-students@jacobs-university.de"
-	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Sun, 9 Mar 2014 15:18:11 +0000
-==== subject: [nordmetall-students] Lost Campus Card
-==== email_text: 
-SGV5IGd1eXMsDQoNCkkgY291bGRuoa90IGZpbmQgbXkgY2FtcHVzIGNhcmQgbm93oa2hrSAgOigN
-CkkgdGhpbmsgaXQgd2FzIGxvc3QgZHVyaW5nIHRoZSBmb2xsb3dpbmcgcm91dGVzOg0KS3J1cHA+
-Pk5vcmRtZXRhbGw+Pk1lcmNhdG9yPj5Db2ZmZWUgQmFyDQpJIGhhdmUgc2VhcmNoZWQgYnkgbXlz
-ZWxmIGJ1dCBub3RoaW5nIGZvdW5koa0uDQpQbHogY29udGFjdCBtZSBpZiB5b3UgZmluZCBpdCEh
-DQpUaGFuayB5b3UgaW4gYWR2YW5jZSEhISENCg0KQmVzdCwNCkppbmd3ZWkNCg0K
 
 
 ========== EMAIL ==========
@@ -37033,172 +36109,6 @@ For now the exact rules aren't set. We just want to know which Sunday suits you 
 
 Best,
 your Floor-Reps
-
-========== EMAIL ==========
-
-==== sender: Nikoloz Kapanadze <n.kapanadze@jacobs-university.de>
-==== email_list: "Popa, Alexandru" <a.popa@jacobs-university.de>
-
-==== date: Sun, 9 Mar 2014 23:05:47 +0100
-==== subject: Re: [nordmetall-students] INDOOR FOOTBALL HAPPENING NOW
-==== email_text: 
-NwoKT24gOSBNYXIgMjAxNCAyMzowMCwgIlBvcGEsIEFsZXhhbmRydSIgPGEucG9wYUBqYWNvYnMt
-dW5pdmVyc2l0eS5kZT4gd3JvdGU6Cj4KPiBZb3UgbWVhbiA2LCBub3QgNS4KPiBfX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fXwo+IEZyb206IEd5dXJjaGV2LCBHZW9yZ2kgWXVsaXlhbm92
-Cj4gU2VudDogU3VuZGF5LCBNYXJjaCAwOSwgMjAxNCAxMDo1NyBQTQo+IFRvOiBCb3lhZHpoaWV2
-LCBNaWNoYWlsIERpbWl0cm92OyBCYXRvb2wsIFphaW5hOyBDb2xpYmFiYSwgU3RlZmFuYSBBbmFp
-czsgUG9wYSwgQWxleGFuZHJ1OyBCYWxpLCBTYXJkYXIgSW1yYW4gSHVzc2FpbjsgY29sbGVnZWlp
-aS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbWVyY2F0b3Itc3R1ZGVudHNAamFjb2Jz
-LXVuaXZlcnNpdHkuZGU7IG5vcmRtZXRhbGwtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7
-IEtydXBwLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlCj4gU3ViamVjdDogUkU6IElORE9P
-UiBGT09UQkFMTCBIQVBQRU5JTkcgTk9XCj4KPiBZZWFoLCB3aHkgbm90IGluc3RlYWQgb2YgZ2V0
-dGluZyBvbmUgc3BhbSwgd2UgbWFrZSB0aGVtIDU/IEdyZWF0IGpvYiwgZ3V5cyEKPiBfX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fXwo+IEZyb206IGNvbGxlZ2VpaWktc3R1ZGVudHMgW2Nv
-bGxlZ2VpaWktc3R1ZGVudHMtYm91bmNlc0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZV0gb24g
-YmVoYWxmIG9mIEJveWFkemhpZXYsIE1pY2hhaWwgRGltaXRyb3YgW20uYm95YWR6aGlldkBqYWNv
-YnMtdW5pdmVyc2l0eS5kZV0KPiBTZW50OiBTdW5kYXksIE1hcmNoIDA5LCAyMDE0IDEwOjQ1IFBN
-Cj4gVG86IEJhdG9vbCwgWmFpbmE7IENvbGliYWJhLCBTdGVmYW5hIEFuYWlzOyBQb3BhLCBBbGV4
-YW5kcnU7IEJhbGksIFNhcmRhciBJbXJhbiBIdXNzYWluOyBjb2xsZWdlaWlpLXN0dWRlbnRzQGph
-Y29icy11bml2ZXJzaXR5LmRlOyBtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5k
-ZTsgbm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgS3J1cHAtc3R1ZGVu
-dHNAamFjb2JzLXVuaXZlcnNpdHkuZGUKPiBTdWJqZWN0OiBSZTogW2NvbGxlZ2VpaWktc3R1ZGVu
-dHNdIElORE9PUiBGT09UQkFMTCBIQVBQRU5JTkcgTk9XCj4KPiBoZXJlIHdlIGdvIGFnYWluCj4K
-Pgo+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4gRnJvbTogY29sbGVnZWlpaS1z
-dHVkZW50cyBbY29sbGVnZWlpaS1zdHVkZW50cy1ib3VuY2VzQGxpc3RzLmphY29icy11bml2ZXJz
-aXR5LmRlXSBvbiBiZWhhbGYgb2YgQmF0b29sLCBaYWluYSBbei5iYXRvb2xAamFjb2JzLXVuaXZl
-cnNpdHkuZGVdCj4gU2VudDogU3VuZGF5LCBNYXJjaCAwOSwgMjAxNCAxMDo0NCBQTQo+IFRvOiBD
-b2xpYmFiYSwgU3RlZmFuYSBBbmFpczsgUG9wYSwgQWxleGFuZHJ1OyBCYWxpLCBTYXJkYXIgSW1y
-YW4gSHVzc2FpbjsgY29sbGVnZWlpaS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbWVy
-Y2F0b3Itc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IG5vcmRtZXRhbGwtc3R1ZGVudHNA
-amFjb2JzLXVuaXZlcnNpdHkuZGU7IEtydXBwLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRl
-Cj4gU3ViamVjdDogUmU6IFtjb2xsZWdlaWlpLXN0dWRlbnRzXSBJTkRPT1IgRk9PVEJBTEwgSEFQ
-UEVOSU5HIE5PVwo+Cj4gSSB0aGluayBpdCdzIGltcG9ydGFudCB0byBjb25zaWRlciB3aGF0IGtp
-bmQgb2Ygc2hvZXMgd291bGQgYmUgYXBwcm9wcmlhdGUgaWYgSmFjb2JzIGhhZCBhIHdvbWVuJ3Mg
-aW5kb29yIGZvb3RiYWxsIHRlYW0uwqAKPgo+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fCj4gRnJvbToga3J1cHAtc3R1ZGVudHMgW2tydXBwLXN0dWRlbnRzLWJvdW5jZXNAbGlzdHMu
-amFjb2JzLXVuaXZlcnNpdHkuZGVdIG9uIGJlaGFsZiBvZiBDb2xpYmFiYSwgU3RlZmFuYSBBbmFp
-cyBbcy5jb2xpYmFiYUBqYWNvYnMtdW5pdmVyc2l0eS5kZV0KPiBTZW50OiBTdW5kYXksIE1hcmNo
-IDA5LCAyMDE0IDEwOjQyIFBNCj4gVG86IFBvcGEsIEFsZXhhbmRydTsgQmFsaSwgU2FyZGFyIElt
-cmFuIEh1c3NhaW47IGNvbGxlZ2VpaWktc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IG1l
-cmNhdG9yLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBub3JkbWV0YWxsLXN0dWRlbnRz
-QGphY29icy11bml2ZXJzaXR5LmRlOyBLcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5k
-ZQo+IFN1YmplY3Q6IFJlOiBba3J1cHAtc3R1ZGVudHNdIElORE9PUiBGT09UQkFMTCBIQVBQRU5J
-TkcgTk9XCj4KPiBZZWFoLCBhbmQgYXJlIHRoZXkgc3VwcG9zZWQgdG8gaGF2ZSBhIHdoaXRlIHNv
-bGU/IElmIG5vdCwgY2FuIEkgYnJpbmcgdGhlc2U/Cj4KPgo+IF9fX19fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fCj4gRnJvbTogbm9yZG1ldGFsbC1zdHVkZW50cyBbbm9yZG1ldGFsbC1zdHVk
-ZW50cy1ib3VuY2VzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRlXSBvbiBiZWhhbGYgb2YgUG9w
-YSwgQWxleGFuZHJ1IFthLnBvcGFAamFjb2JzLXVuaXZlcnNpdHkuZGVdCj4gU2VudDogU3VuZGF5
-LCBNYXJjaCAwOSwgMjAxNCAxMDoyOSBQTQo+IFRvOiBCYWxpLCBTYXJkYXIgSW1yYW4gSHVzc2Fp
-bjsgY29sbGVnZWlpaS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbWVyY2F0b3Itc3R1
-ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IG5vcmRtZXRhbGwtc3R1ZGVudHNAamFjb2JzLXVu
-aXZlcnNpdHkuZGU7IEtydXBwLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlCj4gU3ViamVj
-dDogUmU6IFtub3JkbWV0YWxsLXN0dWRlbnRzXSBJTkRPT1IgRk9PVEJBTEwgSEFQUEVOSU5HIE5P
-Vwo+Cj4gV2FpdCwgSSdtIGNvbmZ1c2VkLiBTaG91bGQgSSBicmluZyBjbGVhbiBzaG9lcyBvciBu
-b3Q/Cj4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiBGcm9tOiBrcnVwcC1zdHVk
-ZW50cyBba3J1cHAtc3R1ZGVudHMtYm91bmNlc0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZV0g
-b24gYmVoYWxmIG9mIEJhbGksIFNhcmRhciBJbXJhbiBIdXNzYWluIFtzLmJhbGlAamFjb2JzLXVu
-aXZlcnNpdHkuZGVdCj4gU2VudDogU3VuZGF5LCBNYXJjaCAwOSwgMjAxNCAxMDoyOCBQTQo+IFRv
-OiBjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBtZXJjYXRvci1zdHVk
-ZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5p
-dmVyc2l0eS5kZTsgS3J1cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGUKPiBTdWJqZWN0
-OiBba3J1cHAtc3R1ZGVudHNdIElORE9PUiBGT09UQkFMTCBIQVBQRU5JTkcgTk9XCj4KPiBJbmRv
-b3IgZm9vdGJhbGwgaW4gdGhlIFNTQyBoYXBwZW5pbmcgcmlnaHQgbm93ISEKX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18Kbm9yZG1ldGFsbC1zdHVkZW50cyBt
-YWlsaW5nIGxpc3QKbm9yZG1ldGFsbC1zdHVkZW50c0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5k
-ZQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1hbi9saXN0aW5mby9ub3Jk
-
-========== EMAIL ==========
-
-==== sender: Nikoloz Kapanadze <n.kapanadze@jacobs-university.de>
-==== email_list: "Munteanu, Petre Virgil" <p.munteanu@jacobs-university.de>
-
-==== date: Sun, 9 Mar 2014 23:07:53 +0100
-==== subject: Re: [nordmetall-students] INDOOR FOOTBALL HAPPENING NOW
-==== email_text: 
-QW55d2F5LCBpcyBpdCBva2F5IGlmIGkgd2FzaCBzaG9lcyBpJ3ZlIGFscmVhZHkgdXNlZD8KCk9u
-IDkgTWFyIDIwMTQgMjM6MDYsICJNdW50ZWFudSwgUGV0cmUgVmlyZ2lsIiA8cC5tdW50ZWFudUBq
-YWNvYnMtdW5pdmVyc2l0eS5kZT4gd3JvdGU6Cj4KPiBodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dh
-dGNoP3Y9dXc3bTVvMlVGQ3MKPgo+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX18KPiBGcm9tOiBub3JkbWV0YWxsLXN0dWRlbnRzIFtub3JkbWV0YWxsLXN0dWRlbnRzLWJv
-dW5jZXNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGVdIG9uIGJlaGFsZiBvZiBOaWtvbG96IEth
-cGFuYWR6ZSBbbi5rYXBhbmFkemVAamFjb2JzLXVuaXZlcnNpdHkuZGVdCj4gU2VudDogU3VuZGF5
-LCBNYXJjaCAwOSwgMjAxNCAxMTowNSBQTQo+IFRvOiBQb3BhLCBBbGV4YW5kcnUKPiBDYzogR3l1
-cmNoZXYsIEdlb3JnaSBZdWxpeWFub3Y7IGNvbGxlZ2VpaWktc3R1ZGVudHNAamFjb2JzLXVuaXZl
-cnNpdHkuZGXCoMKgwqDCoMKgwqDCoCA7wqAgbWVyY2F0b3Itc3R1ZGVudHNAamFjb2JzLXVuaXZl
-cnNpdHkuZGXCoMKgwqDCoMKgwqAgOyBCb3lhZHpoaWV2LCBNaWNoYWlsIERpbWl0cm92OyBCYWxp
-LCBTYXJkYXIgSW1yYW4gSHVzc2FpbjvCoMKgwqDCoCBLcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5p
-dmVyc2l0eS5kZTsgQmF0b29sLCBaYWluYTvCoCBub3JkbWV0YWxsLXN0dWRlbnRzQGphY29icy11
-bml2ZXJzaXR5LmRlCj4gU3ViamVjdDogUmU6IFtub3JkbWV0YWxsLXN0dWRlbnRzXSBJTkRPT1Ig
-Rk9PVEJBTEwgSEFQUEVOSU5HIE5PVwo+Cj4gNwo+Cj4gT24gOSBNYXIgMjAxNCAyMzowMCwgIlBv
-cGEsIEFsZXhhbmRydSIgPGEucG9wYUBqYWNvYnMtdW5pdmVyc2l0eS5kZT4gd3JvdGU6Cj4gPgo+
-ID4gWW91IG1lYW4gNiwgbm90IDUuCj4gPiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-Xwo+ID4gRnJvbTogR3l1cmNoZXYsIEdlb3JnaSBZdWxpeWFub3YKPiA+IFNlbnQ6IFN1bmRheSwg
-TWFyY2ggMDksIDIwMTQgMTA6NTcgUE0KPiA+IFRvOiBCb3lhZHpoaWV2LCBNaWNoYWlsIERpbWl0
-cm92OyBCYXRvb2wsIFphaW5hOyBDb2xpYmFiYSwgU3RlZmFuYSBBbmFpczsgUG9wYSwgQWxleGFu
-ZHJ1OyBCYWxpLCBTYXJkYXIgSW1yYW4gSHVzc2FpbjsgY29sbGVnZWlpaS1zdHVkZW50c0BqYWNv
-YnMtdW5pdmVyc2l0eS5kZTsgbWVyY2F0b3Itc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7
-IG5vcmRtZXRhbGwtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IEtydXBwLXN0dWRlbnRz
-QGphY29icy11bml2ZXJzaXR5LmRlCj4gPiBTdWJqZWN0OiBSRTogSU5ET09SIEZPT1RCQUxMIEhB
-UFBFTklORyBOT1cKPiA+Cj4gPiBZZWFoLCB3aHkgbm90IGluc3RlYWQgb2YgZ2V0dGluZyBvbmUg
-c3BhbSwgd2UgbWFrZSB0aGVtIDU/IEdyZWF0IGpvYiwgZ3V5cyEKPiA+IF9fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fCj4gPiBGcm9tOiBjb2xsZWdlaWlpLXN0dWRlbnRzIFtjb2xsZWdl
-aWlpLXN0dWRlbnRzLWJvdW5jZXNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGVdIG9uIGJlaGFs
-ZiBvZiBCb3lhZHpoaWV2LCBNaWNoYWlsIERpbWl0cm92IFttLmJveWFkemhpZXZAamFjb2JzLXVu
-aXZlcnNpdHkuZGVdCj4gPiBTZW50OiBTdW5kYXksIE1hcmNoIDA5LCAyMDE0IDEwOjQ1IFBNCj4g
-PiBUbzogQmF0b29sLCBaYWluYTsgQ29saWJhYmEsIFN0ZWZhbmEgQW5haXM7IFBvcGEsIEFsZXhh
-bmRydTsgQmFsaSwgU2FyZGFyIEltcmFuIEh1c3NhaW47IGNvbGxlZ2VpaWktc3R1ZGVudHNAamFj
-b2JzLXVuaXZlcnNpdHkuZGU7IG1lcmNhdG9yLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRl
-OyBub3JkbWV0YWxsLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBLcnVwcC1zdHVkZW50
-c0BqYWNvYnMtdW5pdmVyc2l0eS5kZQo+ID4gU3ViamVjdDogUmU6IFtjb2xsZWdlaWlpLXN0dWRl
-bnRzXSBJTkRPT1IgRk9PVEJBTEwgSEFQUEVOSU5HIE5PVwo+ID4KPiA+IGhlcmUgd2UgZ28gYWdh
-aW4KPiA+Cj4gPgo+ID4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiA+IEZyb206
-IGNvbGxlZ2VpaWktc3R1ZGVudHMgW2NvbGxlZ2VpaWktc3R1ZGVudHMtYm91bmNlc0BsaXN0cy5q
-YWNvYnMtdW5pdmVyc2l0eS5kZV0gb24gYmVoYWxmIG9mIEJhdG9vbCwgWmFpbmEgW3ouYmF0b29s
-QGphY29icy11bml2ZXJzaXR5LmRlXQo+ID4gU2VudDogU3VuZGF5LCBNYXJjaCAwOSwgMjAxNCAx
-MDo0NCBQTQo+ID4gVG86IENvbGliYWJhLCBTdGVmYW5hIEFuYWlzOyBQb3BhLCBBbGV4YW5kcnU7
-IEJhbGksIFNhcmRhciBJbXJhbiBIdXNzYWluOyBjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11
-bml2ZXJzaXR5LmRlOyBtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbm9y
-ZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgS3J1cHAtc3R1ZGVudHNAamFj
-b2JzLXVuaXZlcnNpdHkuZGUKPiA+IFN1YmplY3Q6IFJlOiBbY29sbGVnZWlpaS1zdHVkZW50c10g
-SU5ET09SIEZPT1RCQUxMIEhBUFBFTklORyBOT1cKPiA+Cj4gPiBJIHRoaW5rIGl0J3MgaW1wb3J0
-YW50IHRvIGNvbnNpZGVyIHdoYXQga2luZCBvZiBzaG9lcyB3b3VsZCBiZSBhcHByb3ByaWF0ZSBp
-ZiBKYWNvYnMgaGFkIGEgd29tZW4ncyBpbmRvb3IgZm9vdGJhbGwgdGVhbS4KPiA+Cj4gPiBfX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+ID4gRnJvbToga3J1cHAtc3R1ZGVudHMgW2ty
-dXBwLXN0dWRlbnRzLWJvdW5jZXNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGVdIG9uIGJlaGFs
-ZiBvZiBDb2xpYmFiYSwgU3RlZmFuYSBBbmFpcyBbcy5jb2xpYmFiYUBqYWNvYnMtdW5pdmVyc2l0
-eS5kZV0KPiA+IFNlbnQ6IFN1bmRheSwgTWFyY2ggMDksIDIwMTQgMTA6NDIgUE0KPiA+IFRvOiBQ
-b3BhLCBBbGV4YW5kcnU7IEJhbGksIFNhcmRhciBJbXJhbiBIdXNzYWluOyBjb2xsZWdlaWlpLXN0
-dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5p
-dmVyc2l0eS5kZTsgbm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgS3J1
-cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGUKPiA+IFN1YmplY3Q6IFJlOiBba3J1cHAt
-c3R1ZGVudHNdIElORE9PUiBGT09UQkFMTCBIQVBQRU5JTkcgTk9XCj4gPgo+ID4gWWVhaCwgYW5k
-IGFyZSB0aGV5IHN1cHBvc2VkIHRvIGhhdmUgYSB3aGl0ZSBzb2xlPyBJZiBub3QsIGNhbiBJIGJy
-aW5nIHRoZXNlPwo+ID4KPiA+Cj4gPiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+
-ID4gRnJvbTogbm9yZG1ldGFsbC1zdHVkZW50cyBbbm9yZG1ldGFsbC1zdHVkZW50cy1ib3VuY2Vz
-QGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRlXSBvbiBiZWhhbGYgb2YgUG9wYSwgQWxleGFuZHJ1
-IFthLnBvcGFAamFjb2JzLXVuaXZlcnNpdHkuZGVdCj4gPiBTZW50OiBTdW5kYXksIE1hcmNoIDA5
-LCAyMDE0IDEwOjI5IFBNCj4gPiBUbzogQmFsaSwgU2FyZGFyIEltcmFuIEh1c3NhaW47IGNvbGxl
-Z2VpaWktc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IG1lcmNhdG9yLXN0dWRlbnRzQGph
-Y29icy11bml2ZXJzaXR5LmRlOyBub3JkbWV0YWxsLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5
-LmRlOyBLcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZQo+ID4gU3ViamVjdDogUmU6
-IFtub3JkbWV0YWxsLXN0dWRlbnRzXSBJTkRPT1IgRk9PVEJBTEwgSEFQUEVOSU5HIE5PVwo+ID4K
-PiA+IFdhaXQsIEknbSBjb25mdXNlZC4gU2hvdWxkIEkgYnJpbmcgY2xlYW4gc2hvZXMgb3Igbm90
-Pwo+ID4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiA+IEZyb206IGtydXBwLXN0
-dWRlbnRzIFtrcnVwcC1zdHVkZW50cy1ib3VuY2VzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRl
-XSBvbiBiZWhhbGYgb2YgQmFsaSwgU2FyZGFyIEltcmFuIEh1c3NhaW4gW3MuYmFsaUBqYWNvYnMt
-dW5pdmVyc2l0eS5kZV0KPiA+IFNlbnQ6IFN1bmRheSwgTWFyY2ggMDksIDIwMTQgMTA6MjggUE0K
-PiA+IFRvOiBjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBtZXJjYXRv
-ci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgbm9yZG1ldGFsbC1zdHVkZW50c0BqYWNv
-YnMtdW5pdmVyc2l0eS5kZTsgS3J1cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGUKPiA+
-IFN1YmplY3Q6IFtrcnVwcC1zdHVkZW50c10gSU5ET09SIEZPT1RCQUxMIEhBUFBFTklORyBOT1cK
-PiA+Cj4gPiBJbmRvb3IgZm9vdGJhbGwgaW4gdGhlIFNTQyBoYXBwZW5pbmcgcmlnaHQgbm93ISEK
-PiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+IG5vcmRt
-ZXRhbGwtc3R1ZGVudHMgbWFpbGluZyBsaXN0Cj4gbm9yZG1ldGFsbC1zdHVkZW50c0BsaXN0cy5q
-YWNvYnMtdW5pdmVyc2l0eS5kZQo+IGh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9t
-YWlsbWFuL2xpc3RpbmZvL25vcmRtZXRhbGwtc3R1ZGVudHMKPgpfX19fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fXwpub3JkbWV0YWxsLXN0dWRlbnRzIG1haWxpbmcg
-bGlzdApub3JkbWV0YWxsLXN0dWRlbnRzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRlCmh0dHA6
-Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xpc3RpbmZvL25vcmRtZXRhbGwt
 
 ========== EMAIL ==========
 
@@ -37999,11 +36909,6 @@ College Ring 7 | Post Box 149
 
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -38528,27 +37433,6 @@ Best regards
 
 ========== EMAIL ==========
 
-==== sender: "Barabas, Razvan" <r.barabas@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Thu, 13 Mar 2014 15:42:00 +0000
-==== subject: [nordmetall-students] LOST/PROTESTING WALLET
-==== email_text: 
-TXkgZGFyayBicm93biBXQUxMRVQgKGFsc28sIGxlYXRoZXItaXNoKSBkZWNpZGVkIHRvIHByb3Rl
-c3QgYWdhaW5zdCBpdCBiZWluZyBzYXQgb24gYWxsIGRheSBhbmQgbWFuYWdlZCB0byBldmFkZSBt
-eSBwb3NzZXNzaW9uLiBJbiBvdGhlciB3b3JkcywgdGhlIGlkaW90IHdyaXRpbmcgdGhpcyBzcGFt
-IGxvc3QgaGlzIHdhbGxldCBhbmQgd291bGQgcmVhbGx5IG11Y2ggYXBwcmVjaWF0ZSBnZXR0aW5n
-IGl0IGJhY2suDQoNCkl0IGlzIHZlcnkgaW1wb3J0YW50IHRoYXQgSSBmaW5kIGl0LCBhcyBJIGhh
-ZCBtb3N0IG9mIG15IElEJ3MgYW5kIGEgc2hpdC10b24gb2Ygb3RoZXIgZG9jdW1lbnRzIGluIGl0
-Li4uIFdob21ldmVyIGhhcyBmb3VuZCBpdCBhbmQgcmV0dXJucyBpdCB0byBtZSB3aWxsIGdldCBh
-IHJld2FyZCBhcyB3ZWxsOiBhbGwgdGhlIG1vbmV0YXJ5IHVuaXRzIEkgaGFkIGluIGl0IChFWENF
-UFQgbXkgbHVja3kgZG9sbGFyKQ0KDQpUaGFuayB5b3UhDQoNClLEg3p2YW4gQmFyYWJhyJkNCg0K
-R0VNIENsYXNzIG9mIDIwMTYgfCBKYWNvYnMgVW5pdmVyc2l0eSBCcmVtZW4NCg0KTm9yZG1ldGFs
-bCBDb2xsZWdlIHwgTkItMjg4DQpNYWlsYm94IDQ2IHwgQ29sbGVnZSBSaW5nIDMNCjI4NzU5IEJy
-ZW1lbiB8IEdlcm1hbnkNCg=
-
-========== EMAIL ==========
-
 ==== sender: "Toma, Catalin Eugen" <c.toma@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
@@ -38637,37 +37521,6 @@ http://doodle.com/evyt86zsbn7v6zc8
 And I will get back to you.
 
 THANK YOUUUUU!
-
-
-========== EMAIL ==========
-
-==== sender: "Barabas, Razvan" <r.barabas@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Thu, 13 Mar 2014 20:34:21 +0000
-==== subject: [nordmetall-students] LOST/PROTESTING WALLET
-==== email_text: 
-VGFrZSAyLg0KDQpSYWlzaW5nIHRoZSBzdGFrZXMgLSB5b3UgY2FuIGhhdmUgbXkgbHVja3kgYnVj
-ayBhcyB3ZWxsIQ0KDQpSxIN6dmFuIEJhcmFiYciZDQoNCkdFTSBDbGFzcyBvZiAyMDE2IHwgSmFj
-b2JzIFVuaXZlcnNpdHkgQnJlbWVuDQoNCk5vcmRtZXRhbGwgQ29sbGVnZSB8IE5CLTI4OA0KTWFp
-bGJveCA0NiB8IENvbGxlZ2UgUmluZyAzDQoyODc1OSBCcmVtZW4gfCBHZXJtYW55DQpfX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fXw0KRnJvbTogQmFyYWJhcywgUmF6dmFuDQpTZW50OiBU
-aHVyc2RheSwgTWFyY2ggMTMsIDIwMTQgNDo0MiBQTQ0KVG86IG5vcmRtZXRhbGwtc3R1ZGVudHNA
-amFjb2JzLXVuaXZlcnNpdHkuZGU7IGtydXBwLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRl
-OyBjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBtZXJjYXRvci1zdHVk
-ZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZQ0KU3ViamVjdDogTE9TVC9QUk9URVNUSU5HIFdBTExF
-VA0KDQpNeSBkYXJrIGJyb3duIFdBTExFVCAoYWxzbywgbGVhdGhlci1pc2gpIGRlY2lkZWQgdG8g
-cHJvdGVzdCBhZ2FpbnN0IGl0IGJlaW5nIHNhdCBvbiBhbGwgZGF5IGFuZCBtYW5hZ2VkIHRvIGV2
-YWRlIG15IHBvc3Nlc3Npb24uIEluIG90aGVyIHdvcmRzLCB0aGUgaWRpb3Qgd3JpdGluZyB0aGlz
-IHNwYW0gbG9zdCBoaXMgd2FsbGV0IGFuZCB3b3VsZCByZWFsbHkgbXVjaCBhcHByZWNpYXRlIGdl
-dHRpbmcgaXQgYmFjay4NCg0KSXQgaXMgdmVyeSBpbXBvcnRhbnQgdGhhdCBJIGZpbmQgaXQsIGFz
-IEkgaGFkIG1vc3Qgb2YgbXkgSUQncyBhbmQgYSBzaGl0LXRvbiBvZiBvdGhlciBkb2N1bWVudHMg
-aW4gaXQuLi4gV2hvbWV2ZXIgaGFzIGZvdW5kIGl0IGFuZCByZXR1cm5zIGl0IHRvIG1lIHdpbGwg
-Z2V0IGEgcmV3YXJkIGFzIHdlbGw6IGFsbCB0aGUgbW9uZXRhcnkgdW5pdHMgSSBoYWQgaW4gaXQg
-KEVYQ0VQVCBteSBsdWNreSBkb2xsYXIpDQoNClRoYW5rIHlvdSENCg0KUsSDenZhbiBCYXJhYmHI
-mQ0KDQpHRU0gQ2xhc3Mgb2YgMjAxNiB8IEphY29icyBVbml2ZXJzaXR5IEJyZW1lbg0KDQpOb3Jk
-bWV0YWxsIENvbGxlZ2UgfCBOQi0yODgNCk1haWxib3ggNDYgfCBDb2xsZWdlIFJpbmcgMw0KMjg3
-NTkgQnJlbWVuIHwgR2VybWFueQ0K
 
 
 ========== EMAIL ==========
@@ -38816,34 +37669,6 @@ The deadline for application is 15 May 2014! If by this date you are still unsur
 Thank you for your cooperation and best wishes
 
 Bianca Hurlemann
-
-========== EMAIL ==========
-
-==== sender: "Barabas, Razvan" <r.barabas@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>
-==== date: Fri, 14 Mar 2014 12:43:55 +0000
-==== subject: [nordmetall-students] WALLET digging
-==== email_text: 
-U2FkbHksIG15IHdhbGxldCBoYXNuJ3QgbWFnaWNhbGx5IGFwcGVhcmVkIGluIHNvbWUgcmFuZG9t
-IGNvcm5lciBvZiBteSByb29tLg0KDQpObyB3b3JyaWVzLCBJJ3ZlIGdvdCBhIG5ldyBwcm9wb3Nh
-bDogaWYgeW91IGhhdmUgc29tZXRoaW5nIHRoYXQgbG9va3MgbGlrZSBhIFdBTExFVCAoYmlnLCBs
-ZWF0aGVyLWlzaCwgZGFyayBicm93bikgYW5kIGZpcnN0IHRoaW5nIHlvdSBzZWUgd2hlbiB5b3Ug
-b3BlbiBpdCBpcyBhIGNhbXB1cyBjYXJkIHdpdGggbXkgc2FkIGZhY2Ugb24gaXQgb3IgYSBSb21h
-bmlhbiBJRCB3aXRoIGFuIGV2ZW4gbW9yZSBwYXRoZXRpYyBmYWNlIG9uIGl0IGZvbGxvdyB0aGVz
-ZSBzdGVwczoNCg0KICAxLiAgRE9OJ1QgcHV0IGl0IGJhY2sgb24geW91ciBkZXNrIGFuZCBmb3Jn
-ZXQgYWJvdXQgaXQNCiAgMi4gIEdvIGluIHRoZSBtaWRkbGUgKG1vcmUgbGlrZSB0aGUgZGVhZCBj
-ZW50ZXIpIG9mIENhbXB1cyBHcmVlbg0KICAzLiAgVGFrZSA2OSBzdGVwcyBpbiBhIE5vcnRod2Vz
-dGVybiBkaXJlY3Rpb24gKFJlc2VhcmNoIDEpDQogIDQuICBEaWcgYSAxNSBjbSBkZWVwIGhvbGUN
-CiAgNS4gIEluc2VydCB3YWxsZXQNCiAgNi4gIEZpbGwgdXAgaG9sZSB3aXRoIGZvcm1lcmx5IGR1
-ZyBvdXQgZGlydA0KICA3LiAgU3RpY2sgYSBib3R0bGUsIGxpZC1maXJzdCBpbnRvIHRoZSBhYm92
-ZS1tZW50aW9uZWQgc3BvdA0KICA4LiAgR28gYWJvdXQgd2l0aCB5b3VyIGxpZmUNCg0KT1IganVz
-dCBnbyB0byB0aGUgc3R1ZGVudCBzZXJ2aWNlcy9wb3J0ZXJzIGFuZCBsZWF2ZSBpdCBhdCB0aGUg
-bG9zdCBhbmQgZm91bmQuDQoNCkNoZWVycywNClLEg3p2YW4gQmFyYWJhyJkNCg0KUC5TLiBUaGUg
-dGVybXMgb2YgdGhlIGZvcm1lciBlLW1haWxzIHN0aWxsIGFwcGx5IC0ga2VlcCB0aGUgbW9uZXkh
-DQoNCkdFTSBDbGFzcyBvZiAyMDE2IHwgSmFjb2JzIFVuaXZlcnNpdHkgQnJlbWVuDQoNCk5vcmRt
-ZXRhbGwgQ29sbGVnZSB8IE5CLTI4OA0KTWFpbGJveCA0NiB8IENvbGxlZ2UgUmluZyAzDQoyODc1
-OSBCcmVtZW4gfCBHZXJtYW55DQo
 
 ========== EMAIL ==========
 
@@ -39493,25 +38318,6 @@ And I will get back to you.
 
 THANK YOUUUUU!
 
-
-========== EMAIL ==========
-
-==== sender: "Scher, Benjamin Niklas" <b.scher@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Sat, 15 Mar 2014 19:47:32 +0000
-==== subject: [nordmetall-students] Bastille Ticket!!
-==== email_text: 
-R29vZCBFdmVuaW5nIGxvdmVseSBjb21tdW5pdHksDQoNCkxhc3QgTWludXRlOiAxIFRpY2tldCBm
-b3IgdGhlIEJhc3RpbGxlIENvbmNlcnQgdG9tb3Jyb3cgaW4gQnJlbWVuIGF0IDIwOjAwICEhISEh
-IQ0KDQpQcmljZTogMzUg4oKsIEZpcnN0IGNvbWUsIGZpcnN0IHNlcnZlLg0KDQpUaGUgdGlja2V0
-IGNhbiBiZSBwaWNrZWQgdXAgaW4gbXkgcm9vbSB0b21vcnJvdyBzdGFydGluZyBmcm9tIDEzOjAw
-DQoNCkJlc3RzLA0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fDQpCZW5qYW1pbiBOaWtsYXMgU2NoZXINCg0KR2xv
-YmFsIEVjb25vbWljcyBhbmQgTWFuYWdlbWVudCwgMjAxNA0KSmFjb2JzIFVuaXZlcnNpdHkgQnJl
-bWVuDQpDb2xsZWdlIFJpbmcgMywgTWFpbGJveCAjIDYxNSB8IDI4NzU5IEJyZW1lbiB8IEdlcm1h
-bnkNClBob25lOiArNDkgMTc1IDc3NDA3OTINCkVtYWlsOiBiLnNjaGVyQGphY29icy11bml2ZXJz
-aXR5LmRlDQoNCg=
 
 ========== EMAIL ==========
 
@@ -40734,29 +39540,17 @@ Dear Jacobs Community,
 
 Please follow the link in Confluence for the March Issue of our "Jacobs Post"
 
-https://teamwork.jacobs-university.de:8443/confluence/display/IC/Jacobs+Post
-
 We wish you happy reading.
-
 Kindest regards,
 Gabriela Meyer
-
-
-
 Gabriela Meyer M.A.
 PR Coordinator Communications & Media Relations
-
 Jacobs University Bremen gGmbH
 Campus Ring 1 | 28759 Bremen | Germany
 phone: +49 421 200 4455 | fax +49 421 200 4418
-g.meyer@jacobs-university.de<mailto:g.meyer@jacobs-university.de>
-http://www.jacobs-university.de<http://www.jacobs-university.de/>
-
 Commercial registry: Amtsgericht Bremen, HRB 18117
 President & CEO: Prof. Dr.-Ing. Katja Windt
 Chair Board of Governors: Prof. Dr. Karin Lochte
-
-
 
 ========== EMAIL ==========
 
@@ -41222,22 +40016,6 @@ Class of 2014
 TA Prof. Dr. Dr. Ress
 TA Dr. Odag
 
-
-========== EMAIL ==========
-
-==== sender: "Kuzmanovski, Stefan" <s.kuzmanovski@jacobs-university.de>
-==== email_list: "nordmetall-students@jacobs-university.de"
-	<nordmetall-students@jacobs-university.de>
-==== date: Wed, 19 Mar 2014 20:49:42 +0000
-==== subject: Re: [nordmetall-students] College Office open
-==== email_text: 
-Q09NRSBUTyBUSEUgQ09MTEVHRSBPRkZJQ0UgVE8gT1JERVIgWU9VUiBIT09ESUUhISEgWU9VIENB
-TiBBTFNPIFBBWSBJRiBZT1UgV0FOVCwgVEFOSkEgV0lMTCBHSVZFIFlPVSBBIFJFQ0VJUFQgTEFU
-RVIgT04uDQoNCk9uIE1hciAxNywgMjAxNCA3OjAxIFBNLCAiUnVwYXNpbmdoZSwgTWVuZWthIFJ1
-dmkiIDxtLnJ1cGFzaW5naGVAamFjb2JzLXVuaXZlcnNpdHkuZGU+IHdyb3RlOg0KDQoNCkRFQURM
-SU5FICBmb3Igb3JkZXJpbmcgdGhlIEhvb2RpZXMgaXMgdGhlIDI0dGggb2YgTWFyYyEgOkQNCg0K
-DQpMZXQncyByb2NrIHRoaXMgY2FtcHVzLA0KDQpOb3JkaWUgU3R5bGUhIDspDQoNCltjaWQ6aW1h
-Z2UwMDEuanBnQDAxQ0YzRjk3LjA0NTdBQ0EwXQ0KDQo
 
 ========== EMAIL ==========
 
@@ -42241,11 +41019,6 @@ come now if you have nothing better to do :)
 
 
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmNvbGxlZ2Vp
-aWktc3R1ZGVudHMgbWFpbGluZyBsaXN0DQpjb2xsZWdlaWlpLXN0dWRlbnRzQGxpc3RzLmphY29i
-cy11bml2ZXJzaXR5LmRlDQpodHRwOi8vbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1h
-bi9saXN0aW5mby9jb2xsZWdlaWlpLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -43121,11 +41894,6 @@ Anuna
 
 
 
-
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmtydXBwLXN0
-dWRlbnRzIG1haWxpbmcgbGlzdA0Ka3J1cHAtc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVuaXZlcnNp
-dHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xpc3RpbmZv
-L2tydXBwLXN0dWRlbnRz
 
 
 ========== EMAIL ==========
@@ -45693,95 +44461,6 @@ Emanuel The Pulse Expresser*
 
 ========== EMAIL ==========
 
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Mon, 31 Mar 2014 19:34:44 +0000
-==== subject: [ABCS] Pitch in.
-==== email_text: 
-4pa6RG8gc29tZXRoaW5nLg0KDQoNCkhlbGxvLA0KDQpJIHRoaW5rIHRob3NlIG9mIHVzIHdobyB3
-ZXJlIGF0IHRoZSBmYXNoaW9uIHNob3cgbm90aWNlZCB0aGF0IHRoZXJlIGFyZSBhIG1pbGxpb24g
-YW5kIG9uZSBBZnJpY2FuIG91dGZpdHMgb24gdGhpcyBjYW1wdXMuIEZhc2hpb24gc2hvdyBuZWVk
-cyB0aGVtIGFsbCEhISEhISEhIQ0KDQpJZiB5b3UgaGF2ZSBhbnkgb3V0Zml0cywgamV3ZWxyeSwg
-aGFpciB3cmFwL3R1cmJhbiBza2lsbHMgYW5kIHdoYXRldmVyIGVsc2UsIHdlIG5lZWQgdGhlbS4g
-SXQgZG9lc24ndCBtYXR0ZXIgaWYgeW91IHRoaW5rIHRoZXkgYXJlIHVnbHksIHdlJ2xsIHdvcmsg
-d2l0aCB0aGVtLiBDbGljayByZXBseSBhbmQgbGV0IG1lIGtub3cuDQoNClBvc3QgaW4gdGhpcyBm
-b3JtIHBsZWFzZTogbnVtYmVyIG9mIGNsb3RoaW5nIHBpZWNlcywgbnVtYmVyIG9mIGpld2Vscnkg
-cGllY2VzLCBkbyB5b3Ugd2FudCB0byBtb2RlbCB0aGVtLCBpZiBub3Qgd2hlbiBjYW4gSSBwaWNr
-IHRoZW0gdXA/DQoNCmUuZyBTdGVwaGFuaWU6IDQgY2xvdGhpbmcgcGllY2VzLCAyIGpld2Vscnkg
-cGllY2VzLCBubyBtb2RlbGxpbmcsIHBpY2sgdXAgb24gU3VuZGF5IDkgcG0NCg0KSWYgeW91IGRv
-bid0IGhhdmUgYW55dGhpbmcgYnV0IHdhbnQgZG8gbW9kZWwsIGp1c3Qgc2F5ICJJIHdvdWxkIGxp
-a2UgdG8gbW9kZWwiDQoNClRoZXJlIHdpbGwgYmUgYSBmYXNoaW9uIHNob3cgbWVldGluZyBuZXh0
-IHdlZWsgKHdpbGwgbGV0IHlvdSBrbm93IHRoZSBkZXRhaWxzKQ0KDQpUaGFua3MgaW4gYWR2YW5j
-ZS4NCg0KDQpCZXN0LA0KDQpTdGVwaGFuaWUNCg0KDQpCcmlnaXR0ZSBTdGVwaGFuaWUsIFRpbmRq
-b3UgTmFuYQ0KSW50ZXJuYXRpb25hbCBMb2dpc3RpY3MgTWFuYWdlbWVudCBhbmQgRW5naW5lZXJp
-bmcgKEJTYykNCkNsYXNzIG9mIDIwMTUNCkphY29icyBVbml2ZXJzaXR5IEJyZW1lbiwgR2VybWFu
-eQ0KDQpNYWlsYm94IG51bWJlciA2MTYsIENvbGxlZ2UgUmluZyAzDQoyODc1OSBCcmVtZW4sIEdl
-cm1hbnkNCkVtYWlsOiBzLnRpbmRqb3VuYW5hQGphY29icy11bml2ZXJzaXR5LmRlPG1haWx0bzpz
-LnRpbmRqb3VuYW5hQGphY29icy11bml2ZXJzaXR5LmRlPg0KUGhvbmU6ICs0OTQyMTIwMDYwOTgN
-Cg=
-
-========== EMAIL ==========
-
-==== sender: "Tebeka, Nchimunya Nelisa" <n.tebeka@jacobs-university.de>
-==== email_list: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>,
-	"club-abcs@lists.jacobs-university.de" <club-abcs@lists.jacobs-university.de>
-==== date: Mon, 31 Mar 2014 21:55:40 +0000
-==== subject: [ABCS] (no subject)
-==== email_text: 
-RGVhciBhbGwNCg0KVGhlIGlkZWEgZm9yIHRoaXMgeWVhcnMgZmFzaGlvbiBzaG93IHdpbGwgYmUg
-a2luZGEgZGlmZmVyZW50IGZyb20gdGhlIHVzdWFsIG9mIHdoYXQgeW91IGhhdmUgc2VlbiBiZWZv
-cmUuDQoNCkZpcnN0bHkgZmlyc3Qgb2YgYWxsIHRoYW5rIHlvdSB2ZXJ5IG11Y2ggZm9yIGFsbCB0
-aG9zZSB3aG8gaGF2ZSBhZ3JlZWQgdG8gbW9kZWwgSSBhbHJlYWR5IGhhdmUgeW91IG9uIG15IGxp
-c3QgYW5kIHdpbGwgZXhwZWN0IGEgbWFpbCBhYm91dCBsb2dpc3RpY3MgdG9tb3Jyb3cuDQoNCkhv
-d2V2ZXIgd2Ugd2lsbCBuZWVkIEEgTE9UIG9mIG1vZGVscyBzbyBwbGVhc2Ugc2lnbiB1cCENCg0K
-Tm90aGluZyBtdWNoIGlzIGludm9sdmVkIGp1c3QgYSBsaXR0bGUgYml0IG9mIGZ1biBmb3JtYXRp
-b24gYW5kIHdhbGtpbmcgYWJvdXQgdGhlIHN0YWdlLg0KDQpUaGFuayB5b3UNCg0KTmNoaW11bnlh
-IE5lbGlzYSBUZWJla2ENCkphY29icyBVbml2ZXJzaXR5IEJyZW1lbg0KQlNjIGluIEJpb2NoZW1p
-c3RyeSBhbmQgQ2VsbCBCaW9sb2d5LCAyMDE0DQpfX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X19fX19fXw0KTWVyY2F0b3IgQ29sbGVnZSBBMzMyDQpDb2xsZWdlIFJpbmcgNg0KTWFpbCBib3gg
-NjgxDQoyODc1OSwgQnJlbWVuDQoNCg0KDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-Xw0KRnJvbTogY2x1Yi1hYmNzIFtjbHViLWFiY3MtYm91bmNlc0BsaXN0cy5qYWNvYnMtdW5pdmVy
-c2l0eS5kZV0gb24gYmVoYWxmIG9mIFRpbmRqb3UgTmFuYSwgQnJpZ2l0dGUgU3RlcGhhbmllIFtz
-LnRpbmRqb3VuYW5hQGphY29icy11bml2ZXJzaXR5LmRlXQ0KU2VudDogTW9uZGF5LCBNYXJjaCAz
-MSwgMjAxNCA5OjM0IFBNDQpUbzogY2x1Yi1hYmNzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRl
-DQpTdWJqZWN0OiBbQUJDU10gUGl0Y2ggaW4uDQoNCg0K4pa6RG8gc29tZXRoaW5nLg0KDQoNCkhl
-bGxvLA0KDQpJIHRoaW5rIHRob3NlIG9mIHVzIHdobyB3ZXJlIGF0IHRoZSBmYXNoaW9uIHNob3cg
-bm90aWNlZCB0aGF0IHRoZXJlIGFyZSBhIG1pbGxpb24gYW5kIG9uZSBBZnJpY2FuIG91dGZpdHMg
-b24gdGhpcyBjYW1wdXMuIEZhc2hpb24gc2hvdyBuZWVkcyB0aGVtIGFsbCEhISEhISEhIQ0KDQpJ
-ZiB5b3UgaGF2ZSBhbnkgb3V0Zml0cywgamV3ZWxyeSwgaGFpciB3cmFwL3R1cmJhbiBza2lsbHMg
-YW5kIHdoYXRldmVyIGVsc2UsIHdlIG5lZWQgdGhlbS4gSXQgZG9lc24ndCBtYXR0ZXIgaWYgeW91
-IHRoaW5rIHRoZXkgYXJlIHVnbHksIHdlJ2xsIHdvcmsgd2l0aCB0aGVtLiBDbGljayByZXBseSBh
-bmQgbGV0IG1lIGtub3cuDQoNClBvc3QgaW4gdGhpcyBmb3JtIHBsZWFzZTogbnVtYmVyIG9mIGNs
-b3RoaW5nIHBpZWNlcywgbnVtYmVyIG9mIGpld2VscnkgcGllY2VzLCBkbyB5b3Ugd2FudCB0byBt
-b2RlbCB0aGVtLCBpZiBub3Qgd2hlbiBjYW4gSSBwaWNrIHRoZW0gdXA/DQoNCmUuZyBTdGVwaGFu
-aWU6IDQgY2xvdGhpbmcgcGllY2VzLCAyIGpld2VscnkgcGllY2VzLCBubyBtb2RlbGxpbmcsIHBp
-Y2sgdXAgb24gU3VuZGF5IDkgcG0NCg0KSWYgeW91IGRvbid0IGhhdmUgYW55dGhpbmcgYnV0IHdh
-bnQgZG8gbW9kZWwsIGp1c3Qgc2F5ICJJIHdvdWxkIGxpa2UgdG8gbW9kZWwiDQoNClRoZXJlIHdp
-bGwgYmUgYSBmYXNoaW9uIHNob3cgbWVldGluZyBuZXh0IHdlZWsgKHdpbGwgbGV0IHlvdSBrbm93
-IHRoZSBkZXRhaWxzKQ0KDQpUaGFua3MgaW4gYWR2YW5jZS4NCg0KDQpCZXN0LA0KDQpTdGVwaGFu
-aWUNCg0KDQpCcmlnaXR0ZSBTdGVwaGFuaWUsIFRpbmRqb3UgTmFuYQ0KSW50ZXJuYXRpb25hbCBM
-b2dpc3RpY3MgTWFuYWdlbWVudCBhbmQgRW5naW5lZXJpbmcgKEJTYykNCkNsYXNzIG9mIDIwMTUN
-CkphY29icyBVbml2ZXJzaXR5IEJyZW1lbiwgR2VybWFueQ0KDQpNYWlsYm94IG51bWJlciA2MTYs
-IENvbGxlZ2UgUmluZyAzDQoyODc1OSBCcmVtZW4sIEdlcm1hbnkNCkVtYWlsOiBzLnRpbmRqb3Vu
-YW5hQGphY29icy11bml2ZXJzaXR5LmRlPG1haWx0bzpzLnRpbmRqb3VuYW5hQGphY29icy11bml2
-ZXJzaXR5LmRlPg0KUGhvbmU6ICs0OTQyMTIwMDYwOTgNCg=
-
-========== EMAIL ==========
-
-==== sender: Daniel Lindenblatt <d.lindenblatt@jacobs-university.de>
-==== email_list: <krupp-students@jacobs-university.de>,
-	<mercator-students@jacobs-university.de>,	<collegeiii-students@jacobs-university.de>,	<nordmetall-students@jacobs-university.de>
-==== date: Tue, 1 Apr 2014 08:55:45 +0200
-==== subject: [nordmetall-students] Looking for Sensation and Perception group
-==== email_text: 
-SGV5LMKgCgpJIGFtIGEgQ1BOIG1ham9yIGxvb2tpbmcgZm9yIG9uZSBvciB0d28gcGVvcGxlIHRv
-IHRlYW0gdXAgd2l0aCBmb3IgdGhlIFNlbnNhdGlvbiBhbmQgUGVyY2VwdGlvbiBwcm9qZWN0LgpD
-b250YWN0IG1lIGlmIGludGVyZXN0ZWQuwqAKCkJlc3QsCkRhbmllbMKg
-
-
-========== EMAIL ==========
-
 ==== sender: "Bremer, Timo" <t.bremer@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -47493,47 +46172,6 @@ Nick
 
 ========== EMAIL ==========
 
-==== sender: "Taenzer, Marlou Swantje" <m.taenzer@jacobs-university.de>
-==== email_list: krupp-students <krupp-students@lists.jacobs-university.de>,
-	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>
-==== date: Fri, 11 Apr 2014 20:16:07 +0000
-==== subject: [nordmetall-students] Application for Student Advisor!
-==== email_text: 
-RGVhciBBbGwsDQoNCkZyYW5jb2lzZSBhbmQgSSBhcmUgdmVyeSBleGNpdGVkIHRvIGFubm91bmNl
-IHRoYXQgdGhlIHBvc2l0aW9ucyBmb3IgTy1XZWVrIDIwMTQgU3R1ZGVudCBBZHZpc29ycyBhcmUg
-bm93IG9wZW4hDQoNCkJlZm9yZSBhcHBseWluZyB3ZSBhc2sgdGhhdCB5b3UgcGxlYXNlIHJlYWQg
-dGhlIGRlc2NyaXB0aW9uIGFuZCByZXF1aXJlbWVudHMgZm9yIHN0dWRlbnQgYWR2aXNvcnMgY2Fy
-ZWZ1bGx5Lg0KDQpXaG8gYXJlIFN0dWRlbnQgQWR2aXNvcnM/DQpTdHVkZW50IEFkdmlzb3JzIHdp
-bGwgYmUgaW4gY2hhcmdlIG9mIGhlbHBpbmcgb3V0IGZyZXNobWVuIGludGVncmF0aW5nIGludG8g
-dGhlIGNvbW11bml0eSwgb24gYW5kIG9mZiBjYW1wdXMuIEl0IGlzIGEgbGFyZ2UgcmVzcG9uc2li
-aWxpdHksIGFzIHlvdSB3aWxsIHBsYXkgYSBiaWcgcm9sZSBpbiBkZXRlcm1pbmluZyB0aGUgZmly
-c3QgaW1wcmVzc2lvbnMgb2YgdGhlIGluY29taW5nIGNsYXNzISBBcyBhIHN0dWRlbnQgYWR2aXNv
-ciB5b3UgYXJlIG5vdCBvbmx5IGFza2VkIHRvIGhlbHAgd2l0aCB0aGUgb25nb2luZyBhY3Rpdml0
-aWVzLCBidXQgYWxzbyB0byBnaXZlIHRoZSBuZXcgc3R1ZGVudHMgc3VwcG9ydCBhbmQgaGVscCB0
-aGVtIGZlZWwgd2VsY29tZWQgYW5kIGdldCBpbnZvbHZlZC4NCg0KV2hhdCBhcmUgdGhlIHJlcXVp
-cmVtZW50cz8NCjEuIFBsZWFzZSBhcHBseSBpbiBwYWlycyAoaWYgeW91IGRvIG5vdCBoYXZlIGEg
-cGFydG5lciBidXQgd291bGQgc3RpbGwgbGlrZSB0byBwYXJ0aWNpcGF0ZSBwbGVhc2UgZW1haWwg
-dXMgZGlyZWN0bHkpLg0KMi4gRWFjaCBmcm9tIGEgZGlmZmVyZW50IHNleCBhbmQgbmF0aW9uYWxp
-dHkuDQozLiBEaWZmZXJlbnQgc2Nob29sczogVGhpcyBtZWFucyBvbmUgbXVzdCBiZSBTRVMgYW5k
-IHRoZSBvdGhlciBTSFNTLiBJTVMsIExvZ2lzdGljcyBhbmQgSUVTIGNhbiBwYXJ0bmVyIHdpdGgg
-YW55b25lIGZyb20gYW55IHNjaG9vbCBhcyBsb25nIGFzIGl0J3Mgbm90IHRoZSBzYW1lIG1ham9y
-Lg0KRXhhbXBsZXMgZm9yIHBhcnRuZXJzaGlwOiBHRU0gJiBCaW90ZWNoOyBQaHlzaWNzICYgSVBI
-OyBldGMuDQo0LiBQbGVhc2UgYmUga2luZGx5IHJlbWluZGVkIHRoYXQgeW91IHdpbGwgaGF2ZSB0
-byBiZSBiYWNrIG9uIGNhbXB1cyBvbiB0aGUgMjV0aCBvZiBBdWd1c3QNCjUuIEFsbCBjdXJyZW50
-IGZpcnN0IGFuZCBzZWNvbmQgeWVhciBzdHVkZW50cyBhcmUgZWxpZ2libGUgdG8gYXBwbHkuIEZv
-dW5kYXRpb24geWVhciBzdHVkZW50cyBwbGVhc2UgZW1haWwgdXMgZGlyZWN0bHkgaWYgeW91IGFy
-ZSBpbnRlcmVzdGVkIGluIHRoaXMgcG9zaXRpb24uDQoNCg0KUGxlYXNlIGNsaWNrIG9uIHRoZSBs
-aW5rIGJlbG93IGFuZCBmaWxsIGluIHRoZSBmb3JtIHRvZ2V0aGVyIHdpdGggeW91ciBwYXJ0bmVy
-LiBUaGUgZGVhZGxpbmUgZm9yIHRoaXMgYXBwbGljYXRpb24gaXMgQXByaWwgMjV0aCBhdCAxMTo1
-OXBtLg0KDQpodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9mb3Jtcy9kLzF4UVhuTEtxWTZocFhNVmRI
-V2pRU3poSlhwT01MUDhxb2JqUHFrMFBraUdFL3ZpZXdmb3JtDQoNCg0KDQpUaGFuayB5b3UgdmVy
-eSBtdWNoLCB3ZSBsb29rIGZvcndhcmQgdG8geW91ciBhcHBsaWNhdGlvbnMhDQoNCktpbmQgcmVn
-YXJkcywNCg0KRnJhbmNvaXNlIGFuZCBNYXJsb3UNCk8tV2VlayAyMDE0IE1haW4gT3JnYW5pemVy
-cw0K
-
-
-========== EMAIL ==========
-
 ==== sender: "Hoang, Duc Huu" <d.hoang@jacobs-university.de>
 ==== email_list: "mercator-students@jacobs-university.de"
 	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
@@ -47725,11 +46363,6 @@ does anyone have a lemon I could have tonight? I will give you some rice in exch
 
 Andreea
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm1lcmNhdG9y
-LXN0dWRlbnRzIG1haWxpbmcgbGlzdA0KbWVyY2F0b3Itc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVu
-aXZlcnNpdHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xp
-c3RpbmZvL21lcmNhdG9yLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -47785,24 +46418,6 @@ On the 17th of April I will be driving to N=FCrnberg with a stop to visit some f
 
 Best,
 Vasile
-
-========== EMAIL ==========
-
-==== sender: "Dittrich, Rico" <r.dittrich@jacobs-university.de>
-==== email_list: Krupp <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, Students	<nordmetall-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Sun, 13 Apr 2014 07:01:51 +0000
-==== subject: [nordmetall-students] BRIMUN Opening Ceremony
-==== email_text: 
-RGVhciBhbGwsDQoNClBsZWFzZSBmZWVsIGZyZWUgdG8gZHJvcCBieSBhdCBCUklNVU4ncyBPcGVu
-aW5nIENlcmVtb255IHdoaWNoIHN0YXJ0cyBhdCA5OjMwIEFNIGluIElDQyBDb25mZXJlbmNlIEhh
-bGwuDQoNCkRyLiBHdWlkbyBLbm9vcCB3aWxsIHRhbGsgYWJvdXQgR29vZCBHb3Zlcm5hbmNlIGFu
-ZCB3ZSB3aWxsIGhhdmUgYSBwZXJmb3JtYW5jZSBhcyB3ZWxsLg0KDQpCZXN0IHdpc2hlcywNClJp
-Y28gRGl0dHJpY2gNCg0KLS0tDQpSaWNvIERpdHRyaWNoDQpJbnRlcm5hdGlvbmFsIFBvbGl0aWNz
-IGFuZCBIaXN0b3J5IDIwMTUNClBob25lOiArNDkgNDIxIDIwMDUxNDE8dGVsOis0OSUyMDQyMSUy
-MDIwMDUxNDE+IHwgTW9iaWxlOiArNDkgMTc2IDI1MzE0MzMzPHRlbDorNDklMjAxNzYlMjAyNTMx
-NDMzMz4NCkFkZHJlc3M6IE1haWxib3ggNjI0LCBDb2xsZWdlIFJpbmcgNCwgRC0yODc1OSBCcmVt
-ZW48eC1hcHBsZS1kYXRhLWRldGVjdG9yczovLzIvMT4NCg=
 
 ========== EMAIL ==========
 
@@ -47867,32 +46482,6 @@ Well, I don't have much hope of meeting him since it's been a while i lost him :
 Thanks, 
 and Enjoy rest of spring break!
 Seung Gyu Im.
-
-
-========== EMAIL ==========
-
-==== sender: <s.wegmann@jacobs-university.de>
-==== email_list: "=?utf-8?Q?nordmetall-students@jacobs-university.de?="
-	<nordmetall-students@jacobs-university.de>,	"=?utf-8?Q?mercator-students@jacobs-university.de?="	<mercator-students@jacobs-university.de>,	"=?utf-8?Q?krupp-students@jacobs-university.de?="	<krupp-students@jacobs-university.de>,	"=?utf-8?Q?collegeiii-students@jacobs-university.de?="	<collegeiii-students@jacobs-university.de>
-==== date: Sun, 13 Apr 2014 12:22:04 +0000
-==== subject: [nordmetall-students] =?utf-8?q?Housing_Allocation=3A_Single_Room?=
-==== email_text: 
-RGVhciBBbGwsDQpUaGUgU2luZ2xlIFJvb20gUGhhc2UgaGFzIGJlZ3VuLg0KSWYgeW91IGRvIG5v
-dCBuZWVkIGEgc2luZ2xlIHJvb20sIHRoaXMgc3BhbSBkb2Vzbid0IGNvbmNlcm4geW91Lg0KSWYg
-eW91IHdhbnQgYSBzaW5nbGUgcm9vbSB0aGF0IGlzIE5PVCBsb2NhdGVkIGluIE5vcmRtZXRhbGws
-IGhlcmUgaXMgd2hhdCB5b3Ugd291bGQgbmVlZCB0byBkbzoNCg0KDQoxKSBIYXZlIGEgZ29vZCBy
-ZWFzb24gd2h5IHlvdSBuZWVkIGEgc2luZ2xlIHJvb20gKGUuZy4gbWVkaWNhbCBpc3N1ZXMpLg0K
-MikgU2VuZCB5b3VyIGNvbGxlZ2UgbWFzdGVycyBhbiBFLU1haWwgZXhwbGFpbmluZyB5b3VyIHNp
-dHVhdGlvbiBhbmQgYXR0YWNoaW5nIGEgY29uZmlybWF0aW9uIGxldHRlciBmcm9tIHlvdXIgZG9j
-dG9yLCBpZiBwb3NzaWJsZS4NCjMpIFdhaXQgdGlsbCB0aGUyNHRoIG9mIEFwcmlsIGZvciBhIHJl
-c3BvbnNlIGZyb20gdGhlIGNvbGxlZ2UgbWFzdGVycywgd2hldGhlciB0aGV5IGdyYW50IHlvdSBh
-IHNpbmdsZSByb29tLg0KDQoNCg0KSWYgeW91IGRpZCBub3QgZ2V0IGEgc2luZ2xlIHJvb20geW91
-IGFyZSBhZ2FpbiBwYXJ0IG9mIHRoZSByZWd1bGFyIHByb2Nlc3MgYW5kIGhhdmUgdG8gYXBwbHkg
-aW4gdGhlIHVwY29taW5nIHBoYXNlcy4gTm90ZTogVGhlIE5vcmRtZXRhbGwgU2luZ2xlIFJvb20g
-UGhhc2UgaXMgYSBzZXBlcmF0ZSBwaGFzZSB0aGF0IHdpbGwgb3BlbiBhZnRlciBTcHJpbmcgYnJl
-YWssIHdhdGNoIG91dCBmb3IgZnVydGhlciBlLW1haWxzLg0KDQoNCktpbmQgcmVnYXJkcywNCg0K
-DQoNCg0KDQpTaWVnZnJpZWQgV2VnbWFubg0KKG9uIGJlaGFsZiBvZiB0aGUgSG91c2luZyBhbmQg
-RmFjaWxpdGllcyBDb21taXR0ZWUp
 
 
 ========== EMAIL ==========
@@ -48449,60 +47038,6 @@ Thanks in advance! :)
 
 ========== EMAIL ==========
 
-==== sender: "Bhattarai, Aman" <am.bhattarai@jacobs-university.de>
-==== email_list: "Kvatashidze, Iakob" <i.kvatashidze@jacobs-university.de>, "Perera,
-
-==== date: Wed, 16 Apr 2014 12:58:33 +0000
-==== subject: Re: [nordmetall-students] SUMMER JOBS?
-==== email_text: 
-VG8gd2hvbSBpdCBtYXkgY29uY2VybiA7LSkNCg0KRHVyaW5nIHRoZSBTdW1tZXIgdGltZSwgdGhl
-cmUgYXJlIHNldmVyYWwgam9icyBvcGVuZWQgZXZlcnkgeWVhciB3aXRoaW4gSm9iIHBvb2wgYXMg
-d2VsbCBhcyBvbiBDYW1wdXNuZXQgSm9iIG9mZmVycyBzZWN0aW9uLiBJIGNhbm5vdCBndWFyYW50
-ZWUgdGhhdCB0aGVyZSB3aWxsIGJlIGpvYnMgb3BlbmVkIGZvciBzdXJlLCBidXQgaW4gZ2VuZXJh
-bCB0aGlzIGlzIGFsd2F5cyBhIGNhc2UuIFNvIGp1c3Qgd2FpdCBmb3Igam9iIG9wZW5pbmdzIG9u
-IENhbXB1cyBuZXQgd2hpY2ggYXJlIHNwZWNpZmljIGZvciBzdW1tZXIgcGVyaW9kLg0KDQpJdCBp
-cyB0cnVlIHRoYXQgdGhlcmUgd2lsbCBiZSBtYW55IGV4Y2x1c2l2ZSBqb2Igb2ZmZXJzIGF2YWls
-YWJsZSBmb3IgSm9iIFBvb2wgc3R1ZGVudHMuIFlvdSBjYW4gY29udGFjdCB0aGUgU3R1ZGVudCBG
-aW5hbmNpYWwgU2VydmljZXMgcmVnYXJkaW5nIHRoaXMuIFRoZXkgYXJlIHRoZSBvbmVzIHdobyBp
-bmNsdWRlIHlvdSBpbnRvIHRoZSBsaXN0IG9mIGpvYiBwb29sIGNhbmRpZGF0ZXMuDQoNCkFsc28g
-YSBwZXJzb25hbCBzdWdnZXN0aW9uLCBjb250YWN0IHlvdXIgUHJvZmVzc29ycyBpbiBwZXJzb24g
-dG8gYXNrIGlmIGFueSBzdW1tZXIgYXNzaXN0YW50IHBvc2l0aW9ucyB3b3VsZCBiZSBvcGVuZWQg
-d2l0aGluIHRoZWlyIHJlc2VhcmNoIGdyb3VwLiBJIGhhdmUgc2VlbiBtYW55IHN0dWRlbnRzIGRv
-aW5nIHJlc2VhcmNoIGFzc2lzdGFudCBqb2JzIGR1cmluZyBzdW1tZXIgb3ZlciBsYXN0IGZldyB5
-ZWFycy4NCg0KSG9wZSBpdCBoZWxwcyENCg0KQmVzdCByZWdhcmRzIC8gTWl0IGZyZXVuZGxpY2hl
-biBHcsO8w59lbiAvIOCknOCkryDgpLngpYvgpLjgpY0NCg0KQW1hbiBCaGF0dGFyYWkNCg0KSmFj
-b2JzIFVuaXZlcnNpdHkgQnJlbWVuIGdHbWJIDQpTY2hvb2wgb2YgRW5naW5lZXJpbmcgYW5kIFNj
-aWVuY2UNCkIuU2MuIEludGVybmF0aW9uYWwgTG9naXN0aWNzIEVuZ2luZWVyaW5nIGFuZCBNYW5h
-Z2VtZW50ICgyMDE0KQ0KQ29sbGVnZSBSaW5nIDcsIE1haWxib3ggbm8uIDA1OA0KMjg3NTkgQnJl
-bWVuDQoNClRlbDorNDkxNTI1NzQyNTAwMw0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X18NCkZyb206IGNvbGxlZ2VpaWktc3R1ZGVudHMgW2NvbGxlZ2VpaWktc3R1ZGVudHMtYm91bmNl
-c0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZV0gb24gYmVoYWxmIG9mIEt2YXRhc2hpZHplLCBJ
-YWtvYiBbaS5rdmF0YXNoaWR6ZUBqYWNvYnMtdW5pdmVyc2l0eS5kZV0NClNlbnQ6IFdlZG5lc2Rh
-eSwgQXByaWwgMTYsIDIwMTQgMjo0OCBQTQ0KVG86IFBlcmVyYSwgRGlsYW50aGEgQXJqdW5hIFN1
-cml5YWFyYWNoY2hpOyBtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsga3J1
-cHAtc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU7IG5vcmRtZXRhbGwtc3R1ZGVudHNAamFj
-b2JzLXVuaXZlcnNpdHkuZGU7IGNvbGxlZ2VpaWktc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHku
-ZGU7IGphY29icy1ncmFkdWF0ZXNAamFjb2JzLXVuaXZlcnNpdHkuZGUNClN1YmplY3Q6IFJlOiBb
-Y29sbGVnZWlpaS1zdHVkZW50c10gU1VNTUVSIEpPQlM/DQoNCkNvdWxkIHlvdSByZXNwb25kIHRv
-IGFsbD8NCg0KSSB0aGluayBtb3N0IG9mIHVzIHdpbGwgYmUgaW50ZXJlc3RlZCBpbiBpdCA6KQ0K
-DQoNClRoYW5rcyBpbiBhZHZhbmNlISA6KQ0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
-X18NCkZyb206IG5vcmRtZXRhbGwtc3R1ZGVudHMgW25vcmRtZXRhbGwtc3R1ZGVudHMtYm91bmNl
-c0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZV0gb24gYmVoYWxmIG9mIFBlcmVyYSwgRGlsYW50
-aGEgQXJqdW5hIFN1cml5YWFyYWNoY2hpIFtkLnBlcmVyYUBqYWNvYnMtdW5pdmVyc2l0eS5kZV0N
-ClNlbnQ6IFdlZG5lc2RheSwgQXByaWwgMTYsIDIwMTQgMjozOCBQTQ0KVG86IG1lcmNhdG9yLXN0
-dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlOyBrcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5pdmVy
-c2l0eS5kZTsgbm9yZG1ldGFsbC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgY29sbGVn
-ZWlpaS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTsgamFjb2JzLWdyYWR1YXRlc0BqYWNv
-YnMtdW5pdmVyc2l0eS5kZQ0KU3ViamVjdDogW25vcmRtZXRhbGwtc3R1ZGVudHNdIFNVTU1FUiBK
-T0JTPw0KDQpIZXkhDQoNCkRvZXMgYW55b25lIGtub3cgb2YgYW55IGpvYnMgb24gY2FtcHVzIHRo
-YXQgc3R1ZGVudHMgY2FuIGRvIG92ZXIgdGhlIHN1bW1lciAoY2F1c2UgaSdtIHN0cmFuZGVkIGlu
-IEdlcm1hbnkgYW5kIHdhbnQgdG8gYmUgcHJvZHVjdGl2ZSA6UCkuIEFueSByZWxhdGVkIGFkdmlj
-ZSBpcyBhbHNvIHdlbGNvbWUuIEFuZCBpZiB5b3Uga25vdyBob3cgdG8gYXBwbHkgdG8gdGhlIEpv
-YiBQb29sLCB0aGF0J2QgYmUgZ3JlYXQhDQoNCkNoZWVycyENCg0KRGlsYW50aGEgUGVyZXJhDQpC
-Q0NCIDIwMTYNCk1lcmNhdG9yIENvbGxlZ2UNCg=
-
-========== EMAIL ==========
-
 ==== sender: "Smidt, Hanna" <h.smidt@jacobs-university.de>
 ==== email_list: "collegeiii-students@jacobs-university.de"
 	<collegeiii-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>
@@ -48594,85 +47129,6 @@ Hey does anyone know of a place I could rent for the summer in Munich??
 Thank you in advance! 
 
 Maria soto :) 
-
-========== EMAIL ==========
-
-==== sender: "Pentrel, Naomi" <n.pentrel@jacobs-university.de>
-==== email_list: "Bhattarai, Aman" <am.bhattarai@jacobs-university.de>
-
-==== date: Wed, 16 Apr 2014 20:02:57 +0000
-==== subject: Re: [nordmetall-students] [collegeiii-students] SUMMER JOBS?
-==== email_text: 
-QWxsIGNvcnJlY3Qgd2hhdCBBbWFuIHNheXMuIEFwYXJ0IGZyb250IHRoYXQgeW91IGNhbiBhbHNv
-IGxvb2sgYXQgdGhlIGpvYiBwb3J0YWwgKGluIGNhc2UgeW91IHdvdWxkIGFsc28gYmUgaW50ZXJl
-c3RlZCBpbiBvbmxpbmUgam9icyBvciBqb2JzIGluIEJyZW1lbik6DQpodHRwczovL2phY29icy11
-bml2ZXJzaXR5LmRlL2NhcmVlci1zZXJ2aWNlcy9qb2Jwb3J0YWwgLg0KDQpDaGVlcnMsDQpOYW9t
-aSBQZW50cmVsDQoNClNjaG9vbCBPZiBFbmdpbmVlcmluZyBhbmQgU2NpZW5jZXMNCkNvbXB1dGVy
-IFNjaWVuY2UgQ2xhc3Mgb2YgMjAxNQ0KSmFjb2JzIFVuaXZlcnNpdHkgQnJlbWVuDQoNCk9uIEFw
-ciAxNiwgMjAxNCwgYXQgMjo1OCBQTSwgQmhhdHRhcmFpLCBBbWFuIDxhbS5iaGF0dGFyYWlAamFj
-b2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRvOmFtLmJoYXR0YXJhaUBqYWNvYnMtdW5pdmVyc2l0eS5k
-ZT4+IHdyb3RlOg0KDQpUbyB3aG9tIGl0IG1heSBjb25jZXJuIDstKQ0KDQpEdXJpbmcgdGhlIFN1
-bW1lciB0aW1lLCB0aGVyZSBhcmUgc2V2ZXJhbCBqb2JzIG9wZW5lZCBldmVyeSB5ZWFyIHdpdGhp
-biBKb2IgcG9vbCBhcyB3ZWxsIGFzIG9uIENhbXB1c25ldCBKb2Igb2ZmZXJzIHNlY3Rpb24uIEkg
-Y2Fubm90IGd1YXJhbnRlZSB0aGF0IHRoZXJlIHdpbGwgYmUgam9icyBvcGVuZWQgZm9yIHN1cmUs
-IGJ1dCBpbiBnZW5lcmFsIHRoaXMgaXMgYWx3YXlzIGEgY2FzZS4gU28ganVzdCB3YWl0IGZvciBq
-b2Igb3BlbmluZ3Mgb24gQ2FtcHVzIG5ldCB3aGljaCBhcmUgc3BlY2lmaWMgZm9yIHN1bW1lciBw
-ZXJpb2QuDQoNCkl0IGlzIHRydWUgdGhhdCB0aGVyZSB3aWxsIGJlIG1hbnkgZXhjbHVzaXZlIGpv
-YiBvZmZlcnMgYXZhaWxhYmxlIGZvciBKb2IgUG9vbCBzdHVkZW50cy4gWW91IGNhbiBjb250YWN0
-IHRoZSBTdHVkZW50IEZpbmFuY2lhbCBTZXJ2aWNlcyByZWdhcmRpbmcgdGhpcy4gVGhleSBhcmUg
-dGhlIG9uZXMgd2hvIGluY2x1ZGUgeW91IGludG8gdGhlIGxpc3Qgb2Ygam9iIHBvb2wgY2FuZGlk
-YXRlcy4NCg0KQWxzbyBhIHBlcnNvbmFsIHN1Z2dlc3Rpb24sIGNvbnRhY3QgeW91ciBQcm9mZXNz
-b3JzIGluIHBlcnNvbiB0byBhc2sgaWYgYW55IHN1bW1lciBhc3Npc3RhbnQgcG9zaXRpb25zIHdv
-dWxkIGJlIG9wZW5lZCB3aXRoaW4gdGhlaXIgcmVzZWFyY2ggZ3JvdXAuIEkgaGF2ZSBzZWVuIG1h
-bnkgc3R1ZGVudHMgZG9pbmcgcmVzZWFyY2ggYXNzaXN0YW50IGpvYnMgZHVyaW5nIHN1bW1lciBv
-dmVyIGxhc3QgZmV3IHllYXJzLg0KDQpIb3BlIGl0IGhlbHBzIQ0KDQpCZXN0IHJlZ2FyZHMgLyBN
-aXQgZnJldW5kbGljaGVuIEdyw7zDn2VuIC8g4KSc4KSvIOCkueCli+CkuOCljQ0KDQpBbWFuIEJo
-YXR0YXJhaQ0KDQpKYWNvYnMgVW5pdmVyc2l0eSBCcmVtZW4gZ0dtYkgNClNjaG9vbCBvZiBFbmdp
-bmVlcmluZyBhbmQgU2NpZW5jZQ0KQi5TYy4gSW50ZXJuYXRpb25hbCBMb2dpc3RpY3MgRW5naW5l
-ZXJpbmcgYW5kIE1hbmFnZW1lbnQgKDIwMTQpDQpDb2xsZWdlIFJpbmcgNywgTWFpbGJveCBuby4g
-MDU4DQoyODc1OSBCcmVtZW4NCg0KVGVsOis0OTE1MjU3NDI1MDAzDQpfX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fXw0KRnJvbTogY29sbGVnZWlpaS1zdHVkZW50cyBbY29sbGVnZWlpaS1z
-dHVkZW50cy1ib3VuY2VzQGxpc3RzLmphY29icy11bml2ZXJzaXR5LmRlPG1haWx0bzpjb2xsZWdl
-aWlpLXN0dWRlbnRzLWJvdW5jZXNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGU+XSBvbiBiZWhh
-bGYgb2YgS3ZhdGFzaGlkemUsIElha29iIFtpLmt2YXRhc2hpZHplQGphY29icy11bml2ZXJzaXR5
-LmRlPG1haWx0bzppLmt2YXRhc2hpZHplQGphY29icy11bml2ZXJzaXR5LmRlPl0NClNlbnQ6IFdl
-ZG5lc2RheSwgQXByaWwgMTYsIDIwMTQgMjo0OCBQTQ0KVG86IFBlcmVyYSwgRGlsYW50aGEgQXJq
-dW5hIFN1cml5YWFyYWNoY2hpOyBtZXJjYXRvci1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5k
-ZTxtYWlsdG86bWVyY2F0b3Itc3R1ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU+OyBrcnVwcC1z
-dHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTxtYWlsdG86a3J1cHAtc3R1ZGVudHNAamFjb2Jz
-LXVuaXZlcnNpdHkuZGU+OyBub3JkbWV0YWxsLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRl
-PG1haWx0bzpub3JkbWV0YWxsLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlPjsgY29sbGVn
-ZWlpaS1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZTxtYWlsdG86Y29sbGVnZWlpaS1zdHVk
-ZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZT47IGphY29icy1ncmFkdWF0ZXNAamFjb2JzLXVuaXZl
-cnNpdHkuZGU8bWFpbHRvOmphY29icy1ncmFkdWF0ZXNAamFjb2JzLXVuaXZlcnNpdHkuZGU+DQpT
-dWJqZWN0OiBSZTogW2NvbGxlZ2VpaWktc3R1ZGVudHNdIFNVTU1FUiBKT0JTPw0KDQpDb3VsZCB5
-b3UgcmVzcG9uZCB0byBhbGw/DQoNCkkgdGhpbmsgbW9zdCBvZiB1cyB3aWxsIGJlIGludGVyZXN0
-ZWQgaW4gaXQgOikNCg0KDQpUaGFua3MgaW4gYWR2YW5jZSEgOikNCl9fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fDQpGcm9tOiBub3JkbWV0YWxsLXN0dWRlbnRzIFtub3JkbWV0YWxsLXN0
-dWRlbnRzLWJvdW5jZXNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRvOm5vcmRtZXRh
-bGwtc3R1ZGVudHMtYm91bmNlc0BsaXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZT5dIG9uIGJlaGFs
-ZiBvZiBQZXJlcmEsIERpbGFudGhhIEFyanVuYSBTdXJpeWFhcmFjaGNoaSBbZC5wZXJlcmFAamFj
-b2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRvOmQucGVyZXJhQGphY29icy11bml2ZXJzaXR5LmRlPl0N
-ClNlbnQ6IFdlZG5lc2RheSwgQXByaWwgMTYsIDIwMTQgMjozOCBQTQ0KVG86IG1lcmNhdG9yLXN0
-dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlPG1haWx0bzptZXJjYXRvci1zdHVkZW50c0BqYWNv
-YnMtdW5pdmVyc2l0eS5kZT47IGtydXBwLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlPG1h
-aWx0bzprcnVwcC1zdHVkZW50c0BqYWNvYnMtdW5pdmVyc2l0eS5kZT47IG5vcmRtZXRhbGwtc3R1
-ZGVudHNAamFjb2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRvOm5vcmRtZXRhbGwtc3R1ZGVudHNAamFj
-b2JzLXVuaXZlcnNpdHkuZGU+OyBjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5
-LmRlPG1haWx0bzpjb2xsZWdlaWlpLXN0dWRlbnRzQGphY29icy11bml2ZXJzaXR5LmRlPjsgamFj
-b2JzLWdyYWR1YXRlc0BqYWNvYnMtdW5pdmVyc2l0eS5kZTxtYWlsdG86amFjb2JzLWdyYWR1YXRl
-c0BqYWNvYnMtdW5pdmVyc2l0eS5kZT4NClN1YmplY3Q6IFtub3JkbWV0YWxsLXN0dWRlbnRzXSBT
-VU1NRVIgSk9CUz8NCg0KSGV5IQ0KDQpEb2VzIGFueW9uZSBrbm93IG9mIGFueSBqb2JzIG9uIGNh
-bXB1cyB0aGF0IHN0dWRlbnRzIGNhbiBkbyBvdmVyIHRoZSBzdW1tZXIgKGNhdXNlIGknbSBzdHJh
-bmRlZCBpbiBHZXJtYW55IGFuZCB3YW50IHRvIGJlIHByb2R1Y3RpdmUgOlApLiBBbnkgcmVsYXRl
-ZCBhZHZpY2UgaXMgYWxzbyB3ZWxjb21lLiBBbmQgaWYgeW91IGtub3cgaG93IHRvIGFwcGx5IHRv
-IHRoZSBKb2IgUG9vbCwgdGhhdCdkIGJlIGdyZWF0IQ0KDQpDaGVlcnMhDQoNCkRpbGFudGhhIFBl
-cmVyYQ0KQkNDQiAyMDE2DQpNZXJjYXRvciBDb2xsZWdlDQpfX19fX19fX19fX19fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fX19fXw0KY29sbGVnZWlpaS1zdHVkZW50cyBtYWlsaW5nIGxp
-c3QNCmNvbGxlZ2VpaWktc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGU8bWFpbHRv
-OmNvbGxlZ2VpaWktc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGU+DQpodHRwOi8v
-bGlzdHMuamFjb2JzLXVuaXZlcnNpdHkuZGUvbWFpbG1hbi9saXN0aW5mby9jb2xsZWdlaWlpLXN0
-dWRlbnRzDQoNCg=
 
 ========== EMAIL ==========
 
@@ -48789,29 +47245,17 @@ Dear Jacobs Community,
 
 Please follow the link in Confluence for the April Issue of our "Jacobs Post".
 
-https://teamwork.jacobs-university.de:8443/confluence/display/IC/Jacobs+Post
-
 Have a great bank holiday weekend!
-
 Kindest regards,
 Gabriela Meyer
-
-
-
 Gabriela Meyer M.A.
 PR Coordinator Communications & Media Relations
-
 Jacobs University Bremen gGmbH
 Campus Ring 1 | 28759 Bremen | Germany
 phone: +49 421 200 4455 | fax +49 421 200 4418
-g.meyer@jacobs-university.de<mailto:g.meyer@jacobs-university.de>
-http://www.jacobs-university.de<http://www.jacobs-university.de/>
-
 Commercial registry: Amtsgericht Bremen, HRB 18117
 President & CEO: Prof. Dr.-Ing. Katja Windt
 Chair Board of Governors: Prof. Dr. Karin Lochte
-
-
 
 ========== EMAIL ==========
 
@@ -49344,24 +47788,6 @@ Agne & Beni
 
 ========== EMAIL ==========
 
-==== sender: "Dittrich, Rico" <r.dittrich@jacobs-university.de>
-==== email_list: Krupp <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>, Students	<nordmetall-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Tue, 22 Apr 2014 13:10:39 +0000
-==== subject: [nordmetall-students] Shoe boxes needed!
-==== email_text: 
-RGVhciBhbGwsDQoNCkEgZ3JvdXAgb2YgZnJpZW5kcyBhbmQgSSBhcmUgdXJnZW50bHkgbG9va2lu
-ZyBmb3IgZW1wdHkgc2hvZSBib3hlcyBmb3IgYW4gYXJ0IHByb2plY3QuIFBsZWFzZSBnZXQgaW4g
-dG91Y2ggd2l0aCBtZSBpZiB5b3UgaGF2ZSBhbnkuIFRoYW5rIHlvdSBpbiBhZHZhbmNlIGFuZCBz
-b3JyeSBmb3IgdGhlIHNwYW0hDQoNCkNoZWVycywNClJpY28NCg0KLS0tDQpSaWNvIERpdHRyaWNo
-DQpJbnRlcm5hdGlvbmFsIFBvbGl0aWNzIGFuZCBIaXN0b3J5IDIwMTUNClBob25lOiArNDkgNDIx
-IDIwMDUxNDE8dGVsOis0OSUyMDQyMSUyMDIwMDUxNDE+IHwgTW9iaWxlOiArNDkgMTc2IDI1MzE0
-MzMzPHRlbDorNDklMjAxNzYlMjAyNTMxNDMzMz4NCkFkZHJlc3M6IE1haWxib3ggNjI0LCBDb2xs
-ZWdlIFJpbmcgNCwgRC0yODc1OSBCcmVtZW48eC1hcHBsZS1kYXRhLWRldGVjdG9yczovLzIvMT4N
-Cg=
-
-========== EMAIL ==========
-
 ==== sender: "Zokirova, Nasiba Zokirovna" <n.zokirova@jacobs-university.de>
 ==== email_list: "nordmetall-students@jacobs-university.de"
 	<nordmetall-students@jacobs-university.de>,	"krupp-students@jacobs-university.de" <krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
@@ -49589,31 +48015,6 @@ e-mail:  i.gora@jacobs-university.de<mailto:i.gora@jacobs-university.de>
 ==== subject: [mercator-students] Get your ticket to graduation NOW!!
 ==== email_text: 
 why do you feel the need to tell everyone on campus that you are done with your thesis? i mean i understand some people need constant attention, but please have some consideration to fellow students who are still to submit
-
-========== EMAIL ==========
-
-==== sender: <s.wegmann@jacobs-university.de>
-==== email_list: "=?utf-8?Q?nordmetall-students@jacobs-university.de?="
-	<nordmetall-students@jacobs-university.de>,	"=?utf-8?Q?mercator-students@jacobs-university.de?="	<mercator-students@jacobs-university.de>,	"=?utf-8?Q?krupp-students@jacobs-university.de?="	<krupp-students@jacobs-university.de>,	"=?utf-8?Q?collegeiii-students@jacobs-university.de?="	<collegeiii-students@jacobs-university.de>
-==== date: Tue, 22 Apr 2014 20:47:38 +0000
-==== subject: [nordmetall-students] =?utf-8?q?IMPORTANT=3A_Single_room_Phase_fo?=
-==== email_text: 
-DQpSRU1JTkRFUiEhIQ0KDQpEZWFyIEFsbCwNClRoZSBTaW5nbGUgUm9vbSBQaGFzZSBoYXMgYmVn
-dW4uDQpJZiB5b3UgZG8gbm90IG5lZWQgYSBzaW5nbGUgcm9vbSwgdGhpcyBzcGFtIGRvZXNuJ3Qg
-Y29uY2VybiB5b3UuDQpJZiB5b3Ugd2FudCBhIHNpbmdsZSByb29tIHRoYXQgaXMgTk9UIGxvY2F0
-ZWQgaW4gTm9yZG1ldGFsbCwgaGVyZSBpcyB3aGF0IHlvdSB3b3VsZCBuZWVkIHRvIGRvOg0KDQoN
-Cg0KDQoxKSBIYXZlIGEgZ29vZCByZWFzb24gd2h5IHlvdSBuZWVkIGEgc2luZ2xlIHJvb20gKGUu
-Zy4gbWVkaWNhbCBpc3N1ZXMpLg0KMikgU2VuZCB5b3VyIGNvbGxlZ2UgbWFzdGVycyBhbiBFLU1h
-aWwgZXhwbGFpbmluZyB5b3VyIHNpdHVhdGlvbiBhbmQgYXR0YWNoaW5nIGEgY29uZmlybWF0aW9u
-IGxldHRlciBmcm9tIHlvdXIgZG9jdG9yLCBpZiBwb3NzaWJsZS4NCjMpIFdhaXQgdGlsbCB0aGUy
-NHRoIG9mIEFwcmlsIGZvciBhIHJlc3BvbnNlIGZyb20gdGhlIGNvbGxlZ2UgbWFzdGVycywgd2hl
-dGhlciB0aGV5IGdyYW50IHlvdSBhIHNpbmdsZSByb29tLg0KDQoNCg0KDQoNCklmIHlvdSBkaWQg
-bm90IGdldCBhIHNpbmdsZSByb29tIHlvdSBhcmUgYWdhaW4gcGFydCBvZiB0aGUgcmVndWxhciBw
-cm9jZXNzIGFuZCBoYXZlIHRvIGFwcGx5IGluIHRoZSB1cGNvbWluZyBwaGFzZXMuIE5vdGU6IFRo
-ZSBOb3JkbWV0YWxsIFNpbmdsZSBSb29tIFBoYXNlIGlzIGEgc2VwZXJhdGUgcGhhc2UgdGhhdCB3
-aWxsIHNvb24sIHdhdGNoIG91dCBmb3IgZnVydGhlciBlLW1haWxzLg0KDQoNCg0KDQpLaW5kIHJl
-Z2FyZHMsDQoNCg0KDQoNCg0KDQoNClNpZWdmcmllZCBXZWdtYW5uDQoob24gYmVoYWxmIG9mIHRo
-ZSBIb3VzaW5nIGFuZCBGYWNpbGl0aWVzIENvbW1pdHRlZSk
 
 ========== EMAIL ==========
 
@@ -50211,25 +48612,6 @@ Cheers,
 Agne & Beni
 5658 & 5659
 
-
-========== EMAIL ==========
-
-==== sender: "Dittrich, Rico" <r.dittrich@jacobs-university.de>
-==== email_list: Krupp <krupp-students@jacobs-university.de>, Mercator
-	<mercator-students@jacobs-university.de>, Students	<nordmetall-students@jacobs-university.de>, College III	<collegeiii-students@jacobs-university.de>,	"jacobs-graduates@jacobs-university.de"	<jacobs-graduates@jacobs-university.de>
-==== date: Thu, 24 Apr 2014 07:47:42 +0000
-==== subject: [nordmetall-students] CSC Office Hours
-==== email_text: 
-RGVhciBhbGwsDQoNCkkgd2lsbCBub3QgYmUgYWJsZSB0byBvZmZlciBvZmZpY2UgaG91cnMgYXQg
-dGhlIENhcmVlciBTZXJ2aWNlcyBDZW50ZXIgYmV0d2VlbiAxMDowMCBhbmQgMTI6MDAgaG91cnMg
-dG9kYXkuIFBsZWFzZSBnZXQgaW4gdG91Y2ggd2l0aCBtZSB0aHJvdWdoIHJlcGx5aW5nIHRvIHRo
-aXMgZW1haWwgaWYgeW91IG5lZWQgYW55IGhlbHAuDQoNClNvcnJ5IGZvciB0aGUgaW5jb252ZW5p
-ZW5jZSBjYXVzZWQuDQoNCktpbmQgcmVnYXJkcywNClJpY28gRGl0dHJpY2gNCg0KLS0tDQpSaWNv
-IERpdHRyaWNoDQpJbnRlcm5hdGlvbmFsIFBvbGl0aWNzIGFuZCBIaXN0b3J5IDIwMTUNClBob25l
-OiArNDkgNDIxIDIwMDUxNDE8dGVsOis0OSUyMDQyMSUyMDIwMDUxNDE+IHwgTW9iaWxlOiArNDkg
-MTc2IDI1MzE0MzMzPHRlbDorNDklMjAxNzYlMjAyNTMxNDMzMz4NCkFkZHJlc3M6IE1haWxib3gg
-NjI0LCBDb2xsZWdlIFJpbmcgNCwgRC0yODc1OSBCcmVtZW48eC1hcHBsZS1kYXRhLWRldGVjdG9y
-czovLzIvMT4NCg=
 
 ========== EMAIL ==========
 
@@ -50980,11 +49362,6 @@ Binding registration at Frauke Veldkamp (f.veldkamp@ngi.de<mailto:f.veldkamp@ngi
 
 The ArtClub on behalf of Frauke Veldkamp
 
-X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCm1lcmNhdG9y
-LXN0dWRlbnRzIG1haWxpbmcgbGlzdA0KbWVyY2F0b3Itc3R1ZGVudHNAbGlzdHMuamFjb2JzLXVu
-aXZlcnNpdHkuZGUNCmh0dHA6Ly9saXN0cy5qYWNvYnMtdW5pdmVyc2l0eS5kZS9tYWlsbWFuL2xp
-c3RpbmZvL21lcmNhdG9yLXN0dWRlbnRz
-
 
 ========== EMAIL ==========
 
@@ -51038,38 +49415,6 @@ If you still want to submit something to the Art Contest 'A New World' do it NOW
 Best,
 
 Gesa
-
-
-========== EMAIL ==========
-
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Fri, 25 Apr 2014 08:06:29 +0000
-==== subject: [ABCS] Next Rehearsal
-==== email_text: 
-R29vZCBtb3JuaW5nIGd1eXMuDQoNCkkgYXNrZWQgU0xTIGZvciBhbm90aGVyIHJlaGVhcnNhbC4g
-SXQgd2lsbCBlaXRoZXIgYmUgdG9uaWdodCBmcm9tIDEwcG0gb3IgdG9tb3Jyb3cgYmV0d2VlbiAx
-MWFtIGFuZCAxIHBtLiBJIHdpbGwgbWFrZSBzdXJlIHRvIGNvbmZpcm0gd2hlbiBJIHJlY2VpdmUg
-Y29uZmlybWF0aW9uLg0KDQpQbGVhc2UgYmUgcmVhZHkgdG8gYXR0ZW5kIGF0IGVpdGhlciB0aW1l
-LiAgVGhpcyB3aWxsIGJlIG91ciBsYXN0IHJlaGVhcnNhbC4NCg0KQmVzdCwNClN0ZXBoYW5pZQ0K
-DQoNClNlbnQgZnJvbSBTYW1zdW5nIE1vYmlsZQ0K
-
-
-========== EMAIL ==========
-
-==== sender: "Tindjou Nana, Brigitte Stephanie" <s.tindjounana@jacobs-university.de>
-==== email_list: "club-abcs@lists.jacobs-university.de"
-	<club-abcs@lists.jacobs-university.de>
-==== date: Fri, 25 Apr 2014 08:07:20 +0000
-==== subject: [ABCS] Next Rehearsal
-==== email_text: 
-R29vZCBtb3JuaW5nIGd1eXMuDQoNCkkgYXNrZWQgU0xTIGZvciBhbm90aGVyIHJlaGVhcnNhbC4g
-SXQgd2lsbCBlaXRoZXIgYmUgdG9uaWdodCBmcm9tIDEwcG0gb3IgdG9tb3Jyb3cgYmV0d2VlbiAx
-MWFtIGFuZCAxIHBtLiBJIHdpbGwgbWFrZSBzdXJlIHRvIGNvbmZpcm0gd2hlbiBJIHJlY2VpdmUg
-Y29uZmlybWF0aW9uLg0KDQpQbGVhc2UgYmUgcmVhZHkgdG8gYXR0ZW5kIGF0IGVpdGhlciB0aW1l
-LiAgVGhpcyB3aWxsIGJlIG91ciBsYXN0IHJlaGVhcnNhbC4NCg0KQmVzdCwNClN0ZXBoYW5pZQ0K
-DQoNClNlbnQgZnJvbSBTYW1zdW5nIE1vYmlsZQ0K
 
 
 ========== EMAIL ==========
@@ -52497,58 +50842,6 @@ Ana
 
 
 
-
-========== EMAIL ==========
-
-==== sender: "Ciobotaru, Georgiana" <g.ciobotaru@jacobs-university.de>
-==== email_list: "krupp-students@jacobs-university.de"
-	<krupp-students@jacobs-university.de>,	"mercator-students@jacobs-university.de"	<mercator-students@jacobs-university.de>,	"nordmetall-students@jacobs-university.de"	<nordmetall-students@jacobs-university.de>,	"collegeiii-students@jacobs-university.de"	<collegeiii-students@jacobs-university.de>
-==== date: Mon, 28 Apr 2014 18:22:47 +0000
-==== subject: [nordmetall-students] Business Summer School in Romania (10th-24th
-==== email_text: 
-DQoNCkJlbG93IHlvdSBjYW4gZmluZCBzb21lIGluZm9ybWF0aW9uIGFib3V0IGEgQnVzaW5lc3Mg
-U3VtbWVyIFNjaG9vbCBvcmdhbml6ZWQgaW4gQnVjaGFyZXN0LCBSb21hbmlhLiBDaGVjayB0aGUg
-d2Vic2l0ZSBmb3IgbW9yZSBkZXRhaWxzIQ0KDQoNCg0KUHMxOiBZb3UgY2FuIHN0aWxsIGFwcGx5
-IGZvciBhIGZ1bGwgc2Nob2xhcnNoaXAuDQpQczI6IExhc3QgeWVhcnMsIHN1bW1lciBzY2hvb2wg
-ZmVlcyBmb3IgR2VybWFuIHN0dWRlbnRzIHdlcmUgY292ZXJlZCBieSBEQUFELg0KUHMzOiBHZXQg
-dGhlIGNoYW5jZSB0byB2aXNpdCBSb21hbmlhIQ0KDQoNCkJlc3QsDQpHZW9yZ2kNCg0KDQpfX19f
-X19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KRnJvbTogQWRyaWFuYSBDZW51c2EgTm9oYWkg
-W2NubWFkcmlhbmFAZ21haWwuY29tXQ0KU2VudDogU3VuZGF5LCBBcHJpbCAxMywgMjAxNCA5OjIy
-IEFNDQpUbzogQ2lvYm90YXJ1LCBHZW9yZ2lhbmENClN1YmplY3Q6IMiYY29hbMSDIGRlIFZhcmEg
-QVNFDQoNClRoZSBCdWNoYXJlc3QgVW5pdmVyc2l0eSBvZiBFY29ub21pYyBTdHVkaWVzLCBUaGUg
-QUxVTU5JIEFTRSBBc3NvY2lhdGlvbiB0b2dldGhlciB3aXRoIHRoZSBCdWNoYXJlc3QgVW5pdmVy
-c2l0eSBvZiBFY29ub21pYyBTdHVkaWVzIChVU0FTRSksIHRocm91Z2ggdGhlIFN0dWRlbnRz4oCZ
-IFNlbmF0ZSwgaGF2aW5nIHRoZSBhY2FkZW1pYyBtZW50b3JzaGlwIG9mIHRoZSBGYWN1bHR5IG9m
-IEZpbmFuY2UsIEluc3VyYW5jZSwgQmFua2luZyBhbmQgU3RvY2sgRXhjaGFuZ2UgaW52aXRlcyB5
-b3UgdG8gdGhlIDEwdGggZWRpdGlvbiBvZiBCdWNoYXJlc3QgU3VtbWVyIFVuaXZlcnNpdHkhDQoN
-ClRoZSBzdGFydCBvZiB0aGUgYXBwbGljYXRpb24gcGVyaW9kIGZvciB0aGUgQnVjaGFyZXN0IFVu
-aXZlcnNpdHkgb2YgRWNvbm9taWMgU3R1ZGllcyBpbnRlcm5hdGlvbmFsIHN1bW1lciBzY2hvb2ws
-IEJ1Y2hhcmVzdCBTdW1tZXIgVW5pdmVyc2l0eSBpcyBoZXJlIQ0KVGhpcyB5ZWFyIHlvdSBoYXZl
-IDEwIG1vcmUgcmVhc29ucyB0byBwYXJ0aWNpcGF0ZSBhdCB0aGUgYWNhZGVtaWMgZXZlbnQgd2hp
-Y2ggd2lsbCBnYXRoZXIgdG9nZXRoZXIgNTUgcGFydGljaXBhbnRzICh5b3VyIGZ1dHVyZSBpbnRl
-cm5hdGlvbmFsIGZyaWVuZHMpIGZyb20gb3ZlciAyNyBjb3VudHJpZXMhIFNpbmNlIHdlIGtub3cg
-dGhhdCB0aGUgY291cnNlcyBoZWxkIGJ5IGludGVybmF0aW9uYWwgYWNrbm93bGVkZ2VkIHNwZWFr
-ZXJzIG1peCB3ZWxsIHdpdGggdGhlIGRpdmVyc2l0eSwgd2UgcHJlcGFyZWQgeW91IGEgc2VyaWVz
-IG9mIGZ1biwgY3VsdHVyYWwgYW5kIGNyZWF0aXZlIGFjdGl2aXRpZXMhDQpZb3Ugd2lsbCBoYXZl
-IHRoZSBvcHBvcnR1bml0eSB0byBtYWtlIG5ldyBmcmllbmRzLCB0byBmaW5kIG91dCBpbnRlcmVz
-dGluZyBmYWN0cyBhYm91dCB0aGUgd29ybGQgY3VsdHVyZXMsIHRvIGFkZCBpbiB5b3VyIHRlYW13
-b3JrIHNwaXJpdCBhbmQgZnVydGhlcm1vcmUsIHRvIGFjY3VtdWxhdGUgbmV3IGtub3dsZWRnZSBh
-Ym91dCB0aGUgZ2xvYmFsIGVjb25vbWljIHdvcmxkIGZyb20gdGhlIGJlc3Qgc3BlY2lhbGlzdHMg
-ZnJvbSB0aGUgZmllbGQsIGEgcGFydGljaXBhdGlvbiBkaXBsb21hIGFuZCA1IEVDVFMgKGludGVy
-bmF0aW9uYWwgdHJhbnNmZXJhYmxlIGNyZWRpdCBwb2ludHMpLg0KDQrigKIgICAgICAgICBXaGVu
-PyBCZXR3ZWVuIDEwdGggYW5kIDI0dGggb2YgQXVndXN0IDIwMTQ7DQoNCuKAoiAgICAgICAgIFdo
-ZXJlPyBJbiBCdWNoYXJlc3QgKHRoZSBNb3hhIENhbXB1cyksIGJ1dCBhbHNvIGFyb3VuZCB0aGUg
-Y291bnRyeSAod2Vla2VuZCBvdXRkb29yIHRyaXApOw0KDQrigKIgICAgICAgICBUaGUgdGhlbWUg
-b2YgdGhlIGVkaXRpb246IOKAnEZpbmFuY2lhbCBDaGFsbGVuZ2VzIGFuZCBPcHBvcnR1bml0aWVz
-IGluIGEgY29tcGV0aXRpdmUgZWNvbm9teeKAnTsNCg0K4oCiICAgICAgICAgV2hlcmUgY2FuIHlv
-dSBmaW5kIHVzPyBPbiBvdXIgd2Vic2l0ZSAod3d3LmJzdS5hc2Uucm88aHR0cDovL3d3dy5ic3Uu
-YXNlLnJvLz4pLCBvbiBGYWNlYm9vayAod3d3LmZiLmNvbS9CU1UuMjAxMzxodHRwOi8vd3d3LmZi
-LmNvbS9CU1UuMjAxMz4pIG9yIFR3aXR0ZXIgKEBCU1UyMDE0KS4NClAuUy4xOiBBbiBhbm5pdmVy
-c2FyeSBlZGl0aW9uIGltcGxpZXMgYWxzbyBtYW55IHN1cnByaXNlcyENClAuUy4yOiBTZWUgeW91
-IGluIHRoZSBzdW1tZXIhDQoNCi0tDQpBZHJpYW5hIE1hcmlhbmEgQ2VudciZxIMgTm9oYWkNCkNv
-bnNpbGl1bCBTdHVkZW7Im2lsb3IgRmFjdWx0xIPIm2lpIGRlIE1hbmFnZW1lbnQNCkFjYWRlbWlh
-IGRlIFN0dWRpaSBFY29ub21pY2UNClRlbDogICs0MCA3NDUgNDk0IDA4OA0KRS1NYWlsOiBjbm1h
-ZHJpYW5hQGdtYWlsLmNvbTxtYWlsdG86Y25tYWRyaWFuYUBnbWFpbC5jb20+DQoNCg=
 
 ========== EMAIL ==========
 

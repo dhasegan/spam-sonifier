@@ -2,12 +2,25 @@ import re
 import json
 
 def is_email_valid(context):
+    if not "jacobs-university.de" in context['email_list']:
+        return False
+
+    # Delete the encrypted code inside the email text
+    found_enc_block = False
+    in_enc_block = False
+    new_email_text = ""
+    for row in context['email_text'].split("\n"):
+        if not " " in row and (in_enc_block or len(row) == 76):
+            in_enc_block = True
+            found_enc_block = True
+        else:
+            new_email_text += row + "\n"
+    if found_enc_block:
+        context['email_text'] = new_email_text
+
     if not context['sender'] or not context['email_list'] or not context['date'] or \
         not context['subject'] or not context['email_text']:
             return False
-
-    if not "jacobs-university.de" in context['email_list']:
-        return False
 
     return True
 
@@ -17,13 +30,11 @@ def delete_footer(email):
 
 def parse_email(email_rows):
     email_details = {}
-
     # Find Sender
     sender = None
     for row in email_rows:
         if re.match('^From: ', row):
             sender = row.replace("From: ", "").replace("\n", "")
-
     # Find Email List
     email_list = ""
     start_counting = False
@@ -36,19 +47,16 @@ def parse_email(email_rows):
                 email_list = email_list + row.replace("\n", "")
             else:
                 start_counting = False
-
     # Get Subject
     subject = None
     for row in email_rows:
         if re.match('^Subject: ', row):
             subject = row.replace("Subject: ", "").replace("\n", "")
-
     # Get Date
     date = None
     for row in email_rows:
         if re.match('^Date: ', row):
             date = row.replace("Date: ", "").replace("\n", "")
-
     # Get text
     email_text = ""
     plain_text = False
@@ -68,7 +76,6 @@ def parse_email(email_rows):
                         pass
             else:
                 plain_text = False
-
     context = {
         'sender': sender, 
         'email_list': email_list,
@@ -76,7 +83,6 @@ def parse_email(email_rows):
         'date': date,
         'email_text': delete_footer(email_text)
     }
-
     if is_email_valid(context):
         return context
     return {}
@@ -84,7 +90,6 @@ def parse_email(email_rows):
 
 def parse_all_emails(emails_text_filename):
     emails_file = open(emails_text_filename)
-
     current_email = []
     emails = []
     for row in emails_file:
@@ -94,7 +99,6 @@ def parse_all_emails(emails_text_filename):
                 emails.append( parsed_email )
             current_email = []
         current_email.append(row)
-
     parsed_email = parse_email(current_email)
     if parsed_email:
         emails.append( parsed_email )
