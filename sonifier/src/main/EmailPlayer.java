@@ -96,9 +96,7 @@ public class EmailPlayer {
 //			System.out.println("instrument : " + email.getInstrument());
 //			System.out.println("volume : " + email.getVolume());
 //			System.out.println("time : " + email.getTime());
-			if (email.getTime() >= Email.start_time) {
-				addEmail(t, email, Email.delay);
-			}
+			addEmail(t, email, Email.delay);
 		}
 //		System.out.println("maxTime " + (maxTime * 8 + 100));
 	}
@@ -130,9 +128,7 @@ public class EmailPlayer {
 					semitones ++;
 				}
 				for (int k=0;k < 3; ++k) {
-					if (j + k * day_time / 3 >= Email.start_time) {
-						this.addDay(t, j + k * day_time / 3 , day_time / 3 - 1, pitch + i * 2 - semitones, instrument, volume );
-					}
+					this.addDay(t, j + k * day_time / 3 , day_time / 3 - 1, pitch + i * 2 - semitones, instrument, volume );
 				}
 				j += day_time;
 			}
