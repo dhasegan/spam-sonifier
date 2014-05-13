@@ -5,6 +5,7 @@ import main.Constants.Category;
 public class Email {
 	
 	static public int delay = 16;
+	static public long start_time = 144 * Email.delay * 70;
 
 	public Category category;
 	private int length;
@@ -98,6 +99,6 @@ public class Email {
 	}
 	
 	public long getTime() {
-		return Email.delay * timestamp;
+		return Email.delay * timestamp - Email.start_time;
 	}
 }
