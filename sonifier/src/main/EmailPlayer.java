@@ -118,7 +118,7 @@ public class EmailPlayer {
 		int instrument = 2;
 		int volume = 50;
 		
-		while( j < maxTime * Email.delay / 4 ) {
+		while( j < maxTime ) {
 			for (int i = 0; i < 7; ++i) {
 				int semitones = 0;
 				if (i > 2) {
