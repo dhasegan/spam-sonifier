@@ -9,13 +9,13 @@ public class EmailPlayer {
 	
 	private Sequence sequence = null;
 
-	public void addMessage(Track t, int status, int pitch, int volume, long tick) {
+	public void addMessage(Track t, int status, int channel, int pitch, int volume, long tick) {
 		ShortMessage mm = new ShortMessage();
 		try {
-			mm.setMessage(status, pitch,volume);
+			mm.setMessage(status, channel, pitch,volume);
 			MidiEvent me = new MidiEvent(mm,tick);
 			t.add(me);
-		} 
+		}
 		catch(Exception ex) {
 			ex.printStackTrace();
 		}
@@ -56,7 +56,8 @@ public class EmailPlayer {
 			t.add(me);
 	
 			//set poly on
-			addMessage(t,0xB0, 0x7F,0x00,(long)0);
+			addMessage(t,0xB0, 1, 0x7F,0x00,(long)0);
+			addMessage(t,0xB0, 2, 0x7F,0x00,(long)0);
 		} catch(Exception ex) {
 			ex.printStackTrace();
 		}
@@ -83,28 +84,79 @@ public class EmailPlayer {
 	
 	public void addEmail(Track t, Email email, long interval) {
 		// add the instrument
-		addMessage(t, 0xC0, email.getInstrument(), 0, (long) email.getTime());
+		addMessage(t, 0xC0, 1, email.getInstrument(), 0, (long) email.getTime());
 		// note on - middle C
-		addMessage(t, 0x90, email.getPitch(), email.getVolume(), (long) email.getTime());
+		addMessage(t, 0x90, 1, email.getPitch(), email.getVolume(), (long) email.getTime());
 		// note off - middle C - interval ticks later  ****
-		addMessage(t, 0x80, email.getPitch(),email.getVolume(), (long) email.getTime() + interval);
+		addMessage(t, 0x80, 1, email.getPitch(),email.getVolume(), (long) email.getTime() + interval);
 	}
 	
-	public void sonifyEmails(List<Email> emails) {
-		Track t = setMetaData();
+	public void sonifyEmails(Track t, List<Email> emails) {
 		for (Email email : emails) {
 //			System.out.println("instrument : " + email.getInstrument());
 //			System.out.println("volume : " + email.getVolume());
 //			System.out.println("time : " + email.getTime());
-			addEmail(t, email, 2);
+			addEmail(t, email, Email.delay);
 		}
-		finalize(this.sequence, t, emails.size());
+//		System.out.println("maxTime " + (maxTime * 8 + 100));
+	}
+
+	public void addDay(Track t, long start, long interval, int pitch, int instrument, int volume) {
+		// add the instrument
+		addMessage(t, 0xC0, 2, instrument, 0, (long) start);
+		// note on - middle C
+		addMessage(t, 0x90, 2, pitch, volume, (long) start);
+		// note off - middle C - interval ticks later  ****
+		addMessage(t, 0x80, 2, pitch, volume, (long) start + interval);
+	}
+	
+	public void sonifyBackground(Track t, long maxTime) {
+		int j = 0;
+		long day_time = 144 * Email.delay;
+		
+		int pitch = 48;
+		int instrument = 2;
+		int volume = 50;
+		
+		while( j < maxTime ) {
+			for (int i = 0; i < 7 && j < maxTime; ++i) {
+				int semitones = 0;
+				if (i > 2) {
+					semitones ++;
+				} 
+				if (i > 5) { 
+					semitones ++;
+				}
+				for (int k=0;k < 3; ++k) {
+					this.addDay(t, j + k * day_time / 3 , day_time / 3 - 1, pitch + i * 2 - semitones, instrument, volume );
+				}
+				j += day_time;
+			}
+		}
+	}
+	
+	public void sonifyEverything(List<Email> emails) {
+		Track t = setMetaData();
+
+		long maxTime = 0;
+		for (Email email : emails) {
+			long emailtime = email.getTime();
+			if (maxTime < emailtime) {
+				maxTime = emailtime;
+			}
+		}
+		
+		this.sonifyEmails(t, emails);
+		this.sonifyBackground(t, maxTime );
+		
+		finalize(this.sequence, t, maxTime + 1000 );
 	}
 	
 	public static void main(String args[]) {
-		List<Email> emails = Reader.readEmails("/home/caroline/spam-sonifier/times.csv");
+		List<Email> emails = Reader.readEmails("/home/daniel/sem6/letthedataspeak/dataset/times.csv");
 		System.out.println("sonifying " + emails.size() + " emails");
 		EmailPlayer player = new EmailPlayer();
-		player.sonifyEmails(emails);
+		
+		player.sonifyEverything(emails);
 	}
 }

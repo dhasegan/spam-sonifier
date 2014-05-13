@@ -3,8 +3,10 @@ package main;
 import main.Constants.Category;
 
 public class Email {
+	
+	static public int delay = 16;
 
-	private Category category;
+	public Category category;
 	private int length;
 	private long timestamp;
 	private int bin;
@@ -21,71 +23,81 @@ public class Email {
 		int instrument;
 		switch(category) {
 			case OFFICIAL:
-				instrument = 56;
+				// Trumpet
+				instrument = 57; 
 				break;
 			case LOST_AND_FOUND:
-				instrument = 21;
+				// French Horn
+				instrument = 61;
 				break;
 			case BUYING_AND_SELLING:
-				instrument = 0;
-				break;
-			case COLLEGE_ACTIVITIES:
-				instrument = 24;
-				break;
-			case USG_AND_PARLY:
-				instrument = 60;
-				break;
-			case PARTY:
+				// Steel Drums
 				instrument = 115;
 				break;
+			case COLLEGE_ACTIVITIES:
+				// Acoustic Guitar
+				instrument = 25;
+				break;
+			case USG_AND_PARLY:
+				// Trombone
+				instrument = 58;
+				break;
+			case PARTY:
+				// Piano
+				instrument = 1;
+				break;
 			case ACADEMICS:
-				instrument = 40;
+				// Bass
+				instrument = 35;
 				break;
 			default:
-				instrument = 37;
+				// Viola
+				instrument = 42;
 				break;
 		}
 
 		return instrument;
+//		return 61;
 	}	
 	
 	public int getPitch() {
 		int pitch;
 		switch(category) {
 		case OFFICIAL:
-			pitch = 70;
+			pitch = 72;
 			break;
 		case LOST_AND_FOUND:
-			pitch = 61;
+			pitch = 60;
 			break;
 		case BUYING_AND_SELLING:
-			pitch = 52;
+			pitch = 48;
 			break;
 		case COLLEGE_ACTIVITIES:
-			pitch = 43;
+			pitch = 65;
 			break;
 		case USG_AND_PARLY:
-			pitch = 34;
+			pitch = 64;
 			break;
 		case PARTY:
-			pitch = 88;
+			pitch = 62;
 			break;
 		case ACADEMICS:
-			pitch = 79;
+			pitch = 48;
 			break;
 		default:
-			pitch = 97;
+			pitch = 69;
 			break;
 		}
 		return pitch;
+//		return 62;
 	}
 	
 	public int getVolume() {
-		double v = ((127-70) * (1.0 * (length-1) / 7)) + 70;
+		double v = ((127-90) * (1.0 * (length-1) / 7)) + 90;
 		return (int) v;
 	}
 	
 	public long getTime() {
-		return 2*timestamp;
+		return Email.delay * timestamp;
 	}
 }

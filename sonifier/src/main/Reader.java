@@ -14,7 +14,7 @@ public class Reader {
 	public static Email createEmail(String email) {
 		String [] tokens = email.split(",");
 		Category category = null;
-		switch(Integer.parseInt(tokens[1])) {
+		switch(Integer.parseInt(tokens[0])) {
 			case 0:
 				category= Category.OFFICIAL;
 				break;
