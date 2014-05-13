@@ -62,7 +62,7 @@ for i in range(len(emails)):
   if int_date >= MIN_DATE:
     tc = time_coord(ALLDATES, int_date)
     ALLDATES[tc] = 1
-    output_file.write(str(category) + "," + str( length_email(email) ) + "," + str(tc) + "\n")
+    output_file.write(str(category) + "," + str( int(1.0 * length_email(email) / 100) + 1 ) + "," + str(tc) + "\n")
   # print date_object
 
 output_file.close()
